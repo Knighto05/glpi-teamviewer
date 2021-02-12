@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2020-12-14 10:23:48</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <ENABLED>1</ENABLED>
+      <GUID>{D68DDC3A-831F-4fae-9E44-DA132C1ACF46}</GUID>
+      <NAME>Windows Defender</NAME>
+      <UPTODATE>1</UPTODATE>
+    </ANTIVIRUS>
+    <BIOS>
+      <ASSETTAG>To Be Filled By O.E.M.</ASSETTAG>
+      <BDATE>04/22/2014</BDATE>
+      <BMANUFACTURER>American Megatrends Inc.</BMANUFACTURER>
+      <BVERSION>4.6.5</BVERSION>
+      <MMANUFACTURER>ECS</MMANUFACTURER>
+      <MMODEL>H81H3-MV</MMODEL>
+      <MSN>00000000</MSN>
+      <SKUNUMBER>To be filled by O.E.M.</SKUNUMBER>
+      <SMANUFACTURER>ECS</SMANUFACTURER>
+      <SMODEL>H81H3-MV</SMODEL>
+      <SSN>00000000</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c02</PRODUCTID>
+      <TYPE>Standard SATA AHCI Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family USB EHCI #2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family USB EHCI #2</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c2d</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series USB EHCI #2 - 8C2D</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family USB EHCI #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family USB EHCI #1</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c26</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series USB EHCI #1 - 8C26</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family USB xHCI</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family USB xHCI</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c31</PRODUCTID>
+      <TYPE>Contrôleur hôte Intel(R) USB 3.0 eXtensible - 1.0 (Microsoft)</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>G84 [GeForce 8600 GT]</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>G84 [GeForce 8600 GT]</NAME>
+      <PCISUBSYSTEMID>0000:0000</PCISUBSYSTEMID>
+      <PRODUCTID>0402</PRODUCTID>
+      <TYPE>NVIDIA GeForce 8600 GT </TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family MEI Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family MEI Controller #1</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c3a</PRODUCTID>
+      <TYPE>Intel(R) Management Engine Interface </TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>4th Gen Core Processor DRAM Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>4th Gen Core Processor DRAM Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>0c00</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</NAME>
+      <PCISUBSYSTEMID>1019:8116</PCISUBSYSTEMID>
+      <PRODUCTID>8168</PRODUCTID>
+      <TYPE>Realtek PCIe GBE Family Controller</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family PCI Express Root Port #4</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family PCI Express Root Port #4</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c16</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series PCI Express Root Port #4 - 8C16</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset High Definition Audio Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset High Definition Audio Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c20</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family PCI Express Root Port #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family PCI Express Root Port #1</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c10</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series PCI Express Root Port #1 - 8C10</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>C220 Series Chipset Family H81 Express LPC Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>C220 Series Chipset Family H81 Express LPC Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c5c</PRODUCTID>
+      <TYPE>Intel(R) H81 LPC Controller - 8C5C</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family SMBus Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family SMBus Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c22</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series SMBus Controller - 8C22</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Xeon E3-1200 v3/4th Gen Core Processor PCI Express x16 Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Xeon E3-1200 v3/4th Gen Core Processor PCI Express x16 Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>0c01</PRODUCTID>
+      <TYPE>Intel(R) Xeon(R) processor E3 - 1200 v3/4th Gen Core processor PCI Express x16 Controller - 0C01</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>2</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 60 Stepping 3</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>C3 06 03 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>60</MODEL>
+      <NAME>Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz</NAME>
+      <SPEED>3600</SPEED>
+      <STEPPING>3</STEPPING>
+      <THREAD>4</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Disque monté local</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>79693</FREE>
+      <LABEL/>
+      <LETTER>C:</LETTER>
+      <SERIAL>D6134BA3</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>269499</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN/>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disque amovible</DESCRIPTION>
+      <LETTER>D:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Removable Disk</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disque monté local</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>81225</FREE>
+      <LABEL>DOCS</LABEL>
+      <LETTER>F:</LETTER>
+      <SERIAL>28D26A31</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>206936</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>DOCS</VOLUMN>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Druide\Antidote 9\Application\Bin64\;C:\Program Files (x86)\Druide\Antidote 9\Application\Bin32\;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%ProgramFiles%\WindowsPowerShell\Modules;%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>4</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>Intel64 Family 6 Model 60 Stepping 3, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>3c03</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>CLASSPATH</KEY>
+      <VAL>.;C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>QTJAVA</KEY>
+      <VAL>C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x86-multi-thread-64int</ARCHNAME>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>513</CHECKSUM>
+      <DEFAULTGATEWAY>192.168.1.1</DEFAULTGATEWAY>
+      <DESCRIPTION>PC-ING-088C</DESCRIPTION>
+      <DNS>192.168.1.1</DNS>
+      <ETIME>18</ETIME>
+      <IPADDR>192.168.1.106</IPADDR>
+      <LASTLOGGEDUSER>user</LASTLOGGEDUSER>
+      <MEMORY>8126</MEMORY>
+      <NAME>PC-ING-088C</NAME>
+      <OSNAME>Microsoft Windows 10 Professionnel</OSNAME>
+      <OSVERSION>10.0.15063</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>3600</PROCESSORS>
+      <PROCESSORT>Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz</PROCESSORT>
+      <USERID>user</USERID>
+      <UUID>03000200-0400-0500-0006-000700080009</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINLANG>1036</WINLANG>
+      <WINOWNER>Utilisateur Windows</WINOWNER>
+      <WINPRODID>00331-10000-00001-AA958</WINPRODID>
+      <WINPRODKEY>W269N-WFGWX-YVC9B-4J6C9-T83GX</WINPRODKEY>
+      <WORKGROUP>WORKGROUP</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Étendu (101 ou 102 touches)</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <LAYOUT>0000040C</LAYOUT>
+      <NAME>Étendu (101 ou 102 touches)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>USB Input Device</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Standard system devices)</MANUFACTURER>
+      <NAME>USB Input Device</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administrateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-578</ID>
+      <NAME>Administrateurs Hyper-V</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Invités</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Lecteurs des journaux d’événements</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-579</ID>
+      <NAME>Opérateurs d'assistance de contrôle d'accès</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Opérateurs de chiffrement</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Opérateurs de configuration réseau</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Opérateurs de sauvegarde</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-581</ID>
+      <NAME>System Managed Accounts Group</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Utilisateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Utilisateurs avec pouvoir</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-580</ID>
+      <NAME>Utilisateurs de gestion à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Utilisateurs de l’Analyseur de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Utilisateurs du Bureau à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Utilisateurs du journal de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Utilisateurs du modèle COM distribué</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-228120445-203741180-2173299239-1001</ID>
+      <NAME>admin</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-228120445-203741180-2173299239-1002</ID>
+      <NAME>user</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>4096</CAPACITY>
+      <CAPTION>ChannelA-DIMM1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>0420</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>498E0000</SERIALNUMBER>
+      <SPEED>1600 MHz</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>4096</CAPACITY>
+      <CAPTION>ChannelB-DIMM1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>0420</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+      <SERIALNUMBER>6B640000</SERIALNUMBER>
+      <SPEED>1600 MHz</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MONITORS>
+      <BASE64>AP///////wAEcjMBEgwhFCoVAQNoKRd4yj2FplZKmiQSUFS/74BxT4FAgYCBwIEAAQEBAQEBZiFWqlEAHjBGjzMAmuYQAAAeAAAA/QA3TB9QDgAKICAgICAgAAAA/ABWMTkzSFFWCiAgICAgAAAA/wBMS1IwRDAyMzg1MDQKAPE=</BASE64>
+      <CAPTION>V193HQV</CAPTION>
+      <DESCRIPTION>42/2011</DESCRIPTION>
+      <MANUFACTURER>Acer Technologies</MANUFACTURER>
+      <SERIAL>LKR0D0238504</SERIAL>
+    </MONITORS>
+    <MONITORS>
+      <BASE64>AP///////wBJMwkH0gKWSRAYAQOAKRd46nK0plVInSUVUFSlSgABAQEBAQEBAQEBAQEBAQEBZiFWqlEAHjBGjzMAmuYQAAAeAAAA/ABQUk8xOTEzV0UtRAogAAAA/QA4Sx5QCQAKICAgICAgAAAA/wAzNTAxMTQxNjAwOTc4AGs=</BASE64>
+      <CAPTION>PRO1913WE-D</CAPTION>
+      <DESCRIPTION>16/2014</DESCRIPTION>
+      <MANUFACTURER>RIS</MANUFACTURER>
+      <SERIAL>3501141600978</SERIAL>
+    </MONITORS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCIe GBE Family Controller</DESCRIPTION>
+      <IPADDRESS>192.168.1.106</IPADDRESS>
+      <IPDHCP>192.168.1.1</IPDHCP>
+      <IPGATEWAY>192.168.1.1</IPGATEWAY>
+      <IPMASK>255.255.255.0</IPMASK>
+      <IPSUBNET>192.168.1.0</IPSUBNET>
+      <MACADDR>C0:3F:D5:A2:35:97</MACADDR>
+      <PCIID>10EC:8168:8116:1019</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_81161019&amp;REV_0C\4&amp;321E0E91&amp;0&amp;00E3</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2020-12-14 09:50:07</BOOT_TIME>
+      <DNS_DOMAIN>ingedata.mada</DNS_DOMAIN>
+      <FQDN>PC-ING-088C.ingedata.mada</FQDN>
+      <FULL_NAME>Microsoft Windows 10 Professionnel</FULL_NAME>
+      <INSTALL_DATE>2019-03-04 17:02:13</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>10.0.15063</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK/></OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Centronics Type-14</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2A</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-15 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2B</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9A1 - TPM HDR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9C1 - PCIE DOCKING CONN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2B3 - CPU FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J6C2 - EXT HDMI</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J3C1 - GMCH FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J1D1 - ITP</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E2 - MDC INTPSR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E4 - MDC INTPSR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E3 - LPC HOT DOCKING</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E1 - SCAN MATRIX</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9G1 - LPC SIDE BAND</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J8F1 - UNIFIED</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J6F1 - LVDS</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2F1 - LAI FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2G1 - GFX VID</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J1G6 - AC JACK</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Port de communication (COM1)</CAPTION>
+      <DESCRIPTION>Port de communication</DESCRIPTION>
+      <NAME>Port de communication (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A1</CAPTION>
+      <DESCRIPTION>J2A1</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>Mini-Centronics Type-14</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2A</CAPTION>
+      <DESCRIPTION>J2A2A</DESCRIPTION>
+      <NAME>J2A2A</NAME>
+      <TYPE>DB-9, Male</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2B</CAPTION>
+      <DESCRIPTION>J2A2B</DESCRIPTION>
+      <NAME>J2A2B</NAME>
+      <TYPE>DB-15, Female</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9A1 - TPM HDR</CAPTION>
+      <DESCRIPTION>J9A1 - TPM HDR</DESCRIPTION>
+      <NAME>J9A1 - TPM HDR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9C1 - PCIE DOCKING CONN</CAPTION>
+      <DESCRIPTION>J9C1 - PCIE DOCKING CONN</DESCRIPTION>
+      <NAME>J9C1 - PCIE DOCKING CONN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2B3 - CPU FAN</CAPTION>
+      <DESCRIPTION>J2B3 - CPU FAN</DESCRIPTION>
+      <NAME>J2B3 - CPU FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6C2 - EXT HDMI</CAPTION>
+      <DESCRIPTION>J6C2 - EXT HDMI</DESCRIPTION>
+      <NAME>J6C2 - EXT HDMI</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3C1 - GMCH FAN</CAPTION>
+      <DESCRIPTION>J3C1 - GMCH FAN</DESCRIPTION>
+      <NAME>J3C1 - GMCH FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1D1 - ITP</CAPTION>
+      <DESCRIPTION>J1D1 - ITP</DESCRIPTION>
+      <NAME>J1D1 - ITP</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E2 - MDC INTPSR</CAPTION>
+      <DESCRIPTION>J9E2 - MDC INTPSR</DESCRIPTION>
+      <NAME>J9E2 - MDC INTPSR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E4 - MDC INTPSR</CAPTION>
+      <DESCRIPTION>J9E4 - MDC INTPSR</DESCRIPTION>
+      <NAME>J9E4 - MDC INTPSR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E3 - LPC HOT DOCKING</CAPTION>
+      <DESCRIPTION>J9E3 - LPC HOT DOCKING</DESCRIPTION>
+      <NAME>J9E3 - LPC HOT DOCKING</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E1 - SCAN MATRIX</CAPTION>
+      <DESCRIPTION>J9E1 - SCAN MATRIX</DESCRIPTION>
+      <NAME>J9E1 - SCAN MATRIX</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9G1 - LPC SIDE BAND</CAPTION>
+      <DESCRIPTION>J9G1 - LPC SIDE BAND</DESCRIPTION>
+      <NAME>J9G1 - LPC SIDE BAND</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J8F1 - UNIFIED</CAPTION>
+      <DESCRIPTION>J8F1 - UNIFIED</DESCRIPTION>
+      <NAME>J8F1 - UNIFIED</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6F1 - LVDS</CAPTION>
+      <DESCRIPTION>J6F1 - LVDS</DESCRIPTION>
+      <NAME>J6F1 - LVDS</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2F1 - LAI FAN</CAPTION>
+      <DESCRIPTION>J2F1 - LAI FAN</DESCRIPTION>
+      <NAME>J2F1 - LAI FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2G1 - GFX VID</CAPTION>
+      <DESCRIPTION>J2G1 - GFX VID</DESCRIPTION>
+      <NAME>J2G1 - GFX VID</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1G6 - AC JACK</CAPTION>
+      <DESCRIPTION>J1G6 - AC JACK</DESCRIPTION>
+      <NAME>J1G6 - AC JACK</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Snagit 11 Printer</DRIVER>
+      <NAME>Snagit 11</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>C:\ProgramData\TechSmith\Snagit 11\PrinterPortFile</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Send to Microsoft OneNote 16 Driver</DRIVER>
+      <NAME>OneNote (Desktop)</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>nul:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft XPS Document Writer v4</DRIVER>
+      <NAME>Microsoft XPS Document Writer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Print To PDF</DRIVER>
+      <NAME>Microsoft Print to PDF</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Foxit Reader PDF Printer Driver</DRIVER>
+      <NAME>Foxit Reader PDF Printer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>FOXIT_Reader:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Shared Fax Driver</DRIVER>
+      <NAME>Fax</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>SHRFAX:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express x16</DESCRIPTION>
+      <DESIGNATION>0</DESIGNATION>
+      <NAME>J6B2</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express x1</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>J6B1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>J6D1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>J7B1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J6B2</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J6B1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J6D1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J7B1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Firefox 79.0 (x64 fr)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Mozilla Firefox 79.0 (x64 fr)</GUID>
+      <HELPLINK>https://support.mozilla.org</HELPLINK>
+      <NAME>Mozilla Firefox 79.0 (x64 fr)</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Mozilla Firefox\uninstall\helper.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.mozilla.org</URL_INFO_ABOUT>
+      <VERSION>79.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Maintenance Service</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>MozillaMaintenanceService</GUID>
+      <NAME>Mozilla Maintenance Service</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Mozilla Maintenance Service\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>65.0.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Notepad++</GUID>
+      <NAME>Notepad++ (64-bit x64)</NAME>
+      <PUBLISHER>Notepad++ Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Notepad++\uninstall.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://notepad-plus-plus.org/</URL_INFO_ABOUT>
+      <VERSION>7.5.4</VERSION>
+      <VERSION_MAJOR>7</VERSION_MAJOR>
+      <VERSION_MINOR>54</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>ProPlusRetail - fr-fr</GUID>
+      <NAME>Microsoft Office Professionnel Plus 2016 - fr-fr</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=ProPlusRetail.16_fr-fr_x-none culture=fr-fr version.16=16.0</UNINSTALL_STRING>
+      <VERSION>16.0.13426.20308</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>VLC media player</GUID>
+      <NAME>VLC media player</NAME>
+      <PUBLISHER>VideoLAN</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\VideoLAN\VLC\uninstall.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.videolan.org/</URL_INFO_ABOUT>
+      <VERSION>2.2.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <NAME>WinRAR 5.21 beta 1 (64-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>5.21.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1E9FC118-651D-4934-97BE-E53CAE5C7D45}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC80_MFCLOC_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{1E9FC118-651D-4934-97BE-E53CAE5C7D45}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>80.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F64180101F0}</GUID>
+      <HELPLINK>http://java.com/help</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Java 8 Update 101 (64-bit)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F64180101F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.1010.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2FC06E3D-79B9-4078-91F0-436A3389A2E1}_is1</GUID>
+      <HELPLINK>https://www.solarwindsmsp.com</HELPLINK>
+      <INSTALLDATE>08/05/2020</INSTALLDATE>
+      <NAME>Advanced Monitoring Agent Web Protection</NAME>
+      <PUBLISHER>SolarWinds MSP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Advanced Monitoring Agent Web Protection\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.solarwindsmsp.com</URL_INFO_ABOUT>
+      <VERSION>5.24.0.172</VERSION>
+      <VERSION_MAJOR>5</VERSION_MAJOR>
+      <VERSION_MINOR>24</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4569AD91-47F4-4D9E-8FC9-717EC32D7AE1}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC80_CRT_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{4569AD91-47F4-4D9E-8FC9-717EC32D7AE1}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{55398EAC-F58E-4F19-B553-BDF8B9EFD839}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Intel(R) Chipset Device Software</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{55398EAC-F58E-4F19-B553-BDF8B9EFD839}</UNINSTALL_STRING>
+      <VERSION>10.1.1.9</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{5F50F4F3-A8E2-44E3-A111-6CD08C8A6E75}</GUID>
+      <INSTALLDATE>10/09/2020</INSTALLDATE>
+      <NAME>BlueJeans</NAME>
+      <PUBLISHER>BlueJeans Network, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{5F50F4F3-A8E2-44E3-A111-6CD08C8A6E75}</UNINSTALL_STRING>
+      <VERSION>2.23.193</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{757AB286-E401-475F-B9F6-3FF1138DC472}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>psqlODBC_x64</NAME>
+      <PUBLISHER>PostgreSQL Global Development Group</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{757AB286-E401-475F-B9F6-3FF1138DC472}</UNINSTALL_STRING>
+      <VERSION>09.06.0410</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8557397C-A42D-486F-97B3-A2CBC2372593}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC90_ATL_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{8557397C-A42D-486F-97B3-A2CBC2372593}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8B29D47F-92E2-4C20-9EE0-F710991F5D7C}_is1</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>KMSpico</NAME>
+      <UNINSTALL_STRING>"C:\Program Files\KMSpico\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-008F-0000-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>07/12/2020</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Licensing Component</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{90160000-008F-0000-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13426.20308</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-00DD-0000-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>07/12/2020</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Extensibility Component 64-bit Registration</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90160000-00DD-0000-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13426.20294</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90BF0360-A1DB-4599-A643-95AB90A52C1E}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC90_MFCLOC_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{90BF0360-A1DB-4599-A643-95AB90A52C1E}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{925D058B-564A-443A-B4B2-7E90C6432E55}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC80_ATL_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{925D058B-564A-443A-B4B2-7E90C6432E55}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{929FBD26-9020-399B-9A7A-751D61F0B942}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{929FBD26-9020-399B-9A7A-751D61F0B942}</UNINSTALL_STRING>
+      <VERSION>12.0.21005</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{92A3CA0D-55CD-4C5D-BA95-5C2600C20F26}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC90_CRT_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{92A3CA0D-55CD-4C5D-BA95-5C2600C20F26}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A472B9E4-0AFF-4F7B-B25D-F64F8E928AAB}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC90_MFC_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{A472B9E4-0AFF-4F7B-B25D-F64F8E928AAB}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}</UNINSTALL_STRING>
+      <VERSION>12.0.21005</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{ADC609D4-EC41-4E9D-851E-91EC132BCFAD}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(a)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{ADC609D4-EC41-4E9D-851E-91EC132BCFAD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.3DVision</GUID>
+      <INSTALLDATE>13/03/2019</INSTALLDATE>
+      <NAME>NVIDIA Pilote 3D Vision 342.01</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Windows\SysWOW64\RunDll32.EXE" "C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL",UninstallPackage Display.3DVision</UNINSTALL_STRING>
+      <VERSION>342.01</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.ControlPanel</GUID>
+      <INSTALLDATE>13/03/2019</INSTALLDATE>
+      <NAME>Panneau de configuration NVIDIA 342.01</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <VERSION>342.01</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver</GUID>
+      <INSTALLDATE>13/03/2019</INSTALLDATE>
+      <NAME>NVIDIA Pilote graphique 342.01</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Windows\SysWOW64\RunDll32.EXE" "C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL",UninstallPackage Display.Driver</UNINSTALL_STRING>
+      <VERSION>342.01</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.PhysX</GUID>
+      <INSTALLDATE>13/03/2019</INSTALLDATE>
+      <NAME>NVIDIA Logiciel système PhysX 9.13.1220</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Windows\SysWOW64\RunDll32.EXE" "C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL",UninstallPackage Display.PhysX</UNINSTALL_STRING>
+      <VERSION>9.13.1220</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_installer</GUID>
+      <INSTALLDATE>13/03/2019</INSTALLDATE>
+      <NAME>NVIDIA Install Application</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <VERSION>2.1002.197.1706</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{C8C1BAD5-54E6-4146-AD07-3A8AD36569C3}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC80_MFC_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{C8C1BAD5-54E6-4146-AD07-3A8AD36569C3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Installs paint.net</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E637E0EF-6EB3-44C4-97B8-6F9EA444D649}</GUID>
+      <HELPLINK>http://www.getpaint.net</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>paint.net</NAME>
+      <PUBLISHER>dotPDN LLC</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{E637E0EF-6EB3-44C4-97B8-6F9EA444D649}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.dotPDN.com</URL_INFO_ABOUT>
+      <VERSION>4.1.5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F88FE7C0-2B64-405B-9197-25F8BE135460}_is1</GUID>
+      <HELPLINK>http://www.solarwinds.com/</HELPLINK>
+      <INSTALLDATE>23/10/2020</INSTALLDATE>
+      <NAME>Advanced Monitoring Agent Network Management</NAME>
+      <PUBLISHER>Solarwinds Worldwide LLC</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Advanced Monitoring Agent Network Management\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.solarwinds.com/</URL_INFO_ABOUT>
+      <VERSION>41.7.0.27</VERSION>
+      <VERSION_MAJOR>41</VERSION_MAJOR>
+      <VERSION_MINOR>7</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.0.15063.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Shockwave Player</GUID>
+      <HELPLINK>http://www.adobe.com/support/shockwave</HELPLINK>
+      <NAME>Adobe Shockwave Player 12.2</NAME>
+      <PUBLISHER>Adobe Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Windows\SysWOW64\Adobe\Shockwave 12\uninstaller.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.2.0.162</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Advanced Monitoring Agent_is1</GUID>
+      <INSTALLDATE>28/03/2020</INSTALLDATE>
+      <NAME>Advanced Monitoring Agent</NAME>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Advanced Monitoring Agent\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FastStone Capture</GUID>
+      <NAME>FastStone Capture 7.6</NAME>
+      <PUBLISHER>FastStone Soft</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\FastStone Capture\uninst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.faststone.org</URL_INFO_ABOUT>
+      <VERSION>7.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Foxit Reader_is1</GUID>
+      <HELPLINK>http://www.foxitsoftware.com/support/</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Foxit Reader</NAME>
+      <PUBLISHER>Foxit Software Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Foxit Software\Foxit Reader\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.foxitsoftware.com/</URL_INFO_ABOUT>
+      <VERSION>9.3.0.10826</VERSION>
+      <VERSION_MAJOR>9</VERSION_MAJOR>
+      <VERSION_MINOR>3</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <NAME>FusionInventory Agent 2.3.17 (x86 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.17</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Google Chrome</GUID>
+      <INSTALLDATE>08/12/2020</INSTALLDATE>
+      <NAME>Google Chrome</NAME>
+      <PUBLISHER>Google LLC</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.88\Installer\setup.exe" --uninstall --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>87.0.4280.88</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>NVIDIAStereo</GUID>
+      <NAME>NVIDIA Stereoscopic 3D Driver</NAME>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvStInst.exe" /uninstall /ask</UNINSTALL_STRING>
+      <VERSION>7.17.12.6514</VERSION>
+      <VERSION_MAJOR>265</VERSION_MAJOR>
+      <VERSION_MINOR>14</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Skype_is1</GUID>
+      <HELPLINK>https://support.skype.com/</HELPLINK>
+      <INSTALLDATE>18/08/2020</INSTALLDATE>
+      <NAME>Skype version 8.60</NAME>
+      <PUBLISHER>Skype Technologies S.A.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Microsoft\Skype for Desktop\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.skype.com/</URL_INFO_ABOUT>
+      <VERSION>8.60</VERSION>
+      <VERSION_MAJOR>8</VERSION_MAJOR>
+      <VERSION_MINOR>60</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Take Control Viewer_is1</GUID>
+      <INSTALLDATE>28/03/2020</INSTALLDATE>
+      <NAME>Take Control Viewer 13.0</NAME>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Take Control Viewer\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>TeamViewer</GUID>
+      <HELPLINK>http://www.teamviewer.com</HELPLINK>
+      <NAME>TeamViewer 13</NAME>
+      <PUBLISHER>TeamViewer</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Take Control Viewer\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>13.0.6447</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Ultravnc2_is1</GUID>
+      <HELPLINK>http://forum.ultravnc.info</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>UltraVnc</NAME>
+      <PUBLISHER>uvnc bvba</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\uvnc bvba\UltraVNC\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.uvnc.com</URL_INFO_ABOUT>
+      <VERSION>1.1.9.0</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>1</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>XnView_is1</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>XnView 2.13</NAME>
+      <PUBLISHER>Gougelet Pierre-e</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\XnView\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.xnview.com</URL_INFO_ABOUT>
+      <VERSION>2.13</VERSION>
+      <VERSION_MAJOR>2</VERSION_MAJOR>
+      <VERSION_MINOR>13</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{033E378E-6AD3-4AD5-BDEB-CBD69B31046C}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC90_ATL_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{033E378E-6AD3-4AD5-BDEB-CBD69B31046C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{050d4fc8-5d48-4b8f-8972-47c82c46020f}</GUID>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{050d4fc8-5d48-4b8f-8972-47c82c46020f}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.30501.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{08D2E121-7F6A-43EB-97FD-629B44903403}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC90_CRT_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{08D2E121-7F6A-43EB-97FD-629B44903403}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0F3647F8-E51D-4FCC-8862-9A8D0C5ACF25}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC80_ATL_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{0F3647F8-E51D-4FCC-8862-9A8D0C5ACF25}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{35b83883-40fa-423c-ae73-2aff7e1ea820}</GUID>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40649</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{35b83883-40fa-423c-ae73-2aff7e1ea820}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.40649.5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{39C534C5-A745-45C6-8277-CF3CBAAFE609}</GUID>
+      <INSTALLDATE>28/03/2020</INSTALLDATE>
+      <NAME>ScriptRunner.Installer 2.15.1.1</NAME>
+      <PUBLISHER>SolarWinds</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{39C534C5-A745-45C6-8277-CF3CBAAFE609}</UNINSTALL_STRING>
+      <VERSION>2.15.1.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <VERSION>2.8.101.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{4ED756D2-7B91-41AC-9137-AFB9167DBB66}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(w)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{4ED756D2-7B91-41AC-9137-AFB9167DBB66}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{52287860-5a62-405f-9c11-744235a4d1b5}</GUID>
+      <NAME>ScriptRunner Bootstrap Installer</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>SolarWinds</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{52287860-5a62-405f-9c11-744235a4d1b5}\ScriptRunner.Installer.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>2.15.1.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</GUID>
+      <INSTALLDATE>04/12/2020</INSTALLDATE>
+      <NAME>Google Update Helper</NAME>
+      <PUBLISHER>Google LLC</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</UNINSTALL_STRING>
+      <VERSION>1.3.36.51</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Adobe Shockwave Player Merge Module</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</GUID>
+      <HELPLINK>http://www.adobe.com/support</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>swMSM</NAME>
+      <PUBLISHER>Adobe Systems, Inc</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{612C34C7-5E90-47D8-9B5C-0F717DD82726}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.0.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{635FED5B-2C6D-49BE-87E6-7A6FCD22BC5A}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC90_MFC_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{635FED5B-2C6D-49BE-87E6-7A6FCD22BC5A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{68723B04-57EC-11E1-A6A8-9E2D4824019B}</GUID>
+      <HELPLINK>http://support.techsmith.com</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Snagit 11</NAME>
+      <PUBLISHER>TechSmith Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{68723B04-57EC-11E1-A6A8-9E2D4824019B}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.techsmith.com</URL_INFO_ABOUT>
+      <VERSION>11.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Apple Software Update</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr</URL_INFO_ABOUT>
+      <VERSION>2.1.3.127</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>PhysX Driver &amp; Engines: 2.7.1/3/4/5/6; 2.8.0/1/3</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{80407BA7-7763-4395-AB98-5233F1B34E65}</GUID>
+      <INSTALLDATE>13/03/2019</INSTALLDATE>
+      <NAME>NVIDIA PhysX</NAME>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{80407BA7-7763-4395-AB98-5233F1B34E65}</UNINSTALL_STRING>
+      <VERSION>9.13.1220</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-008C-0000-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>07/12/2020</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Extensibility Component</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90160000-008C-0000-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13426.20294</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-008C-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>07/12/2020</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Localization Component</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90160000-008C-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13426.20294</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9158FF30-78D7-40EF-B83E-451AC5334640}</GUID>
+      <NAME>Adobe Photoshop CS5.1</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core\PDApp.exe --appletID="DWA_UI" --appletVersion="1.0" --mode="Uninstall" --mediaSignature="{9158FF30-78D7-40EF-B83E-451AC5334640}"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com/go/ps_support</URL_INFO_ABOUT>
+      <VERSION>12.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{92D58719-BBC1-4CC3-A08B-56C9E884CC2C}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC80_CRT_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{92D58719-BBC1-4CC3-A08B-56C9E884CC2C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>LibreOffice 4.4 (multilanguage)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A651A592-2F6C-4D66-AEA8-9BFE4B61BCB3}</GUID>
+      <HELPLINK>http://www.libreoffice.org/get-help</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>LibreOffice 4.4.3.2</NAME>
+      <PUBLISHER>The Document Foundation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{A651A592-2F6C-4D66-AEA8-9BFE4B61BCB3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.documentfoundation.org</URL_INFO_ABOUT>
+      <VERSION>4.4.3.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A78FE97A-C0C8-49CE-89D0-EDD524A17392}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>PDF Settings CS5</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{A78FE97A-C0C8-49CE-89D0-EDD524A17392}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>10.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A8589745-51BC-3963-B4E9-201CF8693538}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>28/03/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40649</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{A8589745-51BC-3963-B4E9-201CF8693538}</UNINSTALL_STRING>
+      <VERSION>12.0.40649</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-0804-1033-1959-001824406920}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>24/11/2020</INSTALLDATE>
+      <NAME>Adobe Refresh Manager</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-0804-1033-1959-001824406920}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.8.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS/>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-7AD7-1036-7B44-AC0F074E4100}</GUID>
+      <HELPLINK>http://www.adobe.com/fr/support/main.html</HELPLINK>
+      <INSTALLDATE>10/12/2020</INSTALLDATE>
+      <NAME>Adobe Acrobat Reader DC - Français</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-7AD7-1036-7B44-AC0F074E4100}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>20.013.20074</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AF0CE7C0-A3E4-4D73-988B-B29187EC6E9A}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>QuickTime</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AF0CE7C0-A3E4-4D73-988B-B29187EC6E9A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr/</URL_INFO_ABOUT>
+      <VERSION>7.73.80.64</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B6D38690-755E-4F40-A35A-23F8BC2B86AC}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC90_MFCLOC_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{B6D38690-755E-4F40-A35A-23F8BC2B86AC}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BFA17B4C-70D3-480F-8476-76197F614AB6}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Antidote 9</NAME>
+      <PUBLISHER>Druide informatique inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{BFA17B4C-70D3-480F-8476-76197F614AB6}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://druide.com/</URL_INFO_ABOUT>
+      <VERSION>9.02.3427</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BFA17B4C-70D3-480F-8476-76197F614AB7}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Antidote 9 - Module français</NAME>
+      <PUBLISHER>Druide informatique inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{BFA17B4C-70D3-480F-8476-76197F614AB7}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://druide.com/</URL_INFO_ABOUT>
+      <VERSION>9.02.3427</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BFA17B4C-70D3-480F-8476-76197F614AB8}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Antidote 9 - English module</NAME>
+      <PUBLISHER>Druide informatique inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{BFA17B4C-70D3-480F-8476-76197F614AB8}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://druide.com/</URL_INFO_ABOUT>
+      <VERSION>9.02.3427</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{c7f54569-0018-439c-809a-48046a4d4ebc}</GUID>
+      <NAME>Logiciel pour périphérique à chipset Intel®</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Intel(R) Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{c7f54569-0018-439c-809a-48046a4d4ebc}\SetupChipset.exe"  /uninstall</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.intel.com</URL_INFO_ABOUT>
+      <VERSION>10.1.1.9</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D1A19B02-817E-4296-A45B-07853FD74D57}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC80_MFC_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D1A19B02-817E-4296-A45B-07853FD74D57}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D92BBB52-82FF-42ED-8A3C-4E062F944AB7}</GUID>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Microsoft_VC80_MFCLOC_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D92BBB52-82FF-42ED-8A3C-4E062F944AB7}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{DEA7F8E3-B7B9-3C3C-945B-7F8CE9041748}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>28/03/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40649</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{DEA7F8E3-B7B9-3C3C-945B-7F8CE9041748}</UNINSTALL_STRING>
+      <VERSION>12.0.40649</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F12000CE-0001-0000-0000-074957833700}</GUID>
+      <HELPLINK>http://go.abbyy.com/?Product=FR&amp;ParentProduct=Finereader&amp;MajorVersion=12&amp;Target=OnlineHelp&amp;Source=Install&amp;Language=1036&amp;Version=12.1.439&amp;Edition=Corporate</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>ABBYY FineReader 12 Corporate</NAME>
+      <PUBLISHER>ABBYY Production LLC</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{F12000CE-0001-0000-0000-074957833700}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.abbyy.com/?Product=FR&amp;ParentProduct=Finereader&amp;MajorVersion=12&amp;Target=Support&amp;Source=Install&amp;Language=1036&amp;Version=12.1.439&amp;Edition=Corporate</URL_INFO_ABOUT>
+      <VERSION>12.1.439</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}</GUID>
+      <INSTALLDATE>13/03/2019</INSTALLDATE>
+      <NAME>Realtek High Definition Audio Driver</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\InstallShield Installation Information\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\Setup.exe" -runfromtemp  -removeonly</UNINSTALL_STRING>
+      <VERSION>6.0.1.7592</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5266D28-E0B2-4130-BFC5-EE155AD514DC}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>12/03/2019</INSTALLDATE>
+      <NAME>Apple Application Support</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{F5266D28-E0B2-4130-BFC5-EE155AD514DC}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr</URL_INFO_ABOUT>
+      <VERSION>2.3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{f65db027-aff3-4070-886a-0d87064aabb1}</GUID>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{f65db027-aff3-4070-886a-0d87064aabb1}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.30501.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.0.15063.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4540722</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4550992</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>Realtek High Definition Audio</CAPTION>
+      <DESCRIPTION>Realtek High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Realtek</MANUFACTURER>
+      <NAME>Realtek High Definition Audio</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <DISKSIZE>500107</DISKSIZE>
+      <FIRMWARE>MS1OA750</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>TOSHIBA DT01ACA050</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>95LLST2AS</SERIAL>
+      <SERIALNUMBER>95LLST2AS</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <FIRMWARE>1.00</FIRMWARE>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>USB Mass  Storage Device USB Device</MODEL>
+      <NAME>\\.\PHYSICALDRIVE1</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>816820130806</SERIAL>
+      <SERIALNUMBER>816820130806</SERIALNUMBER>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>Generic USB Hub</CAPTION>
+      <MANUFACTURER>Intel Corp.</MANUFACTURER>
+      <NAME>Generic USB Hub</NAME>
+      <PRODUCTID>8000</PRODUCTID>
+      <VENDORID>8087</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>China Resource Semico Co., Ltd</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>2C27</PRODUCTID>
+      <VENDORID>1A2C</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>Generic USB Hub</CAPTION>
+      <MANUFACTURER>Intel Corp.</MANUFACTURER>
+      <NAME>Generic USB Hub</NAME>
+      <PRODUCTID>8008</PRODUCTID>
+      <VENDORID>8087</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Mass Storage Device</CAPTION>
+      <MANUFACTURER>Super Top</MANUFACTURER>
+      <NAME>USB Mass Storage Device</NAME>
+      <PRODUCTID>168A</PRODUCTID>
+      <SERIAL>816820130806</SERIAL>
+      <VENDORID>14CD</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>M105 Optical Mouse</CAPTION>
+      <MANUFACTURER>Logitech, Inc.</MANUFACTURER>
+      <NAME>M105 Optical Mouse</NAME>
+      <PRODUCTID>C077</PRODUCTID>
+      <VENDORID>046D</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>PC-ING-088C</DOMAIN>
+      <LOGIN>user</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.17</VERSIONCLIENT>
+    <VIDEOS>
+      <CHIPSET>GeForce 8600 GT</CHIPSET>
+      <NAME>NVIDIA GeForce 8600 GT </NAME>
+      <RESOLUTION>1366x768</RESOLUTION>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>PC-ING-088C-2020-08-18-14-34-28</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

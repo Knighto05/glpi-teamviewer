@@ -1,0 +1,15 @@
+{
+  "name": "glpi",
+  "version": "1.0.0",
+  "description": "![GLPI Logo](https://raw.githubusercontent.com/glpi-project/glpi/master/pics/logos/logo-GLPI-250-black.png)",
+  "main": "public/build/glpi.js",
+  "directories": {
+    "lib": "public/lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "author": "",
+  "license": "ISC"
+}

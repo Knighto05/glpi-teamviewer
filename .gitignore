@@ -1,0 +1,4 @@
+files/_cache/*
+files/_sessions/*
+files/_log/*
+files/_tmp/auto_orient/*

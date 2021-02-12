@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Consumables Development Team
+# This file is distributed under the same license as the GLPI - Consumables plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Consumables plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-02 08:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: hook.php:166 inc/field.class.php:75
+msgid "Order reference"
+msgstr ""
+
+#: hook.php:176 hook.php:208 inc/option.class.php:111 inc/option.class.php:305
+msgid "Maximum number allowed for request"
+msgstr ""
+
+#: hook.php:188 inc/option.class.php:133
+msgid "Allowed groups for request"
+msgstr ""
+
+#: hook.php:210 inc/option.class.php:184 inc/option.class.php:315
+msgid "Add a group for request"
+msgstr ""
+
+#: setup.php:83 inc/field.class.php:54 inc/menu.class.php:41
+#: inc/notificationtargetrequest.class.php:51
+#: inc/notificationtargetrequest.class.php:66 inc/request.class.php:52
+#: inc/request.class.php:411 inc/request.class.php:417
+#: inc/servicecatalog.class.php:65 inc/wizard.class.php:70
+#: inc/wizard.class.php:79
+msgid "Consumable request"
+msgid_plural "Consumable requests"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/notificationtargetrequest.class.php:52
+#: inc/notificationtargetrequest.class.php:69 inc/profile.class.php:154
+#: inc/profile.class.php:210 inc/validation.class.php:139
+#: inc/validation.class.php:166 inc/wizard.class.php:87
+msgid "Consumable validation"
+msgstr ""
+
+#: inc/notificationtargetrequest.class.php:63
+#: inc/notificationtargetrequest.class.php:120
+msgid "Consumable ID"
+msgstr ""
+
+#: inc/notificationtargetrequest.class.php:121
+msgid "Type of event"
+msgstr ""
+
+#: inc/notificationtargetrequest.class.php:142
+msgid "Display each consumable"
+msgstr ""
+
+#: inc/notificationtargetrequest.class.php:157
+msgid "Consumable approver"
+msgstr ""
+
+#: inc/notificationtargetrequest.class.php:158
+msgid "Consumable requester"
+msgstr ""
+
+#: inc/notificationtargetrequest.class.php:159
+msgid "Consumable recipient"
+msgstr ""
+
+#: inc/option.class.php:51
+msgid "Consumable request options"
+msgstr ""
+
+#: inc/option.class.php:120
+msgctxt "button"
+msgid "Define"
+msgstr ""
+
+#: inc/profile.class.php:146
+msgid "Advanced"
+msgstr ""
+
+#: inc/profile.class.php:158 inc/profile.class.php:202
+#: inc/servicecatalog.class.php:81
+msgid "Make a consumable request"
+msgstr ""
+
+#: inc/profile.class.php:166
+msgid "Make a consumable request for all users"
+msgstr ""
+
+#: inc/profile.class.php:171
+msgid "Make a consumable request for my groups"
+msgstr ""
+
+#: inc/profile.class.php:191
+msgid "Consumable"
+msgid_plural "Consumables"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/profile.class.php:198
+msgid "Make a consumable request for users"
+msgstr ""
+
+#: inc/profile.class.php:206
+msgid "Make a consumable request for groups"
+msgstr ""
+
+#: inc/request.class.php:198 inc/request.class.php:347
+#: inc/request.class.php:383
+msgid "Consumable request report"
+msgstr ""
+
+#: inc/request.class.php:237
+msgid "Consumable requests history"
+msgstr ""
+
+#: inc/request.class.php:269
+msgid "Consumables request search"
+msgstr ""
+
+#: inc/request.class.php:443 inc/request.class.php:488
+#: inc/request.class.php:860 inc/validation.class.php:98
+#: inc/validation.class.php:204
+msgid "Number"
+msgstr ""
+
+#: inc/request.class.php:474
+msgid "Add to cart"
+msgstr ""
+
+#: inc/request.class.php:483
+msgid "Cart"
+msgstr ""
+
+#: inc/request.class.php:806
+msgid "Consumable affected"
+msgid_plural "Consumables affected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/request.class.php:823
+msgid "Please add consumables in cart"
+msgstr ""
+
+#: inc/validation.class.php:330
+msgid "Refuse"
+msgstr ""
+
+#: inc/validation.class.php:425
+#, php-format
+msgid "Not enough stock for consumable %s"
+msgstr ""
+
+#: inc/wizard.class.php:52
+msgid "Consumables wizard"
+msgstr ""

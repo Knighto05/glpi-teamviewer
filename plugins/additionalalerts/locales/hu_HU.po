@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Additionalalerts Development Team
+# This file is distributed under the same license as the GLPI - Additionalalerts plugin package.
+# 
+# Translators:
+# Laszlo Czirbesz <czirbesz.laszlo@soulware.hu>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - additionalalerts plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-11 12:28+0200\n"
+"PO-Revision-Date: 2018-10-11 10:30+0000\n"
+"Last-Translator: Amandine Manceau\n"
+"Language-Team: Hungarian (Hungary) (http://www.transifex.com/tsmr/GLPI_additionalalerts/language/hu_HU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: setup.php:74 inc/additionalalert.class.php:48 inc/menu.class.php:41
+#: inc/profile.class.php:92
+msgid "Other alert"
+msgid_plural "Others alerts"
+msgstr[0] "Egyéb riasztás"
+msgstr[1] "Egyéb riasztások"
+
+#: front/config.form.php:49
+msgid "Please activate the plugin"
+msgstr ""
+
+#: inc/additionalalert.class.php:110
+msgid "No used alerts"
+msgstr "Nincs használt riasztás"
+
+#: inc/additionalalert.class.php:142
+msgid "No computers with no buy date"
+msgstr "Nincs számítógép vásárlási dátum nélkül"
+
+#: inc/additionalalert.class.php:163 inc/config.class.php:122
+#: inc/inkalert.class.php:48 inc/inkalert.class.php:98
+#: inc/inkalert.class.php:276 inc/inkalert.class.php:397
+#: inc/notificationtargetinkalert.class.php:45
+#: inc/notificationtargetinkalert.class.php:104
+msgid "Cartridges whose level is low"
+msgstr "Patronok amelyek szintje alacsony"
+
+#: inc/additionalalert.class.php:170
+msgid "Ink level"
+msgstr "Tinta szint"
+
+#: inc/additionalalert.class.php:177
+msgid "No cartridge is below the threshold"
+msgstr "Nincs patron a küszöbérték alatt"
+
+#: inc/additionalalert.class.php:181 inc/inkthreshold.class.php:55
+#: inc/inkthreshold.class.php:58
+msgid "Ink level alerts"
+msgstr "Tinta szint riasztások"
+
+#: inc/additionalalert.class.php:181 inc/config.class.php:128
+#: inc/inkalert.class.php:404 inc/inkthreshold.class.php:69
+msgid "Fusioninventory plugin is not installed"
+msgstr "A Fusioninventory bővítmény nincs telepítve"
+
+#: inc/additionalalert.class.php:197
+msgid "Tickets unresolved since more"
+msgstr ""
+
+#: inc/additionalalert.class.php:213
+msgid "No tickets unresolved since more"
+msgstr ""
+
+#: inc/config.class.php:46 inc/infocomalert.class.php:60
+#: inc/inkalert.class.php:60
+msgid "Plugin setup"
+msgstr "Bővítmény beállításai"
+
+#: inc/config.class.php:133
+msgid "Unresolved Ticket Alerts"
+msgstr ""
+
+#: inc/infocomalert.class.php:48
+msgid "Computer with no buy date"
+msgid_plural "Computers with no buy date"
+msgstr[0] "Számítógép vásárlás dátuma nélkül"
+msgstr[1] "Számítógépek vásárlás dátuma nélkül"
+
+#: inc/infocomalert.class.php:351 inc/inkalert.class.php:331
+msgid "Parameter"
+msgstr "Paraméter"
+
+#: inc/infocomalert.class.php:352
+msgid "Type not used for check of buy date"
+msgstr "Nem használt típus a vásárlás dátumának ellenőrzésekor"
+
+#: inc/inkalert.class.php:332
+msgid "Statutes used for the ink level"
+msgstr "Tintaszinthez használt státuszok"
+
+#: inc/ticketunresolved.class.php:48
+msgid "Ticket unresolved"
+msgid_plural "Tickets unresolved"
+msgstr[0] ""
+msgstr[1] ""

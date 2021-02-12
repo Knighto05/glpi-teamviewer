@@ -1,0 +1,3229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2021-02-03 15:24:25</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <BASE_VERSION>1.329.3283.0</BASE_VERSION>
+      <COMPANY>Microsoft Corporation</COMPANY>
+      <ENABLED>1</ENABLED>
+      <GUID>{D68DDC3A-831F-4fae-9E44-DA132C1ACF46}</GUID>
+      <NAME>Windows Defender</NAME>
+      <UPTODATE>1</UPTODATE>
+      <VERSION>4.18.2011.6</VERSION>
+    </ANTIVIRUS>
+    <BIOS>
+      <ASSETTAG>To Be Filled By O.E.M.</ASSETTAG>
+      <BDATE>04/22/2014</BDATE>
+      <BMANUFACTURER>American Megatrends Inc.</BMANUFACTURER>
+      <BVERSION>4.6.5</BVERSION>
+      <MMANUFACTURER>ECS</MMANUFACTURER>
+      <MMODEL>H81H3-MV</MMODEL>
+      <MSN>00000000</MSN>
+      <SKUNUMBER>To be filled by O.E.M.</SKUNUMBER>
+      <SMANUFACTURER>ECS</SMANUFACTURER>
+      <SMODEL>H81H3-MV</SMODEL>
+      <SSN>00000000</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c02</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Chipset Family SATA AHCI Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family USB EHCI #2</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family USB EHCI #2</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c2d</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series USB EHCI #2 - 8C2D</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family USB EHCI #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family USB EHCI #1</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c26</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series USB EHCI #1 - 8C26</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family USB xHCI</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family USB xHCI</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c31</PRODUCTID>
+      <TYPE>Contrôleur hôte Intel(R) USB 3.0 eXtensible - 1.0 (Microsoft)</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Robson LE [Radeon HD 6330M]</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>Robson LE [Radeon HD 6330M]</NAME>
+      <PCISUBSYSTEMID>174b:e164</PCISUBSYSTEMID>
+      <PRODUCTID>68e5</PRODUCTID>
+      <TYPE>AMD Radeon HD5450</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family MEI Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family MEI Controller #1</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c3a</PRODUCTID>
+      <TYPE>Intel(R) Management Engine Interface </TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>4th Gen Core Processor DRAM Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>4th Gen Core Processor DRAM Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>0c00</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</NAME>
+      <PCISUBSYSTEMID>1019:8116</PCISUBSYSTEMID>
+      <PRODUCTID>8168</PRODUCTID>
+      <TYPE>Realtek PCIe GbE Family Controller</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family PCI Express Root Port #4</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family PCI Express Root Port #4</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c16</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series PCI Express Root Port #4 - 8C16</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset High Definition Audio Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset High Definition Audio Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c20</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]</NAME>
+      <PCISUBSYSTEMID>174b:aa68</PCISUBSYSTEMID>
+      <PRODUCTID>aa68</PRODUCTID>
+      <TYPE>High Definition Audio Bus</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family PCI Express Root Port #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family PCI Express Root Port #1</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c10</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series PCI Express Root Port #1 - 8C10</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>H81 Express LPC Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>H81 Express LPC Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c5c</PRODUCTID>
+      <TYPE>Intel(R) H81 LPC Controller - 8C5C</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>8 Series/C220 Series Chipset Family SMBus Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>8 Series/C220 Series Chipset Family SMBus Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>8c22</PRODUCTID>
+      <TYPE>Intel(R) 8 Series/C220 Series SMBus Controller - 8C22</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Xeon E3-1200 v3/4th Gen Core Processor PCI Express x16 Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Xeon E3-1200 v3/4th Gen Core Processor PCI Express x16 Controller</NAME>
+      <PCISUBSYSTEMID>1019:9a16</PCISUBSYSTEMID>
+      <PRODUCTID>0c01</PRODUCTID>
+      <TYPE>Intel(R) Xeon(R) processor E3 - 1200 v3/4th Gen Core processor PCI Express x16 Controller - 0C01</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>2</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 60 Stepping 3</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>C3 06 03 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>60</MODEL>
+      <NAME>Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz</NAME>
+      <SERIAL/>
+      <SPEED>3600</SPEED>
+      <STEPPING>3</STEPPING>
+      <THREAD>4</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Disque monté local</DESCRIPTION>
+      <ENCRYPT_ALGO>None</ENCRYPT_ALGO>
+      <ENCRYPT_NAME>BitLocker</ENCRYPT_NAME>
+      <ENCRYPT_STATUS>No</ENCRYPT_STATUS>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>306643</FREE>
+      <LABEL/>
+      <LETTER>C:</LETTER>
+      <SERIAL>5A6B4AB3</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>366358</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN/>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disque monté local</DESCRIPTION>
+      <ENCRYPT_ALGO>None</ENCRYPT_ALGO>
+      <ENCRYPT_NAME>BitLocker</ENCRYPT_NAME>
+      <ENCRYPT_STATUS>No</ENCRYPT_STATUS>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>93164</FREE>
+      <LABEL>DOCS</LABEL>
+      <LETTER>D:</LETTER>
+      <SERIAL>0E6F4248</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>109999</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>DOCS</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disque amovible</DESCRIPTION>
+      <LETTER>F:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Removable Disk</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>162</FREE>
+      <LABEL>Réservé au système</LABEL>
+      <LETTER>Réservé au système</LETTER>
+      <SERIAL>B8628520</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>578</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>Réservé au système</VOLUMN>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>DriverData</KEY>
+      <VAL>C:\Windows\System32\Drivers\DriverData</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%ProgramFiles%\WindowsPowerShell\Modules;%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>4</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>Intel64 Family 6 Model 60 Stepping 3, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>3c03</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>CLASSPATH</KEY>
+      <VAL>.;C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>QTJAVA</KEY>
+      <VAL>C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip</VAL>
+    </ENVS>
+    <FIREWALL>
+      <PROFILE>DomainProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <PROFILE>StandardProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <PROFILE>PublicProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <HARDWARE>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>66049</CHECKSUM>
+      <DEFAULTGATEWAY>192.168.1.1</DEFAULTGATEWAY>
+      <DESCRIPTION>PC-ING-138C</DESCRIPTION>
+      <DNS>192.168.1.1</DNS>
+      <ETIME>109</ETIME>
+      <IPADDR>192.168.3.60</IPADDR>
+      <LASTLOGGEDUSER>admin</LASTLOGGEDUSER>
+      <MEMORY>8126</MEMORY>
+      <NAME>PC-ING-138C</NAME>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>3600</PROCESSORS>
+      <PROCESSORT>Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz</PROCESSORT>
+      <USERID>admin</USERID>
+      <UUID>03000200-0400-0500-0006-000700080009</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINOWNER>admin</WINOWNER>
+      <WINPRODKEY>W269N-WFGWX-YVC9B-4J6C9-T83GX</WINPRODKEY>
+      <WORKGROUP>WORKGROUP</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Étendu (101 ou 102 touches)</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <LAYOUT>0000040C</LAYOUT>
+      <NAME>Étendu (101 ou 102 touches)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>HID-compliant mouse</CAPTION>
+      <DESCRIPTION>HID-compliant mouse</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>Microsoft</MANUFACTURER>
+      <NAME>HID-compliant mouse</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LICENSEINFOS>
+      <FULLNAME>Office 16, VOLUME_KMSCLIENT channel</FULLNAME>
+      <KEY>XXXXX-XXXXX-XXXXX-XXXXX-WFG99</KEY>
+      <NAME>Office 16, Office16ProPlusVL_KMS_Client edition</NAME>
+      <OEM>0</OEM>
+      <PRODUCTID>00339-10000-00000-AA815</PRODUCTID>
+    </LICENSEINFOS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administrateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-578</ID>
+      <NAME>Administrateurs Hyper-V</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Invités</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Lecteurs des journaux d’événements</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-579</ID>
+      <NAME>Opérateurs d'assistance de contrôle d'accès</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Opérateurs de chiffrement</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Opérateurs de configuration réseau</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Opérateurs de sauvegarde</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-583</ID>
+      <NAME>Propriétaires d'appareils</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-581</ID>
+      <NAME>System Managed Accounts Group</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Utilisateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Utilisateurs avec pouvoir</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-580</ID>
+      <NAME>Utilisateurs de gestion à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Utilisateurs de l’Analyseur de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Utilisateurs du Bureau à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Utilisateurs du journal de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Utilisateurs du modèle COM distribué</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-21-2999781534-3055853012-3861504735-1003</ID>
+      <NAME>AMD FUEL</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2999781534-3055853012-3861504735-1001</ID>
+      <NAME>admin</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2999781534-3055853012-3861504735-1004</ID>
+      <NAME>Ronaldo</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-2999781534-3055853012-3861504735-1002</ID>
+      <NAME>user</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>4096</CAPACITY>
+      <CAPTION>ChannelA-DIMM1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>0420</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>AB600000</SERIALNUMBER>
+      <SPEED>1600</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>4096</CAPACITY>
+      <CAPTION>ChannelB-DIMM1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>0420</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+      <SERIALNUMBER>2A670000</SERIALNUMBER>
+      <SPEED>1600</SPEED>
+      <TYPE>DDR3</TYPE>
+    </MEMORIES>
+    <MONITORS>
+      <ALTSERIAL>ZZ9TH4LGC00926</ALTSERIAL>
+      <BASE64>AP///////wBMLT4LVDlaWjUZAQMOMBt4KpVhpVVSoCgPUFS/74BxT4HAgQCBgJUAqcCzAAEBAjqAGHE4LUBYLEUA3QwRAAAeAAAA/QA4Sx5REQAKICAgICAgAAAA/ABTMjJEMzAwCiAgICAgAAAA/wBINExHQzAwOTI2CiAgADA=</BASE64>
+      <CAPTION>S22D300</CAPTION>
+      <DESCRIPTION>53/2015</DESCRIPTION>
+      <MANUFACTURER>Samsung Electric Company</MANUFACTURER>
+      <PORT>VGA</PORT>
+      <SERIAL>H4LGC00926</SERIAL>
+    </MONITORS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCIe GbE Family Controller</DESCRIPTION>
+      <IPADDRESS>192.168.3.60</IPADDRESS>
+      <IPGATEWAY>192.168.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>192.168.0.0</IPSUBNET>
+      <MACADDR>C0:3F:D5:A2:32:7D</MACADDR>
+      <PCIID>10EC:8168:8116:1019</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_81161019&amp;REV_0C\4&amp;321e0e91&amp;0&amp;00E3</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME/>  <DNS_DOMAIN>WORKGROUP</DNS_DOMAIN>
+      <FQDN>PC-ING-138C</FQDN>
+      <FULL_NAME/>  <INSTALL_DATE>2019-08-26 13:15:49</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION/>  <NAME>Windows</NAME>
+      <SERVICE_PACK/>  <TIMEZONE>
+        <NAME>Africa/Nairobi</NAME>
+        <OFFSET>+0300</OFFSET>
+      </TIMEZONE>
+      <VERSION>1909</VERSION>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Centronics Type-14</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2A</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-15 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2B</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9A1 - TPM HDR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9C1 - PCIE DOCKING CONN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2B3 - CPU FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J6C2 - EXT HDMI</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J3C1 - GMCH FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J1D1 - ITP</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E2 - MDC INTPSR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E4 - MDC INTPSR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E3 - LPC HOT DOCKING</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E1 - SCAN MATRIX</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9G1 - LPC SIDE BAND</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J8F1 - UNIFIED</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J6F1 - LVDS</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2F1 - LAI FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2G1 - GFX VID</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J1G6 - AC JACK</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Port de communication (COM1)</CAPTION>
+      <DESCRIPTION>Port de communication</DESCRIPTION>
+      <NAME>Port de communication (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A1</CAPTION>
+      <DESCRIPTION>J2A1</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>Mini-Centronics Type-14</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2A</CAPTION>
+      <DESCRIPTION>J2A2A</DESCRIPTION>
+      <NAME>J2A2A</NAME>
+      <TYPE>DB-9, Male</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2B</CAPTION>
+      <DESCRIPTION>J2A2B</DESCRIPTION>
+      <NAME>J2A2B</NAME>
+      <TYPE>DB-15, Female</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9A1 - TPM HDR</CAPTION>
+      <DESCRIPTION>J9A1 - TPM HDR</DESCRIPTION>
+      <NAME>J9A1 - TPM HDR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9C1 - PCIE DOCKING CONN</CAPTION>
+      <DESCRIPTION>J9C1 - PCIE DOCKING CONN</DESCRIPTION>
+      <NAME>J9C1 - PCIE DOCKING CONN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2B3 - CPU FAN</CAPTION>
+      <DESCRIPTION>J2B3 - CPU FAN</DESCRIPTION>
+      <NAME>J2B3 - CPU FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6C2 - EXT HDMI</CAPTION>
+      <DESCRIPTION>J6C2 - EXT HDMI</DESCRIPTION>
+      <NAME>J6C2 - EXT HDMI</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3C1 - GMCH FAN</CAPTION>
+      <DESCRIPTION>J3C1 - GMCH FAN</DESCRIPTION>
+      <NAME>J3C1 - GMCH FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1D1 - ITP</CAPTION>
+      <DESCRIPTION>J1D1 - ITP</DESCRIPTION>
+      <NAME>J1D1 - ITP</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E2 - MDC INTPSR</CAPTION>
+      <DESCRIPTION>J9E2 - MDC INTPSR</DESCRIPTION>
+      <NAME>J9E2 - MDC INTPSR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E4 - MDC INTPSR</CAPTION>
+      <DESCRIPTION>J9E4 - MDC INTPSR</DESCRIPTION>
+      <NAME>J9E4 - MDC INTPSR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E3 - LPC HOT DOCKING</CAPTION>
+      <DESCRIPTION>J9E3 - LPC HOT DOCKING</DESCRIPTION>
+      <NAME>J9E3 - LPC HOT DOCKING</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E1 - SCAN MATRIX</CAPTION>
+      <DESCRIPTION>J9E1 - SCAN MATRIX</DESCRIPTION>
+      <NAME>J9E1 - SCAN MATRIX</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9G1 - LPC SIDE BAND</CAPTION>
+      <DESCRIPTION>J9G1 - LPC SIDE BAND</DESCRIPTION>
+      <NAME>J9G1 - LPC SIDE BAND</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J8F1 - UNIFIED</CAPTION>
+      <DESCRIPTION>J8F1 - UNIFIED</DESCRIPTION>
+      <NAME>J8F1 - UNIFIED</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6F1 - LVDS</CAPTION>
+      <DESCRIPTION>J6F1 - LVDS</DESCRIPTION>
+      <NAME>J6F1 - LVDS</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2F1 - LAI FAN</CAPTION>
+      <DESCRIPTION>J2F1 - LAI FAN</DESCRIPTION>
+      <NAME>J2F1 - LAI FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2G1 - GFX VID</CAPTION>
+      <DESCRIPTION>J2G1 - GFX VID</DESCRIPTION>
+      <NAME>J2G1 - GFX VID</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1G6 - AC JACK</CAPTION>
+      <DESCRIPTION>J1G6 - AC JACK</DESCRIPTION>
+      <NAME>J1G6 - AC JACK</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Snagit 11 Printer</DRIVER>
+      <NAME>Snagit 11</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>C:\ProgramData\TechSmith\Snagit 11\PrinterPortFile</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Send to Microsoft OneNote 16 Driver</DRIVER>
+      <NAME>OneNote (Desktop)</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>nul:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft XPS Document Writer v4</DRIVER>
+      <NAME>Microsoft XPS Document Writer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Print To PDF</DRIVER>
+      <NAME>Microsoft Print to PDF</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>HP LaserJet M1005</DRIVER>
+      <NAME>HP LaserJet M1005</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>USB001</PORT>
+      <PRINTPROCESSOR>HP1005PrintProc</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SERIAL>KJ17QPV</SERIAL>
+      <SHARED>1</SHARED>
+      <SHARENAME>HP Lalaina</SHARENAME>
+      <STATUS>Unknown</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Foxit Reader PDF Printer Driver</DRIVER>
+      <NAME>Foxit Reader PDF Printer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>FOXIT_Reader:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Shared Fax Driver</DRIVER>
+      <NAME>Fax</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>SHRFAX:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Adobe PDF Converter</DRIVER>
+      <NAME>Adobe PDF</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>Documents\*.pdf</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>1200x1200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express x16</DESCRIPTION>
+      <DESIGNATION>0</DESIGNATION>
+      <NAME>J6B2</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express x1</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>J6B1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>J6D1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>J7B1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J6B2</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J6B1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J6D1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J7B1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>https://github.com/fusioninventory/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>15/10/2020</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.5.2 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.5.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>HP LaserJet M1005 MFP</GUID>
+      <INSTALLDATE>09/04/2020</INSTALLDATE>
+      <NAME>HP LaserJet M1005 MFP</NAME>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\HP\HP LaserJet M1005 MFP\Uninstall.exe</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>lvdrivers_12.10</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Coffret de pilotes Logitech Webcam Software</NAME>
+      <PUBLISHER>Logitech Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Common Files\LogiShrd\LogiDriverStore\lvdrivers\12.10.1110\LgDrvInst.exe" -remove -instdir"C:\Program Files\Common Files\LogiShrd\LogiDriverStore\lvdrivers\" -enumdelay=200 -enabledifx -forcedelete -usbhubsfirst -forceremove -cumulativeremove -arpregkey"lvdrivers_12.10" /clone_wait /hide_progress</UNINSTALL_STRING>
+      <VERSION>12.10.1110</VERSION>
+      <VERSION_MAJOR>12</VERSION_MAJOR>
+      <VERSION_MINOR>10</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Firefox 84.0.1 (x64 fr)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Mozilla Firefox 84.0.1 (x64 fr)</GUID>
+      <HELPLINK>https://support.mozilla.org</HELPLINK>
+      <INSTALLDATE>06/01/2021</INSTALLDATE>
+      <NAME>Mozilla Firefox 84.0.1 (x64 fr)</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Mozilla Firefox\uninstall\helper.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.mozilla.org</URL_INFO_ABOUT>
+      <VERSION>84.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Maintenance Service</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>MozillaMaintenanceService</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Mozilla Maintenance Service</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Mozilla Maintenance Service\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>68.0.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Notepad++</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Notepad++ (64-bit x64)</NAME>
+      <PUBLISHER>Notepad++ Team</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\Notepad++\uninstall.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://notepad-plus-plus.org/</URL_INFO_ABOUT>
+      <VERSION>7.7</VERSION>
+      <VERSION_MAJOR>7</VERSION_MAJOR>
+      <VERSION_MINOR>7</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>ProPlus2019Retail - fr-fr</GUID>
+      <INSTALLDATE>24/01/2021</INSTALLDATE>
+      <NAME>Microsoft Office Professionnel Plus 2019 - fr-fr</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=ProPlus2019Retail.16_fr-fr_x-none culture=fr-fr version.16=16.0</UNINSTALL_STRING>
+      <VERSION>16.0.13530.20440</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Ultravnc2_is1</GUID>
+      <HELPLINK>http://forum.ultravnc.info</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>UltraVnc</NAME>
+      <PUBLISHER>uvnc bvba</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\uvnc bvba\UltraVNC\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.uvnc.com</URL_INFO_ABOUT>
+      <VERSION>1.2.0.9</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>2</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>VLC media player</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>VLC media player</NAME>
+      <PUBLISHER>VideoLAN</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\VideoLAN\VLC\uninstall.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.videolan.org/</URL_INFO_ABOUT>
+      <VERSION>2.2.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>WinRAR 5.21 beta 1 (64-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>5.21.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{071c9b48-7c32-4621-a0ac-3f809523288f}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2005 Redistributable (x64)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{071c9b48-7c32-4621-a0ac-3f809523288f}</UNINSTALL_STRING>
+      <VERSION>8.0.56336</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0BCA8FBE-0C1C-4C65-98A3-5D34AAF41737}</GUID>
+      <INSTALLDATE>21/11/2020</INSTALLDATE>
+      <NAME>Microsoft Update Health Tools</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{0BCA8FBE-0C1C-4C65-98A3-5D34AAF41737}</UNINSTALL_STRING>
+      <VERSION>2.70.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1CEAC85D-2590-4760-800F-8DE5E91F3700}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Intel(R) Management Engine Components</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Intel\Package Cache\{1CEAC85D-2590-4760-800F-8DE5E91F3700}\Setup.exe" -uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.0.1163</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=146008</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F64180101F0}</GUID>
+      <HELPLINK>http://java.com/help</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Java 8 Update 101 (64-bit)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F64180101F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.1010.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2FC06E3D-79B9-4078-91F0-436A3389A2E1}_is1</GUID>
+      <HELPLINK>https://www.solarwindsmsp.com</HELPLINK>
+      <INSTALLDATE>18/12/2020</INSTALLDATE>
+      <NAME>Advanced Monitoring Agent Web Protection</NAME>
+      <PUBLISHER>SolarWinds MSP</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Advanced Monitoring Agent Web Protection\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.solarwindsmsp.com</URL_INFO_ABOUT>
+      <VERSION>5.24.2.188</VERSION>
+      <VERSION_MAJOR>5</VERSION_MAJOR>
+      <VERSION_MINOR>24</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{36FAF585-3D08-3D84-8330-4D048F4B6CE6}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>AMD Fuel</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1643.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{37B8F9C7-03FB-3253-8781-2517C99D7C00}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{37B8F9C7-03FB-3253-8781-2517C99D7C00}</UNINSTALL_STRING>
+      <VERSION>11.0.61030</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{409CB30E-E457-4008-9B1A-ED1B9EA21140}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Intel(R) Rapid Storage Technology</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Intel\Package Cache\{409CB30E-E457-4008-9B1A-ED1B9EA21140}\Setup.exe" -uninstall</UNINSTALL_STRING>
+      <VERSION>14.6.0.1029</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4611EDAA-C48E-4733-87A6-F7901B6983CC}</GUID>
+      <INSTALLDATE>09/04/2020</INSTALLDATE>
+      <NAME>Scan To</NAME>
+      <PUBLISHER>HP</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{4611EDAA-C48E-4733-87A6-F7901B6983CC}</UNINSTALL_STRING>
+      <VERSION>2.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{55398EAC-F58E-4F19-B553-BDF8B9EFD839}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Intel(R) Chipset Device Software</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{55398EAC-F58E-4F19-B553-BDF8B9EFD839}</UNINSTALL_STRING>
+      <VERSION>10.1.1.9</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{5740BD44-B58D-321A-AFC0-6D3D4556DD6C}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{5740BD44-B58D-321A-AFC0-6D3D4556DD6C}</UNINSTALL_STRING>
+      <VERSION>12.0.40660</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6E8E85E8-CE4B-4FF5-91F7-04999C9FAE6A}</GUID>
+      <INSTALLDATE>09/04/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2005 Redistributable (x64)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{6E8E85E8-CE4B-4FF5-91F7-04999C9FAE6A}</UNINSTALL_STRING>
+      <VERSION>8.0.50727.42</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{757AB286-E401-475F-B9F6-3FF1138DC472}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>psqlODBC_x64</NAME>
+      <PUBLISHER>PostgreSQL Global Development Group</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{757AB286-E401-475F-B9F6-3FF1138DC472}</UNINSTALL_STRING>
+      <VERSION>09.06.0410</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7D84E343-A23D-451C-B123-0195B2D903A6}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Intel® Trusted Connect Service Client</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{7D84E343-A23D-451C-B123-0195B2D903A6}</UNINSTALL_STRING>
+      <VERSION>1.42.17.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8220EEFE-38CD-377E-8595-13398D740ACE}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{8220EEFE-38CD-377E-8595-13398D740ACE}</UNINSTALL_STRING>
+      <VERSION>9.0.30729</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8B29D47F-92E2-4C20-9EE0-F710991F5D7C}_is1</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>KMSpico</NAME>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\KMSpico\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-008F-0000-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>24/01/2021</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Licensing Component</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{90160000-008F-0000-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13530.20440</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-00DD-0000-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>24/01/2021</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Extensibility Component 64-bit Registration</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90160000-00DD-0000-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13530.20440</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{94BC10B9-159A-44E8-BEA1-34BF765FEA58}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Intel(R) ME UninstallLegacy</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{94BC10B9-159A-44E8-BEA1-34BF765FEA58}</UNINSTALL_STRING>
+      <VERSION>1.0.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>This package is created by Creative Cloud Packager</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{9B08B2EC-C82E-4D24-A3E0-57646E2CE480}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Adobe Photoshop</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{9B08B2EC-C82E-4D24-A3E0-57646E2CE480}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.0.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A2CB1ACB-94A2-32BA-A15E-7D80319F7589}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{A2CB1ACB-94A2-32BA-A15E-7D80319F7589}</UNINSTALL_STRING>
+      <VERSION>11.0.50727</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A5536A08-5A7F-4330-8947-0372B500A3BD}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Intel(R) Management Engine Components</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{A5536A08-5A7F-4330-8947-0372B500A3BD}</UNINSTALL_STRING>
+      <VERSION>1.0.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC53FC8B-EE18-3F9C-9B59-60937D0B182C}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{AC53FC8B-EE18-3F9C-9B59-60937D0B182C}</UNINSTALL_STRING>
+      <VERSION>11.0.50727</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{ADC609D4-EC41-4E9D-851E-91EC132BCFAD}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(a)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{ADC609D4-EC41-4E9D-851E-91EC132BCFAD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{C77195A4-CEB8-38EE-BDD6-C46CB459EF6E}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.15.26706</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{C77195A4-CEB8-38EE-BDD6-C46CB459EF6E}</UNINSTALL_STRING>
+      <VERSION>14.15.26706</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CB0836EC-B072-368D-82B2-D3470BF95707}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{CB0836EC-B072-368D-82B2-D3470BF95707}</UNINSTALL_STRING>
+      <VERSION>12.0.40660</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}</UNINSTALL_STRING>
+      <VERSION>11.0.61030</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D9C2E250-17A1-0D68-CB41-83232EC31C2C}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>ccc-utility64</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1643.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{E2078C11-E9EC-BD96-037C-A3423082F2BF}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>AMD Catalyst Install Manager</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /q/x{E2078C11-E9EC-BD96-037C-A3423082F2BF} REBOOT=ReallySuppress</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>8.0.916.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Installs paint.net</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E637E0EF-6EB3-44C4-97B8-6F9EA444D649}</GUID>
+      <HELPLINK>http://www.getpaint.net</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>paint.net</NAME>
+      <PUBLISHER>dotPDN LLC</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{E637E0EF-6EB3-44C4-97B8-6F9EA444D649}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.dotPDN.com</URL_INFO_ABOUT>
+      <VERSION>4.1.5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F106B700-BFF8-3065-B305-14D36AD40539}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2017 x64 Additional Runtime - 14.15.26706</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{F106B700-BFF8-3065-B305-14D36AD40539}</UNINSTALL_STRING>
+      <VERSION>14.15.26706</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F88FE7C0-2B64-405B-9197-25F8BE135460}_is1</GUID>
+      <HELPLINK>http://www.solarwinds.com/</HELPLINK>
+      <INSTALLDATE>17/12/2020</INSTALLDATE>
+      <NAME>Advanced Monitoring Agent Network Management</NAME>
+      <PUBLISHER>Solarwinds Worldwide LLC</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Advanced Monitoring Agent Network Management\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.solarwinds.com/</URL_INFO_ABOUT>
+      <VERSION>41.8.0.2</VERSION>
+      <VERSION_MAJOR>41</VERSION_MAJOR>
+      <VERSION_MINOR>8</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>05/12/2020</INSTALLDATE>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.1198.18362.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>ACR_9_8_32</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>ACR_9_8_32</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Adobe\Adobe Creative Cloud\HDCore\Uninstaller.exe" --uninstall=1 --sapCode=ACR --productVersion=9.8 --productPlatform=win32 --productAdobeCode={ACR-9.8-32-ADBEADBEADBEADBEADBEADBEA} --productName="Camera Raw CC" --mode=0</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Creative Cloud</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Adobe Creative Cloud</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\Creative Cloud Uninstaller.exe"</UNINSTALL_STRING>
+      <VERSION>3.9.1.335</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Shockwave Player</GUID>
+      <HELPLINK>http://www.adobe.com/support/shockwave</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Adobe Shockwave Player 12.2</NAME>
+      <PUBLISHER>Adobe Systems, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Windows\SysWOW64\Adobe\Shockwave 12\uninstaller.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.2.0.162</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Advanced Monitoring Agent_is1</GUID>
+      <INSTALLDATE>19/10/2020</INSTALLDATE>
+      <NAME>Advanced Monitoring Agent</NAME>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Advanced Monitoring Agent\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>COCM_1_0_32</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>COCM_1_0_32</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Adobe\Adobe Creative Cloud\HDCore\Uninstaller.exe" --uninstall=1 --sapCode=COCM --productVersion=1.0 --productPlatform=win32 --productAdobeCode={COCM-1.0.4-ADBEADBEADBEADBEADBEADBEA} --productName="STI_Color_CommonSetCMYK_HD" --mode=0</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>COPS_1_0_32</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>COPS_1_0_32</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Adobe\Adobe Creative Cloud\HDCore\Uninstaller.exe" --uninstall=1 --sapCode=COPS --productVersion=1.0 --productPlatform=win32 --productAdobeCode={COPS-1.0.5-ADBEADBEADBEADBEADBEADBEA} --productName="STI_Color_Photoshop_HD" --mode=0</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CORE_1_0_32</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>CORE_1_0_32</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Adobe\Adobe Creative Cloud\HDCore\Uninstaller.exe" --uninstall=1 --sapCode=CORE --productVersion=1.0 --productPlatform=win32 --productAdobeCode={CORE-1.0-32-ADBEADBEADBEADBEADBEADBE} --productName="STI_Color_HD" --mode=0</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>CORG_1_0_32</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>CORG_1_0_32</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Adobe\Adobe Creative Cloud\HDCore\Uninstaller.exe" --uninstall=1 --sapCode=CORG --productVersion=1.0 --productPlatform=win32 --productAdobeCode={CORG-1.0.4-ADBEADBEADBEADBEADBEADBEA} --productName="STI_Color_CommonSetRGB_HD" --mode=0</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FastStone Capture</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>FastStone Capture 8.7</NAME>
+      <PUBLISHER>FastStone Soft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files (x86)\FastStone Capture\uninst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.faststone.org</URL_INFO_ABOUT>
+      <VERSION>8.7</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FileZilla Client</GUID>
+      <HELPLINK>https://filezilla-project.org/</HELPLINK>
+      <INSTALLDATE>09/09/2019</INSTALLDATE>
+      <NAME>FileZilla Client 3.40.0</NAME>
+      <PUBLISHER>Tim Kosse</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\FileZilla FTP Client\uninstall.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://filezilla-project.org/</URL_INFO_ABOUT>
+      <VERSION>3.40.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Foxit Reader_is1</GUID>
+      <HELPLINK>http://www.foxitsoftware.com/support/</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Foxit Reader</NAME>
+      <PUBLISHER>Foxit Software Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Foxit Software\Foxit Reader\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.foxitsoftware.com/</URL_INFO_ABOUT>
+      <VERSION>9.3.0.10826</VERSION>
+      <VERSION_MAJOR>9</VERSION_MAJOR>
+      <VERSION_MINOR>3</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Google Chrome</GUID>
+      <INSTALLDATE>28/01/2021</INSTALLDATE>
+      <NAME>Google Chrome</NAME>
+      <PUBLISHER>Google LLC</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Google\Chrome\Application\88.0.4324.104\Installer\setup.exe" --uninstall --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>88.0.4324.104</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>LTRM_8_3_1</GUID>
+      <HELPLINK>https://helpx.adobe.com/lightroom.html</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Adobe Lightroom Classic</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\Uninstaller.exe" --uninstall=1 --sapCode=LTRM --productVersion=8.3.1 --productPlatform=win64 --productAdobeCode={LTRM-8.3.1-64-ADBEADBEADBEADBEADBEAD} --productName="Lightroom Classic" --mode=1</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://helpx.adobe.com/support/lightroom.html</URL_INFO_ABOUT>
+      <VERSION>8.3.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft Edge</GUID>
+      <INSTALLDATE>29/01/2021</INSTALLDATE>
+      <NAME>Microsoft Edge</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Microsoft\Edge\Application\88.0.705.56\Installer\setup.exe" --uninstall --msedge --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>88.0.705.56</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft Edge Update</GUID>
+      <INSTALLDATE>20/01/2021</INSTALLDATE>
+      <NAME>Microsoft Edge Update</NAME>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <VERSION>1.3.139.71</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>PHSP_18_0_1</GUID>
+      <HELPLINK>http://www.adobe.com/go/ps_support</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Adobe Photoshop CC 2017</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Adobe\Adobe Creative Cloud\HDCore\Uninstaller.exe" --uninstall=1 --sapCode=PHSP --productVersion=18.0.1 --productPlatform=win64 --productAdobeCode={PHSP-18.0.1-64-ADBEADBEADBEADBEADBEA} --productName="Photoshop CC (2017)" --mode=0</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com/go/ps_support</URL_INFO_ABOUT>
+      <VERSION>18.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>PSTI_1_3_1</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>PSTI_1_3_1</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Adobe\Adobe Creative Cloud\HDCore\Uninstaller.exe" --uninstall=1 --sapCode=PSTI --productVersion=1.3.1 --productPlatform=win64 --productAdobeCode={PSTI-1.3.1-64-ADBEADBEADBEADBEADBEAD} --productName="Adobe Preview CC" --mode=0</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Skype_is1</GUID>
+      <HELPLINK>https://support.skype.com/</HELPLINK>
+      <INSTALLDATE>13/01/2021</INSTALLDATE>
+      <NAME>Skype version 8.67</NAME>
+      <PUBLISHER>Skype Technologies S.A.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Microsoft\Skype for Desktop\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.skype.com/</URL_INFO_ABOUT>
+      <VERSION>8.67</VERSION>
+      <VERSION_MAJOR>8</VERSION_MAJOR>
+      <VERSION_MINOR>67</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Take Control Viewer_is1</GUID>
+      <INSTALLDATE>19/10/2020</INSTALLDATE>
+      <NAME>Take Control Viewer 13.0</NAME>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Take Control Viewer\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>TeamViewer</GUID>
+      <HELPLINK>http://www.teamviewer.com</HELPLINK>
+      <INSTALLDATE>19/10/2020</INSTALLDATE>
+      <NAME>TeamViewer 13</NAME>
+      <PUBLISHER>TeamViewer</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Take Control Viewer\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>13.0.6447</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WUCCCApp</GUID>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>AMD Catalyst Control Center</NAME>
+      <PUBLISHER>AMD</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\AMD\WU-CCC2\ccc2_install\WULaunchApp.exe" -uninstall</UNINSTALL_STRING>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>XnView_is1</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>XnView 2.13</NAME>
+      <PUBLISHER>Gougelet Pierre-e</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\XnView\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.xnview.com</URL_INFO_ABOUT>
+      <VERSION>2.13</VERSION>
+      <VERSION_MAJOR>2</VERSION_MAJOR>
+      <VERSION_MINOR>13</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{03EB717E-7AF5-1D59-CD9B-CA7A6DBAA9AF}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Catalyst Control Center Graphics Previews Common</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1507.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0921F489-493D-D0DA-2D45-FDE6C97362FA}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Hungarian</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0C57FA05-A701-484C-86CD-D9D0843585F1}</GUID>
+      <INSTALLDATE>09/04/2020</INSTALLDATE>
+      <NAME>hppusgM1005</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Hewlett-Packard</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.hp.com</URL_INFO_ABOUT>
+      <VERSION>000.001.00000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{11087D24-567D-7D88-69C6-D7A08B5F4C47}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Catalyst Control Center - Branding</NAME>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{11087D24-567D-7D88-69C6-D7A08B5F4C47}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1421F102-2BDA-39D6-CCF0-9F4B3D6564E4}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help German</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{15134cb0-b767-4960-a911-f2d16ae54797}</GUID>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{15134cb0-b767-4960-a911-f2d16ae54797}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.50727.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{17BAD009-B4B2-8320-9159-AF7DD087D672}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Czech</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{17D0F297-2B7C-E59F-4B62-5E505CF3159B}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Catalyst Control Center Localization All</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1507.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1E93452B-BA3E-7375-958C-EBC5E8672A5E}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Danish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{22154f09-719a-4619-bb71-5b3356999fbf}</GUID>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{22154f09-719a-4619-bb71-5b3356999fbf}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.50727.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2757496A-3E74-320A-B007-36120A9F126D}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2017 x86 Additional Runtime - 14.15.26706</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{2757496A-3E74-320A-B007-36120A9F126D}</UNINSTALL_STRING>
+      <VERSION>14.15.26706</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{281D28EC-1357-4778-B2D7-DEA56D70EF96}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Logitech High Quality Video</NAME>
+      <PUBLISHER>Logitech, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{281D28EC-1357-4778-B2D7-DEA56D70EF96}</UNINSTALL_STRING>
+      <VERSION>12.10.1113</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2B642F70-BA82-5E78-41CE-BDFFD5C37530}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Swedish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2EA40F3D-0D93-A391-F383-6F1C708B80BF}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Turkish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2F73A7B2-E50E-39A6-9ABC-EF89E4C62E36}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{2F73A7B2-E50E-39A6-9ABC-EF89E4C62E36}</UNINSTALL_STRING>
+      <VERSION>11.0.50727</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3310DD5A-3695-3390-6F38-2B93D862FE02}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help German</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.61030.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{35b83883-40fa-423c-ae73-2aff7e1ea820}</GUID>
+      <INSTALLDATE>19/10/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40649</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{35b83883-40fa-423c-ae73-2aff7e1ea820}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.40649.5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{391CC42A-6DAC-D0D9-C155-3B275A731D67}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Swedish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{39E15475-23F2-345D-8977-B5DC47A94E26}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.15.26706</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{39E15475-23F2-345D-8977-B5DC47A94E26}</UNINSTALL_STRING>
+      <VERSION>14.15.26706</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{39E1C2BE-D6DB-608F-D28F-ECE143F858E3}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Greek</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3A6E64DC-A067-0C8A-B794-F0E9CD0DA537}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Russian</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3C7B5C75-FD82-BC1F-F148-89A3189EF385}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>AMD Catalyst Control Center</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1643.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{41ED8BA7-FC73-25DD-037E-8F8BDD645228}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Japanese</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>2.8.101.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4B230374-6475-4A73-BA6E-41015E9C5013}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Intel® Security Assist</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{4B230374-6475-4A73-BA6E-41015E9C5013}</UNINSTALL_STRING>
+      <VERSION>1.0.0.532</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4D72F94C-95A5-AA85-E75B-A1A1CB8FCE7A}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Greek</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{4ED756D2-7B91-41AC-9137-AFB9167DBB66}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(w)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{4ED756D2-7B91-41AC-9137-AFB9167DBB66}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4FBCEA31-5D18-4212-9231-DE7CF1BE7DBB}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Logitech Vid</NAME>
+      <PUBLISHER>Logitech Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{4FBCEA31-5D18-4212-9231-DE7CF1BE7DBB}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.logitech.com</URL_INFO_ABOUT>
+      <VERSION>1.10.1009</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{5644668B-04A5-68F6-0AA9-03255877C58F}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>Catalyst Control Center Localization All</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1643.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{58ECE031-9AAD-4011-B34A-BC78E77527E2}</GUID>
+      <INSTALLDATE>09/04/2020</INSTALLDATE>
+      <NAME>hppMSRedist</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Hewlett-Packard</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.hp.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{5DA870C0-BC5C-BE96-5045-BD429959C0D3}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Korean</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{5F3182EE-2532-3B96-2BBB-03B87F574E76}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Portuguese</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</GUID>
+      <INSTALLDATE>04/12/2020</INSTALLDATE>
+      <NAME>Google Update Helper</NAME>
+      <PUBLISHER>Google LLC</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</UNINSTALL_STRING>
+      <VERSION>1.3.36.51</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{61087a79-ac85-455c-934d-1fa22cc64f36}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{61087a79-ac85-455c-934d-1fa22cc64f36}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.40660.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Adobe Shockwave Player Merge Module</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</GUID>
+      <HELPLINK>http://www.adobe.com/support</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>swMSM</NAME>
+      <PUBLISHER>Adobe Systems, Inc</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{612C34C7-5E90-47D8-9B5C-0F717DD82726}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.0.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{68723B04-57EC-11E1-A6A8-9E2D4824019B}</GUID>
+      <HELPLINK>http://support.techsmith.com</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Snagit 11</NAME>
+      <PUBLISHER>TechSmith Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{68723B04-57EC-11E1-A6A8-9E2D4824019B}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.techsmith.com</URL_INFO_ABOUT>
+      <VERSION>11.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6953ECF8-0B1B-FBD7-0DDB-84C82FBBC2F4}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Japanese</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{6D7A146A-BD56-8EE1-FCC7-BE02013ACE36}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Chinese Standard</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{71971AE8-C8F3-3C62-FB89-AC41A96761AB}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Italian</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7299052b-02a4-4627-81f2-1818da5d550d}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2005 Redistributable</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{7299052b-02a4-4627-81f2-1818da5d550d}</UNINSTALL_STRING>
+      <VERSION>8.0.56336</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{73B373AE-228C-DA67-82FC-8B9618E61216}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Dutch</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Apple Software Update</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr</URL_INFO_ABOUT>
+      <VERSION>2.1.3.127</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{78fbaf2a-3d02-4a2e-a3fc-f7f88a27dc35}</GUID>
+      <INSTALLDATE>22/01/2021</INSTALLDATE>
+      <NAME>ScriptRunner Bootstrap Installer</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>SolarWinds</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{78fbaf2a-3d02-4a2e-a3fc-f7f88a27dc35}\ScriptRunner.Installer.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>2.18.0.7</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7A4DBF6C-F182-7A08-7143-553DBB396E5F}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Portuguese</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7D94356D-48E0-DE1A-423C-67A363C13771}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help English</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{7DAD0258-515C-3DD4-8964-BD714199E0F7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{7DAD0258-515C-3DD4-8964-BD714199E0F7}</UNINSTALL_STRING>
+      <VERSION>12.0.40660</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7DE27D8A-1D73-61EB-86F1-079AF7E55C3A}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Thai</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7E0B1563-7607-00D7-21CE-7DAFA6FF009C}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Czech</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7e9fae12-5bbf-47fb-b944-09c49e75c061}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2017 Redistributable (x86) - 14.15.26706</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{7e9fae12-5bbf-47fb-b944-09c49e75c061}\VC_redist.x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>14.15.26706.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7F8B68A2-0CD0-7DAF-8955-1419C60886D3}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Spanish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{87006B27-A5A6-9EF1-BA04-CD7284462419}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Norwegian</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=91955</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Silverlight</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</UNINSTALL_STRING>
+      <VERSION>5.1.20913.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8B130A5A-C724-7BE4-3B4D-4CB06FDC891E}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Korean</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8FA6AFC5-8DCD-7C04-C0DF-A9769336EFEC}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Finnish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-008C-0000-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>24/01/2021</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Extensibility Component</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90160000-008C-0000-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13530.20440</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-008C-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>24/01/2021</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Localization Component</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90160000-008C-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13530.20440</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{904FC5BA-57A0-47AD-4669-BE3F5D9457C8}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Polish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{947E1256-258E-60A2-7331-44D09E61CF99}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Russian</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{95ac1cfa-f4fb-4d1b-8912-7f9d5fbb140d}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2017 Redistributable (x64) - 14.15.26706</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{95ac1cfa-f4fb-4d1b-8912-7f9d5fbb140d}\VC_redist.x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>14.15.26706.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9A25302D-30C0-39D9-BD6F-21E6EC160475}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{9A25302D-30C0-39D9-BD6F-21E6EC160475}</UNINSTALL_STRING>
+      <VERSION>9.0.30729</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A3168DE0-479A-D5EC-59C4-0278C7DEC11C}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Hungarian</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A49F249F-0C91-497F-86DF-B2585E8E76B7}</GUID>
+      <INSTALLDATE>09/04/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2005 Redistributable</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{A49F249F-0C91-497F-86DF-B2585E8E76B7}</UNINSTALL_STRING>
+      <VERSION>8.0.50727.42</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>LibreOffice 4.4 (multilanguage)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A651A592-2F6C-4D66-AEA8-9BFE4B61BCB3}</GUID>
+      <HELPLINK>http://www.libreoffice.org/get-help</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>LibreOffice 4.4.3.2</NAME>
+      <PUBLISHER>The Document Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{A651A592-2F6C-4D66-AEA8-9BFE4B61BCB3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.documentfoundation.org</URL_INFO_ABOUT>
+      <VERSION>4.4.3.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AAAE97DA-1E8B-C0E9-F0E3-5481A09F97C8}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help French</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-0804-1033-1959-001824369436}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>19/03/2020</INSTALLDATE>
+      <NAME>Adobe Refresh Manager</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-0804-1033-1959-001824369436}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.8.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>  </COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-1033-FFFF-7760-000000000006}</GUID>
+      <HELPLINK>http://www.adobe.fr/support/main.html</HELPLINK>
+      <INSTALLDATE>09/06/2020</INSTALLDATE>
+      <NAME>Adobe Acrobat XI Pro</NAME>
+      <PUBLISHER>Adobe Systems</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-1033-FFFF-7760-000000000006}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.0.06</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AF0CE7C0-A3E4-4D73-988B-B29187EC6E9A}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>QuickTime</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AF0CE7C0-A3E4-4D73-988B-B29187EC6E9A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr/</URL_INFO_ABOUT>
+      <VERSION>7.73.80.64</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AFDFBED8-CC9A-8E00-015D-845F0BF9D1E1}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Chinese Traditional</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{B175520C-86A2-35A7-8619-86DC379688B9}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}</UNINSTALL_STRING>
+      <VERSION>11.0.61030</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B5BE6E09-9120-A176-CB43-6B488797468A}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help English</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BC1D9E47-8927-4AA1-A891-7763BC2475B7}</GUID>
+      <INSTALLDATE>26/09/2019</INSTALLDATE>
+      <NAME>Skype Meetings App</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{BC1D9E47-8927-4AA1-A891-7763BC2475B7}</UNINSTALL_STRING>
+      <VERSION>16.2.0.511</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}</UNINSTALL_STRING>
+      <VERSION>11.0.61030</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BF44ADDF-E927-4B66-E829-4AF27BF6A58B}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Polish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{C3EAC1D2-A492-7B08-A9D5-15EDD5EA1A89}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Dutch</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{C79C2FE1-0702-6128-8DCB-5B623601DACC}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Danish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{c7f54569-0018-439c-809a-48046a4d4ebc}</GUID>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>Logiciel pour périphérique à chipset Intel®</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Intel(R) Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{c7f54569-0018-439c-809a-48046a4d4ebc}\SetupChipset.exe"  /uninstall</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.intel.com</URL_INFO_ABOUT>
+      <VERSION>10.1.1.9</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.61030.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{CE1798D0-E5CC-B5A9-FAD5-94B30F6ADAFC}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Spanish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D7D20EB4-BD89-05C0-05C6-33E5B762989E}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>Catalyst Control Center InstallProxy</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1643.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D81D3303-7080-4052-8820-B3B5FCB1337A}</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Adobe Flash Player 27 PPAPI</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{D81D3303-7080-4052-8820-B3B5FCB1337A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>27.0.0.170</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D8474BEA-3C90-453C-82ED-870D06CF8CCD}</GUID>
+      <INSTALLDATE>22/01/2021</INSTALLDATE>
+      <NAME>ScriptRunner.Installer 2.18.0.7</NAME>
+      <PUBLISHER>SolarWinds</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{D8474BEA-3C90-453C-82ED-870D06CF8CCD}</UNINSTALL_STRING>
+      <VERSION>2.18.0.7</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D93841F5-E1E4-A3E5-67E1-981A2247AE25}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Chinese Traditional</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{DD642527-3173-4D55-B4F0-3C4EAACC518D}</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Adobe Flash Player 27 NPAPI</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{DD642527-3173-4D55-B4F0-3C4EAACC518D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>27.0.0.170</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{E1A2E051-585A-D7B1-A461-79424494ACF9}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Turkish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{E1B80DEE-A795-4258-8445-074C06AE3AB8}</GUID>
+      <INSTALLDATE>09/04/2020</INSTALLDATE>
+      <NAME>MarketResearch</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Hewlett-Packard</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.hp.com</URL_INFO_ABOUT>
+      <VERSION>70.0.55.000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E30D8B21-D82D-3211-82CC-0F0A5D1495E8}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{E30D8B21-D82D-3211-82CC-0F0A5D1495E8}</UNINSTALL_STRING>
+      <VERSION>12.0.40660</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{E3763D79-64F2-7CD2-06E6-D8BCE6390613}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Norwegian</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{E3E0C380-EBCE-8872-5C82-E977214B000F}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Thai</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EDDC46EA-DF0A-E6CB-4C1A-285B40A72339}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Italian</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EE2E5B41-C4BF-99E5-9DA6-488D36FF0D41}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help Chinese Standard</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{ef6b00ec-13e1-4c25-9064-b2f383cb8412}</GUID>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{ef6b00ec-13e1-4c25-9064-b2f383cb8412}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.40660.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=146008</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F12000CE-0001-0000-0000-074957833700}</GUID>
+      <HELPLINK>http://go.abbyy.com/?Product=FR&amp;ParentProduct=Finereader&amp;MajorVersion=12&amp;Target=OnlineHelp&amp;Source=Install&amp;Language=1036&amp;Version=12.1.439&amp;Edition=Corporate</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>ABBYY FineReader 12 Corporate</NAME>
+      <PUBLISHER>ABBYY Production LLC</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{F12000CE-0001-0000-0000-074957833700}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.abbyy.com/?Product=FR&amp;ParentProduct=Finereader&amp;MajorVersion=12&amp;Target=Support&amp;Source=Install&amp;Language=1036&amp;Version=12.1.439&amp;Edition=Corporate</URL_INFO_ABOUT>
+      <VERSION>12.1.439</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F1596E55-74AC-C362-905A-8E5F079DAF6C}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>27/08/2019</INSTALLDATE>
+      <NAME>CCC Help French</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.0727.1506.25359</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5266D28-E0B2-4130-BFC5-EE155AD514DC}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>Apple Application Support</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{F5266D28-E0B2-4130-BFC5-EE155AD514DC}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr</URL_INFO_ABOUT>
+      <VERSION>2.3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F6860530-9733-0BB2-9C09-F25101076E78}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>CCC Help Finnish</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1642.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{FDB30193-FDA0-3DAA-ACCA-A75EEFE53607}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{FDB30193-FDA0-3DAA-ACCA-A75EEFE53607}</UNINSTALL_STRING>
+      <VERSION>11.0.50727</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>12/11/2020</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.1198.18362.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>15/01/2021</INSTALLDATE>
+      <NAME>KB4586878</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>10/07/2020</INSTALLDATE>
+      <NAME>KB4497165</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>01/04/2019</INSTALLDATE>
+      <NAME>KB4497727</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>KB4498523</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>26/08/2019</INSTALLDATE>
+      <NAME>KB4503308</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>12/11/2020</INSTALLDATE>
+      <NAME>KB4517245</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/01/2021</INSTALLDATE>
+      <NAME>KB4535680</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>KB4537759</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>17/04/2020</INSTALLDATE>
+      <NAME>KB4552152</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/06/2020</INSTALLDATE>
+      <NAME>KB4559309</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>12/06/2020</INSTALLDATE>
+      <NAME>KB4560959</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/06/2020</INSTALLDATE>
+      <NAME>KB4561600</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>30/07/2020</INSTALLDATE>
+      <NAME>KB4565554</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/08/2020</INSTALLDATE>
+      <NAME>KB4569073</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/09/2020</INSTALLDATE>
+      <NAME>KB4576751</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/10/2020</INSTALLDATE>
+      <NAME>KB4577670</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/10/2020</INSTALLDATE>
+      <NAME>KB4580325</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>12/11/2020</INSTALLDATE>
+      <NAME>KB4586863</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/01/2021</INSTALLDATE>
+      <NAME>KB4598479</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>13/01/2021</INSTALLDATE>
+      <NAME>KB4598229</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>High Definition Audio Device</CAPTION>
+      <DESCRIPTION>High Definition Audio Device</DESCRIPTION>
+      <MANUFACTURER>Microsoft</MANUFACTURER>
+      <NAME>High Definition Audio Device</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>High Definition Audio Device</CAPTION>
+      <DESCRIPTION>High Definition Audio Device</DESCRIPTION>
+      <MANUFACTURER>Microsoft</MANUFACTURER>
+      <NAME>High Definition Audio Device</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <DISKSIZE>500107</DISKSIZE>
+      <FIRMWARE>MS1OA750</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>TOSHIBA DT01ACA050</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>95LLSZTAS</SERIAL>
+      <SERIALNUMBER>95LLSZTAS</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <FIRMWARE>1.00</FIRMWARE>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>USB Mass  Storage Device USB Device</MODEL>
+      <NAME>\\.\PHYSICALDRIVE1</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>816820130806</SERIAL>
+      <SERIALNUMBER>816820130806</SERIALNUMBER>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>Generic USB Hub</CAPTION>
+      <MANUFACTURER>Intel Corp.</MANUFACTURER>
+      <NAME>Generic USB Hub</NAME>
+      <PRODUCTID>8000</PRODUCTID>
+      <VENDORID>8087</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>Keyboard TRACER Gamma Ivory</CAPTION>
+      <MANUFACTURER>SiGma Micro</MANUFACTURER>
+      <NAME>Keyboard TRACER Gamma Ivory</NAME>
+      <PRODUCTID>0002</PRODUCTID>
+      <VENDORID>1C4F</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>Generic USB Hub</CAPTION>
+      <MANUFACTURER>Intel Corp.</MANUFACTURER>
+      <NAME>Generic USB Hub</NAME>
+      <PRODUCTID>8008</PRODUCTID>
+      <VENDORID>8087</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Mass Storage Device</CAPTION>
+      <MANUFACTURER>Super Top</MANUFACTURER>
+      <NAME>USB Mass Storage Device</NAME>
+      <PRODUCTID>168A</PRODUCTID>
+      <SERIAL>816820130806</SERIAL>
+      <VENDORID>14CD</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Input Device</CAPTION>
+      <MANUFACTURER>Sunplus Innovation Technology Inc.</MANUFACTURER>
+      <NAME>USB Input Device</NAME>
+      <PRODUCTID>0053</PRODUCTID>
+      <VENDORID>1BCF</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>PC-ING-138C</DOMAIN>
+      <LOGIN>user</LOGIN>
+    </USERS>
+    <USERS>
+      <DOMAIN>PC-ING-138C</DOMAIN>
+      <LOGIN>admin</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.5.2</VERSIONCLIENT>
+    <VERSIONPROVIDER>
+      <COMMENTS>Provided by Fusioninventory</COMMENTS>
+      <COMMENTS>Installer built with Appveyor on Mon Dec 16 14:01:47 UTC 2019</COMMENTS>
+      <NAME>FusionInventory</NAME>
+      <PERL_EXE>C:\Program Files\FusionInventory-Agent\perl\bin\fusioninventory-agent.exe</PERL_EXE>
+      <PERL_VERSION>v5.30.0</PERL_VERSION>
+      <PROGRAM>C:\Program Files\FusionInventory-Agent\perl\bin\fusioninventory-win32-service</PROGRAM>
+      <VERSION>2.5.2</VERSION>
+    </VERSIONPROVIDER>
+    <VIDEOS>
+      <CHIPSET>AMD Radeon Graphics Processor (0x68E5)</CHIPSET>
+      <NAME>AMD Radeon HD5450</NAME>
+      <RESOLUTION>1920x1080</RESOLUTION>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>PC-ING-138C-2020-10-15-12-55-14</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

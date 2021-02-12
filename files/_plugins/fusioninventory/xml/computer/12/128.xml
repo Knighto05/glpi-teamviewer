@@ -1,0 +1,3120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2021-02-03 08:35:20</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <BASE_VERSION>1.331.92.0</BASE_VERSION>
+      <COMPANY>Microsoft Corporation</COMPANY>
+      <ENABLED>1</ENABLED>
+      <GUID>{D68DDC3A-831F-4fae-9E44-DA132C1ACF46}</GUID>
+      <NAME>Windows Defender</NAME>
+      <UPTODATE>1</UPTODATE>
+      <VERSION>4.18.2011.6</VERSION>
+    </ANTIVIRUS>
+    <BIOS>
+      <ASSETTAG>Default string</ASSETTAG>
+      <BDATE>12/27/2017</BDATE>
+      <BMANUFACTURER>American Megatrends Inc.</BMANUFACTURER>
+      <BVERSION>3703</BVERSION>
+      <MMANUFACTURER>ASUSTeK COMPUTER INC.</MMANUFACTURER>
+      <MMODEL>Z170-AR</MMODEL>
+      <MSN>MB-1234567890</MSN>
+      <SKUNUMBER>SKU</SKUNUMBER>
+      <SMANUFACTURER>System manufacturer</SMANUFACTURER>
+      <SMODEL>System Product Name</SMODEL>
+      <SSN>System Serial Number</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a102</PRODUCTID>
+      <TYPE>Standard SATA AHCI Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>100 Series/C230 Series Chipset Family USB 3.0 xHCI Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>100 Series/C230 Series Chipset Family USB 3.0 xHCI Controller</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a12f</PRODUCTID>
+      <TYPE>Contrôleur hôte Intel(R) USB 3.0 eXtensible - 1.0 (Microsoft)</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>ASM1142 USB 3.1 Host Controller</CAPTION>
+      <MANUFACTURER>ASMedia Technology Inc.</MANUFACTURER>
+      <NAME>ASM1142 USB 3.1 Host Controller</NAME>
+      <PCISUBSYSTEMID>1043:8675</PCISUBSYSTEMID>
+      <PRODUCTID>1242</PRODUCTID>
+      <TYPE>Contrôleur hôte ASMedia USB 3.1 eXtensible - 1.10 (Microsoft)</TYPE>
+      <VENDORID>1b21</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>GK104 HDMI Audio Controller</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>GK104 HDMI Audio Controller</NAME>
+      <PCISUBSYSTEMID>19da:2280</PCISUBSYSTEMID>
+      <PRODUCTID>0e0a</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>100 Series/C230 Series Chipset Family PCI Express Root Port #3</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>100 Series/C230 Series Chipset Family PCI Express Root Port #3</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a112</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #3 - A112</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>100 Series/C230 Series Chipset Family HD Audio Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>100 Series/C230 Series Chipset Family HD Audio Controller</NAME>
+      <PCISUBSYSTEMID>1043:8698</PCISUBSYSTEMID>
+      <PRODUCTID>a170</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>100 Series/C230 Series Chipset Family Power Management Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>100 Series/C230 Series Chipset Family Power Management Controller</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a121</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family PMC - A121</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>100 Series/C230 Series Chipset Family PCI Express Root Port #17</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>100 Series/C230 Series Chipset Family PCI Express Root Port #17</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a167</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family PCI Root Port #17 - A167</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor Host Bridge/DRAM Registers</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor Host Bridge/DRAM Registers</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>191f</PRODUCTID>
+      <TYPE>Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) Host Bridge/DRAM Registers - 191F</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Ethernet Connection (2) I219-V</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Ethernet Connection (2) I219-V</NAME>
+      <PCISUBSYSTEMID>1043:8672</PCISUBSYSTEMID>
+      <PRODUCTID>15b8</PRODUCTID>
+      <TYPE>Intel(R) Ethernet Connection (2) I219-V</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>100 Series/C230 Series Chipset Family SMBus</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>100 Series/C230 Series Chipset Family SMBus</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a123</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family SMBus - A123</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Z170 Chipset LPC/eSPI Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Z170 Chipset LPC/eSPI Controller</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a145</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family LPC Controller - A145</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>ASM1083/1085 PCIe to PCI Bridge</CAPTION>
+      <MANUFACTURER>ASMedia Technology Inc.</MANUFACTURER>
+      <NAME>ASM1083/1085 PCIe to PCI Bridge</NAME>
+      <PCISUBSYSTEMID>1043:8489</PCISUBSYSTEMID>
+      <PRODUCTID>1080</PRODUCTID>
+      <TYPE>PCI-to-PCI Bridge</TYPE>
+      <VENDORID>1b21</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor PCIe Controller (x16)</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor PCIe Controller (x16)</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>1901</PRODUCTID>
+      <TYPE>Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) PCIe Controller (x16) - 1901</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>100 Series/C230 Series Chipset Family MEI Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>100 Series/C230 Series Chipset Family MEI Controller #1</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a13a</PRODUCTID>
+      <TYPE>Intel(R) Management Engine Interface </TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>GK104 [GeForce GTX 660 Rev. 2]</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>GK104 [GeForce GTX 660 Rev. 2]</NAME>
+      <PCISUBSYSTEMID>19da:2280</PCISUBSYSTEMID>
+      <PRODUCTID>1195</PRODUCTID>
+      <TYPE>NVIDIA GeForce GTX 660</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>100 Series/C230 Series Chipset Family PCI Express Root Port #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>100 Series/C230 Series Chipset Family PCI Express Root Port #1</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a110</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #1 - A110</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>100 Series/C230 Series Chipset Family PCI Express Root Port #9</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>100 Series/C230 Series Chipset Family PCI Express Root Port #9</NAME>
+      <PCISUBSYSTEMID>1043:8694</PCISUBSYSTEMID>
+      <PRODUCTID>a118</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #9 - A118</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>4</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 94 Stepping 3</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>E3 06 05 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>94</MODEL>
+      <NAME>Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz</NAME>
+      <SERIAL>ToBeFilledByO.E.M.</SERIAL>
+      <SPEED>3200</SPEED>
+      <STEPPING>3</STEPPING>
+      <THREAD>4</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Disque monté local</DESCRIPTION>
+      <ENCRYPT_ALGO>None</ENCRYPT_ALGO>
+      <ENCRYPT_NAME>BitLocker</ENCRYPT_NAME>
+      <ENCRYPT_STATUS>No</ENCRYPT_STATUS>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>306888</FREE>
+      <LABEL/>
+      <LETTER>C:</LETTER>
+      <SERIAL>34A81BF0</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>365826</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN/>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disque monté local</DESCRIPTION>
+      <ENCRYPT_ALGO>None</ENCRYPT_ALGO>
+      <ENCRYPT_NAME>BitLocker</ENCRYPT_NAME>
+      <ENCRYPT_STATUS>No</ENCRYPT_STATUS>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>95683</FREE>
+      <LABEL>DOCS</LABEL>
+      <LETTER>D:</LETTER>
+      <SERIAL>0EF6CFAF</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>109998</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>DOCS</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disque CD-ROM</DESCRIPTION>
+      <LETTER>E:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Compact Disc</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>162</FREE>
+      <LABEL>Réservé au système</LABEL>
+      <LETTER>Réservé au système</LETTER>
+      <SERIAL>1C93C02A</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>578</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>Réservé au système</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>82</FREE>
+      <SERIAL>264792A0</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>531</TOTAL>
+      <TYPE>Local Disk</TYPE>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>DriverData</KEY>
+      <VAL>C:\Windows\System32\Drivers\DriverData</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%ProgramFiles%\WindowsPowerShell\Modules;%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Druide\Antidote 9\Application\Bin64\;C:\Program Files (x86)\Druide\Antidote 9\Application\Bin32\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>CLASSPATH</KEY>
+      <VAL>.;C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>QTJAVA</KEY>
+      <VAL>C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>4</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>Intel64 Family 6 Model 94 Stepping 3, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>5e03</VAL>
+    </ENVS>
+    <FIREWALL>
+      <PROFILE>PublicProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <DESCRIPTION>Intel(R) Ethernet Connection (2) I219-V</DESCRIPTION>
+      <IPADDRESS>192.168.18.26</IPADDRESS>
+      <PROFILE>StandardProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <PROFILE>DomainProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <HARDWARE>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>66049</CHECKSUM>
+      <DEFAULTGATEWAY>192.168.1.1</DEFAULTGATEWAY>
+      <DESCRIPTION>PC-ING-435C</DESCRIPTION>
+      <DNS>192.168.1.1</DNS>
+      <ETIME>37</ETIME>
+      <IPADDR>192.168.18.26</IPADDR>
+      <LASTLOGGEDUSER>user</LASTLOGGEDUSER>
+      <MEMORY>8131</MEMORY>
+      <NAME>PC-ING-435C</NAME>
+      <OSNAME>Microsoft Windows 10 Professionnel</OSNAME>
+      <OSVERSION>10.0.19041</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>3200</PROCESSORS>
+      <PROCESSORT>Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz</PROCESSORT>
+      <USERID>user</USERID>
+      <UUID>FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINLANG>1036</WINLANG>
+      <WINOWNER>admin</WINOWNER>
+      <WINPRODID>00331-10000-00001-AA487</WINPRODID>
+      <WINPRODKEY>W269N-WFGWX-YVC9B-4J6C9-T83GX</WINPRODKEY>
+      <WORKGROUP>WORKGROUP</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Étendu (101 ou 102 touches)</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <LAYOUT>0000040C</LAYOUT>
+      <NAME>Étendu (101 ou 102 touches)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>USB Input Device</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Standard system devices)</MANUFACTURER>
+      <NAME>USB Input Device</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LICENSEINFOS>
+      <FULLNAME>Office 16, VOLUME_KMSCLIENT channel</FULLNAME>
+      <KEY>XXXXX-XXXXX-XXXXX-XXXXX-WFG99</KEY>
+      <NAME>Office 16, Office16ProPlusVL_KMS_Client edition</NAME>
+      <OEM>0</OEM>
+      <PRODUCTID>00339-10000-00000-AA627</PRODUCTID>
+    </LICENSEINFOS>
+    <LICENSEINFOS>
+      <COMPONENTS>Access/Excel/Groove/InfoPath/InterConnect/OneNote/Outlook/OutlookStandard/PowerPoint/Project/Publisher/SharePointDesigner/Visio/VisioSDK/WebDesigner/Word</COMPONENTS>
+      <FULLNAME>Microsoft Office Enterprise 2007</FULLNAME>
+      <KEY>QRQ8R-J27QF-WTTTY-3MKKQ-HGYYJ</KEY>
+      <NAME>Microsoft Office</NAME>
+      <OEM>1</OEM>
+      <PRODUCTID>89388-707-2932723-65140</PRODUCTID>
+    </LICENSEINFOS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administrateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-578</ID>
+      <NAME>Administrateurs Hyper-V</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Invités</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Lecteurs des journaux d’événements</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-579</ID>
+      <NAME>Opérateurs d'assistance de contrôle d'accès</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Opérateurs de chiffrement</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Opérateurs de configuration réseau</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Opérateurs de sauvegarde</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-583</ID>
+      <NAME>Propriétaires d'appareils</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-581</ID>
+      <NAME>System Managed Accounts Group</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Utilisateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Utilisateurs avec pouvoir</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-580</ID>
+      <NAME>Utilisateurs de gestion à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Utilisateurs de l’Analyseur de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Utilisateurs du Bureau à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Utilisateurs du journal de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Utilisateurs du modèle COM distribué</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-3086943007-511798497-3764043732-1001</ID>
+      <NAME>admin</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-3086943007-511798497-3764043732-1002</ID>
+      <NAME>user</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPTION>ChannelA-DIMM1</CAPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>8192</CAPACITY>
+      <CAPTION>ChannelA-DIMM2</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>Corsair</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+      <SERIALNUMBER>00000000</SERIALNUMBER>
+      <SPEED>2133</SPEED>
+      <TYPE>DDR4</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>ChannelB-DIMM1</CAPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>3</NUMSLOTS>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>ChannelB-DIMM2</CAPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>4</NUMSLOTS>
+    </MEMORIES>
+    <NETWORKS>
+      <DESCRIPTION>Intel(R) Ethernet Connection (2) I219-V</DESCRIPTION>
+      <IPADDRESS>192.168.18.26</IPADDRESS>
+      <IPGATEWAY>192.168.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>192.168.0.0</IPSUBNET>
+      <MACADDR>38:D5:47:29:4A:FA</MACADDR>
+      <PCIID>8086:15B8:8672:1043</PCIID>
+      <PNPDEVICEID>PCI\VEN_8086&amp;DEV_15B8&amp;SUBSYS_86721043&amp;REV_31\3&amp;11583659&amp;0&amp;FE</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2021-02-03 07:38:58</BOOT_TIME>
+      <DNS_DOMAIN>WORKGROUP</DNS_DOMAIN>
+      <FQDN>PC-ING-435C.ingedata.mada</FQDN>
+      <FULL_NAME>Microsoft Windows 10 Professionnel</FULL_NAME>
+      <INSTALL_DATE>2020-12-02 11:23:58</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>10.0.19041</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK/>  <TIMEZONE>
+        <NAME>Asia/Riyadh</NAME>
+        <OFFSET>+0300</OFFSET>
+      </TIMEZONE>
+      <VERSION>2004</VERSION>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB3_910</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Other</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>SPDIF_O_HDMI_DP</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Other</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>SPDIF_1_DVI_VGA</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>PS/2 KBMS</NAME>
+      <TYPE>Parallel Port PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB3_56</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>RJ-45</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>LAN</NAME>
+      <TYPE>Network Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB3.1_E1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB3.1_E2</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Other</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>AUDIO</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>SPDIF_OUT</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Mini Jack (headphones)</DESCRIPTION>
+      <NAME>AAFP</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>DB-9 male</DESCRIPTION>
+      <NAME>COM</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>TPM</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>TB_HEADER</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Access Bus (USB)</DESCRIPTION>
+      <NAME>USB1112</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Access Bus (USB)</DESCRIPTION>
+      <NAME>USB1314</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Access Bus (USB)</DESCRIPTION>
+      <NAME>USB3_34</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>SATA6G_34</NAME>
+      <TYPE>SATA</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>SATA6G_56</NAME>
+      <TYPE>SATA</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>SATAEXPRESS</NAME>
+      <TYPE>SATA</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Access Bus (USB)</DESCRIPTION>
+      <NAME>USB3_12</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>CPU_FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>OPT_FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>EXT_FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>CHA_FAN1</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>CHA_FAN2</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>CHA_FAN3</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>CHA_FAN4</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>M.2</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Port de communication (COM1)</CAPTION>
+      <DESCRIPTION>Port de communication</DESCRIPTION>
+      <NAME>Port de communication (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB3_910</CAPTION>
+      <DESCRIPTION>USB3_910</DESCRIPTION>
+      <NAME>USB3_910</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SPDIF_O_HDMI_DP</CAPTION>
+      <DESCRIPTION>SPDIF_O_HDMI_DP</DESCRIPTION>
+      <NAME>SPDIF_O_HDMI_DP</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SPDIF_1_DVI_VGA</CAPTION>
+      <DESCRIPTION>SPDIF_1_DVI_VGA</DESCRIPTION>
+      <NAME>SPDIF_1_DVI_VGA</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2 KBMS</CAPTION>
+      <DESCRIPTION>PS/2 KBMS</DESCRIPTION>
+      <NAME>PS/2 KBMS</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB3_56</CAPTION>
+      <DESCRIPTION>USB3_56</DESCRIPTION>
+      <NAME>USB3_56</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>LAN</CAPTION>
+      <DESCRIPTION>LAN</DESCRIPTION>
+      <NAME>LAN</NAME>
+      <TYPE>RJ45</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB3.1_E1</CAPTION>
+      <DESCRIPTION>USB3.1_E1</DESCRIPTION>
+      <NAME>USB3.1_E1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB3.1_E2</CAPTION>
+      <DESCRIPTION>USB3.1_E2</DESCRIPTION>
+      <NAME>USB3.1_E2</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>AUDIO</CAPTION>
+      <DESCRIPTION>AUDIO</DESCRIPTION>
+      <NAME>AUDIO</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SPDIF_OUT</CAPTION>
+      <DESCRIPTION>SPDIF_OUT</DESCRIPTION>
+      <NAME>SPDIF_OUT</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>AAFP</CAPTION>
+      <DESCRIPTION>AAFP</DESCRIPTION>
+      <NAME>AAFP</NAME>
+      <TYPE>PCI-X</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>COM</CAPTION>
+      <DESCRIPTION>COM</DESCRIPTION>
+      <NAME>COM</NAME>
+      <TYPE>DB-9</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>TPM</CAPTION>
+      <DESCRIPTION>TPM</DESCRIPTION>
+      <NAME>TPM</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>TB_HEADER</CAPTION>
+      <DESCRIPTION>TB_HEADER</DESCRIPTION>
+      <NAME>TB_HEADER</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB1112</CAPTION>
+      <DESCRIPTION>USB1112</DESCRIPTION>
+      <NAME>USB1112</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB1314</CAPTION>
+      <DESCRIPTION>USB1314</DESCRIPTION>
+      <NAME>USB1314</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB3_34</CAPTION>
+      <DESCRIPTION>USB3_34</DESCRIPTION>
+      <NAME>USB3_34</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SATA6G_34</CAPTION>
+      <DESCRIPTION>SATA6G_34</DESCRIPTION>
+      <NAME>SATA6G_34</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SATA6G_56</CAPTION>
+      <DESCRIPTION>SATA6G_56</DESCRIPTION>
+      <NAME>SATA6G_56</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SATAEXPRESS</CAPTION>
+      <DESCRIPTION>SATAEXPRESS</DESCRIPTION>
+      <NAME>SATAEXPRESS</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB3_12</CAPTION>
+      <DESCRIPTION>USB3_12</DESCRIPTION>
+      <NAME>USB3_12</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CPU_FAN</CAPTION>
+      <DESCRIPTION>CPU_FAN</DESCRIPTION>
+      <NAME>CPU_FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>OPT_FAN</CAPTION>
+      <DESCRIPTION>OPT_FAN</DESCRIPTION>
+      <NAME>OPT_FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>EXT_FAN</CAPTION>
+      <DESCRIPTION>EXT_FAN</DESCRIPTION>
+      <NAME>EXT_FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CHA_FAN1</CAPTION>
+      <DESCRIPTION>CHA_FAN1</DESCRIPTION>
+      <NAME>CHA_FAN1</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CHA_FAN2</CAPTION>
+      <DESCRIPTION>CHA_FAN2</DESCRIPTION>
+      <NAME>CHA_FAN2</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CHA_FAN3</CAPTION>
+      <DESCRIPTION>CHA_FAN3</DESCRIPTION>
+      <NAME>CHA_FAN3</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CHA_FAN4</CAPTION>
+      <DESCRIPTION>CHA_FAN4</DESCRIPTION>
+      <NAME>CHA_FAN4</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>M.2</CAPTION>
+      <DESCRIPTION>M.2</DESCRIPTION>
+      <NAME>M.2</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Snagit 11 Printer</DRIVER>
+      <NAME>Snagit 11</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>C:\ProgramData\TechSmith\Snagit 11\PrinterPortFile</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Send to Microsoft OneNote 16 Driver</DRIVER>
+      <NAME>OneNote (Desktop)</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>nul:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft XPS Document Writer v4</DRIVER>
+      <NAME>Microsoft XPS Document Writer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Print To PDF</DRIVER>
+      <NAME>Microsoft Print to PDF</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Foxit Reader PDF Printer Driver</DRIVER>
+      <NAME>Foxit Reader PDF Printer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>FOXIT_Reader:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Shared Fax Driver</DRIVER>
+      <NAME>Fax</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>SHRFAX:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Adobe PDF Converter</DRIVER>
+      <NAME>Adobe PDF</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>Documents\*.pdf</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>1200x1200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express</DESCRIPTION>
+      <DESIGNATION>0</DESIGNATION>
+      <NAME>PCIEX1_1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>PCIEX16_1</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>PCIEX1_2</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>PCI</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express</DESCRIPTION>
+      <DESIGNATION>4</DESIGNATION>
+      <NAME>PCIEX16_2</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express</DESCRIPTION>
+      <DESIGNATION>5</DESIGNATION>
+      <NAME>PCIEX1_3</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express</DESCRIPTION>
+      <DESIGNATION>6</DESIGNATION>
+      <NAME>PCIEX16_3</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>PCIEX1_1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>PCIEX16_1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>PCIEX1_2</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>PCI</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>PCIEX16_2</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>PCIEX1_3</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>PCIEX16_3</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>https://github.com/fusioninventory/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.5.2 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.5.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Firefox 76.0.1 (x64 fr)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Mozilla Firefox 76.0.1 (x64 fr)</GUID>
+      <HELPLINK>https://support.mozilla.org</HELPLINK>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Mozilla Firefox 76.0.1 (x64 fr)</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Mozilla Firefox\uninstall\helper.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.mozilla.org</URL_INFO_ABOUT>
+      <VERSION>76.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Maintenance Service</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>MozillaMaintenanceService</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Mozilla Maintenance Service</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Mozilla Maintenance Service\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>72.0.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Notepad++</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Notepad++ (64-bit x64)</NAME>
+      <PUBLISHER>Notepad++ Team</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\Notepad++\uninstall.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://notepad-plus-plus.org/</URL_INFO_ABOUT>
+      <VERSION>7.7</VERSION>
+      <VERSION_MAJOR>7</VERSION_MAJOR>
+      <VERSION_MINOR>7</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>ProPlus2019Retail - fr-fr</GUID>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Microsoft Office Professionnel Plus 2019 - fr-fr</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=ProPlus2019Retail.16_fr-fr_x-none culture=fr-fr version.16=16.0</UNINSTALL_STRING>
+      <VERSION>16.0.13628.20274</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Ultravnc2_is1</GUID>
+      <HELPLINK>http://forum.ultravnc.info</HELPLINK>
+      <INSTALLDATE>10/02/2020</INSTALLDATE>
+      <NAME>UltraVnc</NAME>
+      <PUBLISHER>uvnc bvba</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\uvnc bvba\UltraVNC\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.uvnc.com</URL_INFO_ABOUT>
+      <VERSION>1.2.0.9</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>2</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>VLC media player</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>VLC media player</NAME>
+      <PUBLISHER>VideoLAN</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\VideoLAN\VLC\uninstall.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.videolan.org/</URL_INFO_ABOUT>
+      <VERSION>3.0.8</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>WinRAR 5.21 beta 1 (64-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>5.21.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{12CB6BC1-4E71-4890-AA0E-26CED6AD7EDD}</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>Intel(R) Chipset Device Software</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{12CB6BC1-4E71-4890-AA0E-26CED6AD7EDD}</UNINSTALL_STRING>
+      <VERSION>10.1.1.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{143E35D3-F0A4-4E90-96C9-B1B72F11343A}</GUID>
+      <INSTALLDATE>25/01/2021</INSTALLDATE>
+      <NAME>Microsoft Update Health Tools</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{143E35D3-F0A4-4E90-96C9-B1B72F11343A}</UNINSTALL_STRING>
+      <VERSION>2.70.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{15999826-e4af-49c6-949e-743aacfac631}</GUID>
+      <HELPLINK>http://www.accusoft.com/imaging-support.htm</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Accusoft ImagXpress V12 for 64bit ActiveX</NAME>
+      <PUBLISHER>Accusoft</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{15999826-e4af-49c6-949e-743aacfac631}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.accusoft.com</URL_INFO_ABOUT>
+      <VERSION>12.0.25</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1CEAC85D-2590-4760-800F-8DE5E91F3700}</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Intel(R) Management Engine Components</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Intel\Package Cache\{1CEAC85D-2590-4760-800F-8DE5E91F3700}\Setup.exe" -uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.0.1173</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=146008</HELPLINK>
+      <INSTALLDATE>02/06/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F64180101F0}</GUID>
+      <HELPLINK>http://java.com/help</HELPLINK>
+      <INSTALLDATE>10/02/2020</INSTALLDATE>
+      <NAME>Java 8 Update 101 (64-bit)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F64180101F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.1010.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{3DF3AC42-174D-4915-9ED2-448AD4338B83}</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>Intel(R) ME UninstallLegacy</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{3DF3AC42-174D-4915-9ED2-448AD4338B83}</UNINSTALL_STRING>
+      <VERSION>1.0.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{5740BD44-B58D-321A-AFC0-6D3D4556DD6C}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{5740BD44-B58D-321A-AFC0-6D3D4556DD6C}</UNINSTALL_STRING>
+      <VERSION>12.0.40660</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7D84E343-A23D-451C-B123-0195B2D903A6}</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>Intel® Trusted Connect Service Client</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{7D84E343-A23D-451C-B123-0195B2D903A6}</UNINSTALL_STRING>
+      <VERSION>1.42.17.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=91955</HELPLINK>
+      <INSTALLDATE>02/06/2020</INSTALLDATE>
+      <NAME>Microsoft Silverlight</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</UNINSTALL_STRING>
+      <VERSION>5.1.50918.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8B29D47F-92E2-4C20-9EE0-F710991F5D7C}_is1</GUID>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>KMSpico</NAME>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\KMSpico\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-008F-0000-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Licensing Component</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{90160000-008F-0000-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13628.20274</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-00DD-0000-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Extensibility Component 64-bit Registration</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90160000-00DD-0000-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13628.20274</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Ansel</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>NVIDIA Ansel</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>7.0.636.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.ControlPanel</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>Panneau de configuration NVIDIA 456.71</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>456.71</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>NVIDIA Pilote graphique 456.71</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\WINDOWS\SysWOW64\RunDll32.EXE" "C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL",UninstallPackage Display.Driver</UNINSTALL_STRING>
+      <VERSION>456.71</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.NVIRUSB</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>NVIDIA Pilote du contrôleur 3D Vision 390.41</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Windows\SysWOW64\RunDll32.EXE" "C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL",UninstallPackage Display.NVIRUSB</UNINSTALL_STRING>
+      <VERSION>390.41</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.PhysX</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>NVIDIA Logiciel système PhysX 9.18.0907</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Windows\SysWOW64\RunDll32.EXE" "C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL",UninstallPackage Display.PhysX</UNINSTALL_STRING>
+      <VERSION>9.18.0907</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_DisplayDriverAnalyzer</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>DisplayDriverAnalyzer</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>417.35</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_HDAudio.Driver</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>NVIDIA Pilote audio HD : 1.3.38.35</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\WINDOWS\SysWOW64\RunDll32.EXE" "C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL",UninstallPackage HDAudio.Driver</UNINSTALL_STRING>
+      <VERSION>1.3.38.35</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_installer</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>NVIDIA Install Application</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>2.1002.346.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NvDisplay.MessageBus</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>NVIDIA Display MessageBus</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>456.71</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainer</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>NVIDIA Display Container</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>1.28</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainerLS</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>NVIDIA Display Container LS</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>1.28</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayPluginWatchdog</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>NVIDIA Display Watchdog Plugin</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>1.28</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplaySessionContainer</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>NVIDIA Display Session Container</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>1.28</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NvTelemetry</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>NVIDIA Telemetry Client</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>13.2.27.3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NvTelemetryContainer</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>NVIDIA Telemetry Container</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>13.2.27.3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{CB0836EC-B072-368D-82B2-D3470BF95707}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{CB0836EC-B072-368D-82B2-D3470BF95707}</UNINSTALL_STRING>
+      <VERSION>12.0.40660</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EA30CEC3-9CC5-4C80-AE8E-209A6F894961}</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>Intel(R) Management Engine Components</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{EA30CEC3-9CC5-4C80-AE8E-209A6F894961}</UNINSTALL_STRING>
+      <VERSION>1.0.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>07/12/2020</INSTALLDATE>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.630.19041.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Shockwave Player</GUID>
+      <HELPLINK>http://www.adobe.com/support/shockwave</HELPLINK>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Adobe Shockwave Player 12.2</NAME>
+      <PUBLISHER>Adobe Systems, Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Windows\SysWOW64\Adobe\Shockwave 12\uninstaller.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.2.0.162</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FastStone Capture</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>FastStone Capture 8.7</NAME>
+      <PUBLISHER>FastStone Soft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files (x86)\FastStone Capture\uninst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.faststone.org</URL_INFO_ABOUT>
+      <VERSION>8.7</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Foxit Reader_is1</GUID>
+      <HELPLINK>http://www.foxitsoftware.com/support/</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Foxit Reader</NAME>
+      <PUBLISHER>Foxit Software Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Foxit Software\Foxit Reader\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.foxitsoftware.com/</URL_INFO_ABOUT>
+      <VERSION>9.3.0.10826</VERSION>
+      <VERSION_MAJOR>9</VERSION_MAJOR>
+      <VERSION_MINOR>3</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Google Chrome</GUID>
+      <INSTALLDATE>03/02/2021</INSTALLDATE>
+      <NAME>Google Chrome</NAME>
+      <PUBLISHER>Google LLC</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Google\Chrome\Application\88.0.4324.146\Installer\setup.exe" --uninstall --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>88.0.4324.146</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>InstallShield_{15999826-e4af-49c6-949e-743aacfac631}</GUID>
+      <HELPLINK>http://www.accusoft.com/imaging-support.htm</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Accusoft ImagXpress V12 for 64bit ActiveX</NAME>
+      <PUBLISHER>Accusoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\InstallShield Installation Information\{15999826-e4af-49c6-949e-743aacfac631}\setup.exe" -runfromtemp -l0x0409  -removeonly</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.accusoft.com</URL_INFO_ABOUT>
+      <VERSION>12.0.25</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>InstallShield_{538229fd-1b11-4184-bb87-07a2710a24c6}</GUID>
+      <HELPLINK>http://www.accusoft.com/imaging-support.htm</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Accusoft ImagXpress V12 for .NET</NAME>
+      <PUBLISHER>Accusoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\InstallShield Installation Information\{538229fd-1b11-4184-bb87-07a2710a24c6}\setup.exe" -runfromtemp -l0x0409  -removeonly</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.accusoft.com</URL_INFO_ABOUT>
+      <VERSION>12.0.38</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft Edge</GUID>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Microsoft Edge</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Microsoft\Edge\Application\88.0.705.56\Installer\setup.exe" --uninstall --msedge --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>88.0.705.56</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft Edge Update</GUID>
+      <INSTALLDATE>18/01/2021</INSTALLDATE>
+      <NAME>Microsoft Edge Update</NAME>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <VERSION>1.3.139.71</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Skype_is1</GUID>
+      <HELPLINK>https://support.skype.com/</HELPLINK>
+      <INSTALLDATE>20/11/2020</INSTALLDATE>
+      <NAME>Skype version 8.66</NAME>
+      <PUBLISHER>Skype Technologies S.A.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Microsoft\Skype for Desktop\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.skype.com/</URL_INFO_ABOUT>
+      <VERSION>8.66</VERSION>
+      <VERSION_MAJOR>8</VERSION_MAJOR>
+      <VERSION_MINOR>66</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Take Control Viewer_is1</GUID>
+      <INSTALLDATE>29/03/2020</INSTALLDATE>
+      <NAME>Take Control Viewer 13.0</NAME>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Take Control Viewer\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>TeamViewer</GUID>
+      <HELPLINK>http://www.teamviewer.com</HELPLINK>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>TeamViewer 13</NAME>
+      <PUBLISHER>TeamViewer</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Take Control Viewer\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>13.0.6447</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>XnView_is1</GUID>
+      <INSTALLDATE>10/02/2020</INSTALLDATE>
+      <NAME>XnView 2.13</NAME>
+      <PUBLISHER>Gougelet Pierre-e</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\XnView\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.xnview.com</URL_INFO_ABOUT>
+      <VERSION>2.13</VERSION>
+      <VERSION_MAJOR>2</VERSION_MAJOR>
+      <VERSION_MINOR>13</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2FBD4A57-0F6B-4D4B-8B68-08E9EDE51F22}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(a)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{2FBD4A57-0F6B-4D4B-8B68-08E9EDE51F22}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{35b83883-40fa-423c-ae73-2aff7e1ea820}</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40649</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{35b83883-40fa-423c-ae73-2aff7e1ea820}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.40649.5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>10/02/2020</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <VERSION>2.8.101.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4B230374-6475-4A73-BA6E-41015E9C5013}</GUID>
+      <INSTALLDATE>13/02/2020</INSTALLDATE>
+      <NAME>Intel® Security Assist</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{4B230374-6475-4A73-BA6E-41015E9C5013}</UNINSTALL_STRING>
+      <VERSION>1.0.0.532</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{4ED756D2-7B91-41AC-9137-AFB9167DBB66}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(w)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{4ED756D2-7B91-41AC-9137-AFB9167DBB66}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</GUID>
+      <INSTALLDATE>04/12/2020</INSTALLDATE>
+      <NAME>Google Update Helper</NAME>
+      <PUBLISHER>Google LLC</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</UNINSTALL_STRING>
+      <VERSION>1.3.36.51</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{61087a79-ac85-455c-934d-1fa22cc64f36}</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{61087a79-ac85-455c-934d-1fa22cc64f36}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.40660.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Adobe Shockwave Player Merge Module</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</GUID>
+      <HELPLINK>http://www.adobe.com/support</HELPLINK>
+      <INSTALLDATE>10/02/2020</INSTALLDATE>
+      <NAME>swMSM</NAME>
+      <PUBLISHER>Adobe Systems, Inc</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{612C34C7-5E90-47D8-9B5C-0F717DD82726}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.0.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{68723B04-57EC-11E1-A6A8-9E2D4824019B}</GUID>
+      <HELPLINK>http://support.techsmith.com</HELPLINK>
+      <INSTALLDATE>10/02/2020</INSTALLDATE>
+      <NAME>Snagit 11</NAME>
+      <PUBLISHER>TechSmith Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{68723B04-57EC-11E1-A6A8-9E2D4824019B}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.techsmith.com</URL_INFO_ABOUT>
+      <VERSION>11.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>10/02/2020</INSTALLDATE>
+      <NAME>Apple Software Update</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr</URL_INFO_ABOUT>
+      <VERSION>2.1.3.127</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{7DAD0258-515C-3DD4-8964-BD714199E0F7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{7DAD0258-515C-3DD4-8964-BD714199E0F7}</UNINSTALL_STRING>
+      <VERSION>12.0.40660</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-008C-0000-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Extensibility Component</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90160000-008C-0000-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13628.20274</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90160000-008C-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Office 16 Click-to-Run Localization Component</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90160000-008C-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>16.0.13628.20274</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>LibreOffice 4.4 (multilanguage)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A651A592-2F6C-4D66-AEA8-9BFE4B61BCB3}</GUID>
+      <HELPLINK>http://www.libreoffice.org/get-help</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>LibreOffice 4.4.3.2</NAME>
+      <PUBLISHER>The Document Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{A651A592-2F6C-4D66-AEA8-9BFE4B61BCB3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.documentfoundation.org</URL_INFO_ABOUT>
+      <VERSION>4.4.3.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>  </COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-1033-FFFF-7760-000000000006}</GUID>
+      <HELPLINK>http://www.adobe.fr/support/main.html</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Adobe Acrobat XI Pro</NAME>
+      <PUBLISHER>Adobe Systems</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-1033-FFFF-7760-000000000006}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.0.06</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AF0CE7C0-A3E4-4D73-988B-B29187EC6E9A}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>10/02/2020</INSTALLDATE>
+      <NAME>QuickTime</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AF0CE7C0-A3E4-4D73-988B-B29187EC6E9A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr/</URL_INFO_ABOUT>
+      <VERSION>7.73.80.64</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BD868C41-BB9B-4AA7-A3F1-DB1FA1A02610}</GUID>
+      <HELPLINK>http://odbc.postgresql.org/</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>psqlODBC</NAME>
+      <PUBLISHER>PostgreSQL Global Development Team</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{BD868C41-BB9B-4AA7-A3F1-DB1FA1A02610}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://odbc.postgresql.org/</URL_INFO_ABOUT>
+      <VERSION>07.02.0005</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BFA17B4C-70D3-480F-8476-76197F614AB6}</GUID>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Antidote 9</NAME>
+      <PUBLISHER>Druide informatique inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{BFA17B4C-70D3-480F-8476-76197F614AB6}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://druide.com/</URL_INFO_ABOUT>
+      <VERSION>9.04.3177</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{E30D8B21-D82D-3211-82CC-0F0A5D1495E8}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>11/02/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{E30D8B21-D82D-3211-82CC-0F0A5D1495E8}</UNINSTALL_STRING>
+      <VERSION>12.0.40660</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{ef6b00ec-13e1-4c25-9064-b2f383cb8412}</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{ef6b00ec-13e1-4c25-9064-b2f383cb8412}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.40660.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F12000CE-0001-0000-0000-074957833700}</GUID>
+      <HELPLINK>http://go.abbyy.com/?Product=FR&amp;ParentProduct=Finereader&amp;MajorVersion=12&amp;Target=OnlineHelp&amp;Source=Install&amp;Language=1036&amp;Version=12.1.439&amp;Edition=Corporate</HELPLINK>
+      <INSTALLDATE>27/02/2020</INSTALLDATE>
+      <NAME>ABBYY FineReader 12 Corporate</NAME>
+      <PUBLISHER>ABBYY Production LLC</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{F12000CE-0001-0000-0000-074957833700}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.abbyy.com/?Product=FR&amp;ParentProduct=Finereader&amp;MajorVersion=12&amp;Target=Support&amp;Source=Install&amp;Language=1036&amp;Version=12.1.439&amp;Edition=Corporate</URL_INFO_ABOUT>
+      <VERSION>12.1.439</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Realtek High Definition Audio Driver</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\Realtek\Audio\HDA\RtlUpd64.exe -r -m -nrg2709</UNINSTALL_STRING>
+      <VERSION>6.0.1.7796</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5266D28-E0B2-4130-BFC5-EE155AD514DC}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>10/02/2020</INSTALLDATE>
+      <NAME>Apple Application Support</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{F5266D28-E0B2-4130-BFC5-EE155AD514DC}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr</URL_INFO_ABOUT>
+      <VERSION>2.3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{fb610cea-ba50-4d4b-a717-cf025419035c}</GUID>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Logiciel pour périphérique à chipset Intel®</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Intel(R) Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{fb610cea-ba50-4d4b-a717-cf025419035c}\SetupChipset.exe"  /uninstall</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.intel.com</URL_INFO_ABOUT>
+      <VERSION>10.1.1.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>07/12/2020</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.630.19041.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>07/12/2020</INSTALLDATE>
+      <NAME>KB4586876</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>03/12/2020</INSTALLDATE>
+      <NAME>KB4580325</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>KB4586864</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/12/2020</INSTALLDATE>
+      <NAME>KB4593175</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>15/01/2021</INSTALLDATE>
+      <NAME>KB4598481</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>15/01/2021</INSTALLDATE>
+      <NAME>KB4598242</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Modifiez les paramètres et personnalisez la façon dont vous utilisez votre ordinateur.</COMMENTS>
+      <FOLDER>C:\Windows\ImmersiveControlPanel</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Paramètres</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.2.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Print Dialog</COMMENTS>
+      <FOLDER>C:\Windows\PrintDialog</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>PrintDialog</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>6.2.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.0</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.1810.18004.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.Wallet_2.4.18324.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Microsoft Pay</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.4.18324.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft .Net Native Runtime Package 2.2</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>30/03/2020</INSTALLDATE>
+      <NAME>Microsoft .Net Native Runtime Package 2.2</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.2.28604.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft .Net Native Runtime Package 2.2</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>30/03/2020</INSTALLDATE>
+      <NAME>Microsoft .Net Native Runtime Package 2.2</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.2.28604.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Xbox Game Speech Window</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.21.13002.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Xbox TCUI</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.24.10001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.Print3D_3.3.791.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Print 3D</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>3.3.791.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.0</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.1810.18004.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft .Net Native Framework Package 1.7</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft .Net Native Framework Package 1.7</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.7.27413.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft .Net Native Framework Package 1.7</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft .Net Native Framework Package 1.7</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.7.27413.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.1</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.11906.6001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.1_2.11906.6001.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.1</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.11906.6001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.Messaging_4.1901.10241.1000_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft Messaging</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>4.1901.10241.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft .Net Native Runtime Package 1.7</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.1.7_1.7.27422.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft .Net Native Runtime Package 1.7</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.7.27422.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft .Net Native Runtime Package 1.7</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.1.7_1.7.27422.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft .Net Native Runtime Package 1.7</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.7.27422.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.2</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.21909.17002.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.2_2.21909.17002.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>02/12/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.2</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.21909.17002.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER/>
+      <FROM>uwp</FROM>
+      <NAME>Microsoft VCLibs 140 00 UWPDesktop</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>14.0.27810.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.3_2.32002.13001.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.3</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.32002.13001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.3_2.32002.13001.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>03/04/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.3</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.32002.13001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.54.4001.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>05/06/2020</INSTALLDATE>
+      <NAME>Xbox Game Bar Plugin</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.54.4001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER/>
+      <FROM>uwp</FROM>
+      <NAME>Microsoft VCLibs 140 00 UWPDesktop</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>14.0.29016.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.XboxIdentityProvider_12.67.21001.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>10/08/2020</INSTALLDATE>
+      <NAME>Xbox Identity Provider</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>12.67.21001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>18/08/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.4</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.42007.9001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>18/08/2020</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.4</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.42007.9001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.ScreenSketch_10.2008.2277.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>14/09/2020</INSTALLDATE>
+      <NAME>Snip &amp; Sketch</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>10.2008.2277.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft Visual C++ 2015 UWP Runtime support for native applications</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.29231.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>09/12/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2015 UWP Runtime Package</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>14.0.29231.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft Visual C++ 2015 UWP Runtime support for native applications</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.29231.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>09/12/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2015 UWP Runtime Package</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>14.0.29231.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft Visual C++ 2015 UWP Desktop Runtime support for native applications</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.UWPDesktop_14.0.29231.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>28/09/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2015 UWP Desktop Runtime Package</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>14.0.29231.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft Visual C++ 2015 UWP Desktop Runtime support for native applications</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.UWPDesktop_14.0.29231.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>28/09/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2015 UWP Desktop Runtime Package</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>14.0.29231.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.VP9VideoExtensions_1.0.32521.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>28/09/2020</INSTALLDATE>
+      <NAME>Extensions vidéo VP9</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.0.32521.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.MSPaint_6.2009.30067.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>09/10/2020</INSTALLDATE>
+      <NAME>Paint 3D</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>6.2009.30067.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.HEIFImageExtension_1.0.32532.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>09/10/2020</INSTALLDATE>
+      <NAME>Extensions d'image HEIF</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.0.32532.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.WebpImageExtension_1.0.32731.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>22/10/2020</INSTALLDATE>
+      <NAME>Extensions d'image Webp</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.0.32731.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.WindowsAlarms_10.2009.5.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>26/10/2020</INSTALLDATE>
+      <NAME>Windows Alarms &amp; Clock</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>10.2009.5.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.StorePurchaseApp_12011.1001.1.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>17/11/2020</INSTALLDATE>
+      <NAME>Store Experience Host</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>12011.1001.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.WindowsStore_12011.1001.1.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>17/11/2020</INSTALLDATE>
+      <NAME>Microsoft Store</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>12011.1001.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.4.3161.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>17/11/2020</INSTALLDATE>
+      <NAME>App Installer</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.4.3161.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft .Net Native Framework Package 2.2</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>23/11/2020</INSTALLDATE>
+      <NAME>Microsoft .Net Native Framework Package 2.2</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.2.29512.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft .Net Native Framework Package 2.2</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>23/11/2020</INSTALLDATE>
+      <NAME>Microsoft .Net Native Framework Package 2.2</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.2.29512.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.420.11102.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>25/11/2020</INSTALLDATE>
+      <NAME>Xbox Game Bar</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>5.420.11102.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.FilePicker_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>1527c705-839a-4832-9118-54d4Bd6a0c89</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.FileExplorer_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Explorateur de fichiers</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Programme de résolution de l’application</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Boîte de dialogue Ajouter des suggestions de dossier</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Compte professionnel ou scolaire</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1000.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>E-mail et comptes</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.AsyncTextService_8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>AsyncTextService</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.BioEnrollment_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Configuration de Windows Hello</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\microsoft.creddialoghost_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Boîte de dialogue d'informations d’identification</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.ECApp_8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Contrôle visuel</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Écran de verrouillage par défaut de Windows</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Client Microsoft Edge DevTools</COMMENTS>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Client Microsoft Edge DevTools</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1000.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Microsoft Edge</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>44.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Visionneuse web de l’application de bureau</COMMENTS>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Win32WebViewHost_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Visionneuse web de l’application de bureau</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Windows Defender SmartScreen</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1000.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Lance l’application de verrouillage ci-dessus quand un utilisateur dont l’accès est affecté se connecte</COMMENTS>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Application de verrouillage pour accès affecté</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1000.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.CallingShellApp_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Appel</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1000.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.CapturePicker_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>CapturePicker</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Votre compte</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Contenu Microsoft</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Accueil du Narrateur</COMMENTS>
+      <FOLDER>C:\Windows\SystemApps\microsoft.windows.narratorquickstart_8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Narrateur</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Flux du portail captif</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Débit de la connexion réseau</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\ParentalControls_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Fonctionnalités Famille Microsoft</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1000.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Expérience Windows Shell</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>PinningConfirmationDialog</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1000.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Rechercher sur le web et dans Windows</COMMENTS>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Windows Search</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1.14.0.19041</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Sécurité Windows</COMMENTS>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Sécurité Windows</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Examen</COMMENTS>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Examen</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Expérience Windows Shell</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Microsoft Windows StartMenuExperienceHost</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.610</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Supprimer l'appareil en toute sécurité</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Xbox Game UI</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1000.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>UDK Package</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Windows\SystemApps\NcsiUwpApp_8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>NcsiUwpApp</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>1000.19041.423.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Boîte de dialogue Aperçu de code-barres Windows</COMMENTS>
+      <FOLDER>C:\Windows\SystemApps\Windows.CBSPreview_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Aperçu de code-barres Windows</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>10.0.19041.423</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.Microsoft3DViewer_7.2010.15012.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>08/12/2020</INSTALLDATE>
+      <NAME>Visionneuse 3D</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>7.2010.15012.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/12/2019</INSTALLDATE>
+      <NAME>Windows Feature Experience Pack</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system</SYSTEM_CATEGORY>
+      <VERSION>120.2212.551.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.XboxApp_48.72.4001.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>15/12/2020</INSTALLDATE>
+      <NAME>Xbox Console Companion</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>48.72.4001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>OneNote for Windows 10</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.Office.OneNote_16001.13328.20478.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>15/12/2020</INSTALLDATE>
+      <NAME>OneNote for Windows 10</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>16001.13328.20478.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20110.11001.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>15/12/2020</INSTALLDATE>
+      <NAME>Microsoft Photos</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2020.20110.11001.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.MixedReality.Portal_2000.20111.1381.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>16/12/2020</INSTALLDATE>
+      <NAME>Mixed Reality Portal</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2000.20111.1381.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.WindowsCamera_2020.902.20.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>07/01/2021</INSTALLDATE>
+      <NAME>Windows Camera</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2020.902.20.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Groove Music</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.ZuneMusic_10.20122.11121.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>22/01/2021</INSTALLDATE>
+      <NAME>Groove Music</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>10.20122.11121.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackfr-FR_19041.16.40.0_neutral__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>22/01/2021</INSTALLDATE>
+      <NAME>Module d'expérience locale français (France)</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>19041.16.40.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.WebMediaExtensions_1.0.33271.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>22/01/2021</INSTALLDATE>
+      <NAME>Web Media Extensions</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.0.33271.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_2.2101.15643.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>25/01/2021</INSTALLDATE>
+      <NAME>Cortana</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.2101.15643.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2012.21.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>26/01/2021</INSTALLDATE>
+      <NAME>Windows Calculator</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>10.2012.21.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.5_2.52012.2002.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>28/01/2021</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.5</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.52012.2002.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <COMMENTS>Microsoft.UI.Xaml</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.5_2.52012.2002.0_x86__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>28/01/2021</INSTALLDATE>
+      <NAME>Microsoft.UI.Xaml.2.5</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>2.52012.2002.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.68.96.0_x86__kzf8qxf38zg5c</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>28/01/2021</INSTALLDATE>
+      <NAME>Skype</NAME>
+      <PUBLISHER>Skype</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>15.68.96.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.WindowsMaps_10.2012.10.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>28/01/2021</INSTALLDATE>
+      <NAME>Windows Maps</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>10.2012.10.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21011.101.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>28/01/2021</INSTALLDATE>
+      <NAME>Your Phone</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>1.21011.101.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>neutral</ARCH>
+      <COMMENTS>Microsoft Edge Browser</COMMENTS>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.MicrosoftEdge.Stable_88.0.705.56_neutral__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Microsoft Edge</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>developer</SYSTEM_CATEGORY>
+      <VERSION>88.0.705.56</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.WindowsSoundRecorder_10.2012.41.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Windows Voice Recorder</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>10.2012.41.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.People_10.1909.12456.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Microsoft People</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>10.1909.12456.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.GetHelp_10.2011.33361.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Get Help</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>10.2011.33361.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x64</ARCH>
+      <FOLDER>C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.8.8.0_x64__8wekyb3d8bbwe</FOLDER>
+      <FROM>uwp</FROM>
+      <INSTALLDATE>01/02/2021</INSTALLDATE>
+      <NAME>Microsoft Sticky Notes</NAME>
+      <PUBLISHER>Microsoft Platform Extensions</PUBLISHER>
+      <SYSTEM_CATEGORY>store</SYSTEM_CATEGORY>
+      <VERSION>3.8.8.0</VERSION>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>Realtek High Definition Audio</CAPTION>
+      <DESCRIPTION>Realtek High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Realtek</MANUFACTURER>
+      <NAME>Realtek High Definition Audio</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>NVIDIA High Definition Audio</CAPTION>
+      <DESCRIPTION>NVIDIA High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>NVIDIA</MANUFACTURER>
+      <NAME>NVIDIA High Definition Audio</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <DISKSIZE>500107</DISKSIZE>
+      <FIRMWARE>MS1OA750</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>TOSHIBA DT01ACA050</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>238DVKYJS</SERIAL>
+      <SERIALNUMBER>238DVKYJS</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>CD-ROM Drive</DESCRIPTION>
+      <MANUFACTURER>(Standard CD-ROM drives)</MANUFACTURER>
+      <MODEL>TSSTcorp CDDVDW TS-H653R</MODEL>
+      <NAME>TSSTcorp CDDVDW TS-H653R</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIALNUMBER/>  <TYPE>DVD Writer</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>China Resource Semico Co., Ltd</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>2124</PRODUCTID>
+      <VENDORID>1A2C</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>Optical Mouse</CAPTION>
+      <MANUFACTURER>Pixart Imaging, Inc.</MANUFACTURER>
+      <NAME>Optical Mouse</NAME>
+      <PRODUCTID>2510</PRODUCTID>
+      <VENDORID>093A</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>PC-ING-435C</DOMAIN>
+      <LOGIN>user</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.5.2</VERSIONCLIENT>
+    <VERSIONPROVIDER>
+      <COMMENTS>Provided by Fusioninventory</COMMENTS>
+      <COMMENTS>Installer built with Appveyor on Mon Dec 16 14:01:47 UTC 2019</COMMENTS>
+      <NAME>FusionInventory</NAME>
+      <PERL_EXE>C:\Program Files\FusionInventory-Agent\perl\bin\fusioninventory-agent.exe</PERL_EXE>
+      <PERL_VERSION>v5.30.0</PERL_VERSION>
+      <PROGRAM>C:\Program Files\FusionInventory-Agent\perl\bin\fusioninventory-win32-service</PROGRAM>
+      <VERSION>2.5.2</VERSION>
+    </VERSIONPROVIDER>
+    <VIDEOS>
+      <CHIPSET>GeForce GTX 660</CHIPSET>
+      <NAME>NVIDIA GeForce GTX 660</NAME>
+      <RESOLUTION>1366x768</RESOLUTION>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>PC-ING-435C-2020-08-25-16-28-31</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

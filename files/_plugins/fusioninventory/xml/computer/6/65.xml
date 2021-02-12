@@ -1,0 +1,3311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2020-12-14 08:44:47</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <ENABLED>1</ENABLED>
+      <GUID>{D68DDC3A-831F-4fae-9E44-DA132C1ACF46}</GUID>
+      <NAME>Windows Defender</NAME>
+      <UPTODATE>1</UPTODATE>
+    </ANTIVIRUS>
+    <BIOS>
+      <ASSETTAG>Default string</ASSETTAG>
+      <BDATE>11/20/2015</BDATE>
+      <BMANUFACTURER>American Megatrends Inc.</BMANUFACTURER>
+      <BVERSION>5.11</BVERSION>
+      <MMANUFACTURER>ECS</MMANUFACTURER>
+      <MMODEL>H110M4-C3D/C3V</MMODEL>
+      <MSN>00000000</MSN>
+      <SKUNUMBER>Default string</SKUNUMBER>
+      <SMANUFACTURER>ECS</SMANUFACTURER>
+      <SMODEL>H110M4-C3D/C3V</SMODEL>
+      <SSN>00000000</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>Intel(R) 100 Series/C230 Chipset Family SATA AHCI Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Intel(R) 100 Series/C230 Chipset Family SATA AHCI Controller</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a102</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Chipset Family SATA AHCI Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H USB 3.0 xHCI Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H USB 3.0 xHCI Controller</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a12f</PRODUCTID>
+      <TYPE>Contrôleur hôte Intel(R) USB 3.0 eXtensible - 1.0 (Microsoft)</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H SMBus</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H SMBus</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a123</PRODUCTID>
+      <TYPE>SMBus Controller Device</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H Thermal subsystem</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H Thermal subsystem</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a131</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Thermal subsystem - A131</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H HD Audio</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H HD Audio</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a170</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sky Lake PCIe Controller (x16)</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sky Lake PCIe Controller (x16)</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>1901</PRODUCTID>
+      <TYPE>Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) PCIe Controller (x16) - 1901</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H CSME HECI #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H CSME HECI #1</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a13a</PRODUCTID>
+      <TYPE>Intel(R) Management Engine Interface #1</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H LPSS I2C Controller #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H LPSS I2C Controller #1</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a161</PRODUCTID>
+      <TYPE>Intel(R) Serial IO I2C Host Controller - A161</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>GF119 [GeForce GT 610]</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>GF119 [GeForce GT 610]</NAME>
+      <PCISUBSYSTEMID>10de:104a</PCISUBSYSTEMID>
+      <PRODUCTID>104a</PRODUCTID>
+      <TYPE>NVIDIA GeForce GT 610</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sky Lake Host Bridge/DRAM Registers</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sky Lake Host Bridge/DRAM Registers</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>190f</PRODUCTID>
+      <TYPE>Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) Host Bridge/DRAM Registers - 190F</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sky Lake Gaussian Mixture Model</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sky Lake Gaussian Mixture Model</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>1911</PRODUCTID>
+      <TYPE>Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) Gaussian Mixture Model - 1911</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H LPSS UART #0</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H LPSS UART #0</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a127</PRODUCTID>
+      <TYPE>Intel(R) Serial IO UART Host Controller - A127</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>GF119 HDMI Audio Controller</CAPTION>
+      <MANUFACTURER>NVIDIA Corporation</MANUFACTURER>
+      <NAME>GF119 HDMI Audio Controller</NAME>
+      <PCISUBSYSTEMID>10de:104a</PCISUBSYSTEMID>
+      <PRODUCTID>0e08</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>10de</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H PMC</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H PMC</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a121</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family PMC - A121</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</CAPTION>
+      <MANUFACTURER>Realtek Semiconductor Co., Ltd.</MANUFACTURER>
+      <NAME>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>8168</PRODUCTID>
+      <TYPE>Realtek PCIe GBE Family Controller</TYPE>
+      <VENDORID>10ec</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H LPSS I2C Controller #0</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H LPSS I2C Controller #0</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a160</PRODUCTID>
+      <TYPE>Intel(R) Serial IO I2C Host Controller - A160</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H PCI Express Root Port #5</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H PCI Express Root Port #5</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a114</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #5 - A114</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H LPC Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H LPC Controller</NAME>
+      <PCISUBSYSTEMID>1019:9c36</PCISUBSYSTEMID>
+      <PRODUCTID>a143</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family LPC Controller (H110) - A143</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>2</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 94 Stepping 3</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>E3 06 05 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>94</MODEL>
+      <NAME>Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz</NAME>
+      <SERIAL>ToBeFilledByO.E.M.</SERIAL>
+      <SPEED>3700</SPEED>
+      <STEPPING>3</STEPPING>
+      <THREAD>4</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Disque monté local</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>106159</FREE>
+      <LABEL>SYS</LABEL>
+      <LETTER>C:</LETTER>
+      <SERIAL>C4C44CF8</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>204510</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>SYS</VOLUMN>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disque monté local</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>686069</FREE>
+      <LABEL/>
+      <LETTER>D:</LETTER>
+      <SERIAL>981FE151</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>748290</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN/>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>DriverData</KEY>
+      <VAL>C:\Windows\System32\Drivers\DriverData</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Druide\Antidote 8\Programmes64\;C:\Program Files (x86)\Druide\Antidote 8\Programmes32\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>CLASSPATH</KEY>
+      <VAL>.;C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>QTJAVA</KEY>
+      <VAL>C:\Program Files (x86)\QuickTime\QTSystem\QTJava.zip</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>4</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>Intel64 Family 6 Model 94 Stepping 3, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>5e03</VAL>
+    </ENVS>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x64-multi-thread</ARCHNAME>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>66049</CHECKSUM>
+      <DEFAULTGATEWAY>192.168.1.1</DEFAULTGATEWAY>
+      <DESCRIPTION>PC-ING-324C</DESCRIPTION>
+      <DNS>192.168.1.1</DNS>
+      <ETIME>58</ETIME>
+      <IPADDR>192.168.9.38</IPADDR>
+      <LASTLOGGEDUSER>user</LASTLOGGEDUSER>
+      <MEMORY>8144</MEMORY>
+      <NAME>PC-ING-324C</NAME>
+      <OSNAME>Microsoft Windows 10 Professionnel</OSNAME>
+      <OSVERSION>10.0.18363</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>3700</PROCESSORS>
+      <PROCESSORT>Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz</PROCESSORT>
+      <USERID>user</USERID>
+      <UUID>03000200-0400-0500-0006-000700080009</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINLANG>1036</WINLANG>
+      <WINOWNER>User</WINOWNER>
+      <WINPRODID>00331-10000-00001-AA002</WINPRODID>
+      <WINPRODKEY>W269N-WFGWX-YVC9B-4J6C9-T83GX</WINPRODKEY>
+      <WORKGROUP>WORKGROUP</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Étendu (101 ou 102 touches)</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <LAYOUT>0000040C</LAYOUT>
+      <NAME>Étendu (101 ou 102 touches)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>USB Input Device</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Standard system devices)</MANUFACTURER>
+      <NAME>USB Input Device</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LICENSEINFOS>
+      <COMPONENTS>Access/AccessRuntime/Excel/Groove/InfoPath/Lync/LyncEntry/LyncVdi/OneNote/Outlook/OutlookStandard/PowerPoint/Project/ProjectPro/ProjectStd/Publisher/SharePointDesigner/Visio/VisioPro/VisioSDK/VisioStd/Word</COMPONENTS>
+      <FULLNAME>Microsoft Office Professional 2013</FULLNAME>
+      <KEY>YC7DK-G2NP3-2QQC3-J6H88-GVGXT</KEY>
+      <NAME>Microsoft Office 2013</NAME>
+      <PRODUCTID>00216-40000-00000-AA788</PRODUCTID>
+      <TRIAL>0</TRIAL>
+    </LICENSEINFOS>
+    <LICENSEINFOS>
+      <COMPONENTS>Access/AccessRuntime/Excel/Groove/InfoPath/Lync/LyncEntry/LyncVdi/OneNote/Outlook/OutlookStandard/PowerPoint/Project/ProjectPro/ProjectStd/Publisher/SharePointDesigner/Visio/VisioPro/VisioSDK/VisioStd/Word</COMPONENTS>
+      <FULLNAME>Microsoft Office Professionnel 2013</FULLNAME>
+      <KEY>WTFN9-KRCBV-2VBBH-BC272-27GXM</KEY>
+      <NAME>Microsoft Office 2013</NAME>
+      <PRODUCTID>00216-00000-00000-AA059</PRODUCTID>
+      <TRIAL>0</TRIAL>
+    </LICENSEINFOS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administrateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-578</ID>
+      <NAME>Administrateurs Hyper-V</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Invités</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Lecteurs des journaux d’événements</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-579</ID>
+      <NAME>Opérateurs d'assistance de contrôle d'accès</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Opérateurs de chiffrement</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Opérateurs de configuration réseau</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Opérateurs de sauvegarde</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-581</ID>
+      <NAME>System Managed Accounts Group</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Utilisateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Utilisateurs avec pouvoir</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-580</ID>
+      <NAME>Utilisateurs de gestion à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Utilisateurs de l’Analyseur de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Utilisateurs du Bureau à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Utilisateurs du journal de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Utilisateurs du modèle COM distribué</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-3031916755-2691329263-984692654-1001</ID>
+      <NAME>Admin</NAME>
+    </LOCAL_USERS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-3031916755-2691329263-984692654-1007</ID>
+      <NAME>user</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>8192</CAPACITY>
+      <CAPTION>ChannelA-DIMM0</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>0420</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>12100100</SERIALNUMBER>
+      <SPEED>2133 MHz</SPEED>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>ChannelB-DIMM0</CAPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+    </MEMORIES>
+    <MONITORS>
+      <BASE64>AP///////wBJMzkIAQEBAQgaAQMIMBt46v/1pVZJnSQWUFSlSwCBgJUAswABAQEBAQEBAQEBAjqAGHE4LUBYLEUA3QwRAAAcAAAA/QAyTB5SEQAKICAgICAgAAAA/ABQUk8yMjE3V0UtRAogAAAA/wAzNjAxMTYwODAwNTc4AFk=</BASE64>
+      <CAPTION>PRO2217WE-D</CAPTION>
+      <DESCRIPTION>8/2016</DESCRIPTION>
+      <MANUFACTURER>RIS</MANUFACTURER>
+      <SERIAL>3601160800578</SERIAL>
+    </MONITORS>
+    <NETWORKS>
+      <DESCRIPTION>Realtek PCIe GBE Family Controller</DESCRIPTION>
+      <IPADDRESS>192.168.9.38</IPADDRESS>
+      <IPGATEWAY>192.168.1.1</IPGATEWAY>
+      <IPMASK>255.255.0.0</IPMASK>
+      <IPSUBNET>192.168.0.0</IPSUBNET>
+      <MACADDR>F4:4D:30:4B:79:C0</MACADDR>
+      <PCIID>10EC:8168:9C36:1019</PCIID>
+      <PNPDEVICEID>PCI\VEN_10EC&amp;DEV_8168&amp;SUBSYS_9C361019&amp;REV_15\01000000684CE00000</PNPDEVICEID>
+      <SPEED>100</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>WAN Miniport (IP)</DESCRIPTION>
+      <MACADDR>E0:C8:20:52:41:53</MACADDR>
+      <PNPDEVICEID>SWD\MSRRAS\MS_NDISWANIP</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>WAN Miniport (IPv6)</DESCRIPTION>
+      <MACADDR>E0:C8:20:52:41:53</MACADDR>
+      <PNPDEVICEID>SWD\MSRRAS\MS_NDISWANIPV6</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>WAN Miniport (Network Monitor)</DESCRIPTION>
+      <MACADDR>E2:2A:20:52:41:53</MACADDR>
+      <PNPDEVICEID>SWD\MSRRAS\MS_NDISWANBH</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>1</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2020-11-16 08:37:56</BOOT_TIME>
+      <DNS_DOMAIN/>
+      <FQDN>PC-ING-324C</FQDN>
+      <FULL_NAME>Microsoft Windows 10 Professionnel</FULL_NAME>
+      <INSTALL_DATE>2020-06-08 08:10:38</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>10.0.18363</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK/></OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini Centronics Type-14</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2A</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-15 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J2A2B</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9A1 - TPM HDR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9C1 - PCIE DOCKING CONN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2B3 - CPU FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J6C2 - EXT HDMI</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J3C1 - GMCH FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J1D1 - ITP</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E2 - MDC INTPSR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E4 - MDC INTPSR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E3 - LPC HOT DOCKING</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9E1 - SCAN MATRIX</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J9G1 - LPC SIDE BAND</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J8F1 - UNIFIED</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J6F1 - LVDS</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2F1 - LAI FAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J2G1 - GFX VID</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>J1G6 - AC JACK</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Nuvoton Communications Port (COM1)</CAPTION>
+      <DESCRIPTION>Nuvoton Communications Port</DESCRIPTION>
+      <NAME>Nuvoton Communications Port (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1A1</CAPTION>
+      <DESCRIPTION>J1A1</DESCRIPTION>
+      <NAME>J1A1</NAME>
+      <TYPE>PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A1</CAPTION>
+      <DESCRIPTION>J2A1</DESCRIPTION>
+      <NAME>J2A1</NAME>
+      <TYPE>Mini-Centronics Type-14</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2A</CAPTION>
+      <DESCRIPTION>J2A2A</DESCRIPTION>
+      <NAME>J2A2A</NAME>
+      <TYPE>DB-9, Male</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2A2B</CAPTION>
+      <DESCRIPTION>J2A2B</DESCRIPTION>
+      <NAME>J2A2B</NAME>
+      <TYPE>DB-15, Female</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3A1</CAPTION>
+      <DESCRIPTION>J3A1</DESCRIPTION>
+      <NAME>J3A1</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9A1 - TPM HDR</CAPTION>
+      <DESCRIPTION>J9A1 - TPM HDR</DESCRIPTION>
+      <NAME>J9A1 - TPM HDR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9C1 - PCIE DOCKING CONN</CAPTION>
+      <DESCRIPTION>J9C1 - PCIE DOCKING CONN</DESCRIPTION>
+      <NAME>J9C1 - PCIE DOCKING CONN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2B3 - CPU FAN</CAPTION>
+      <DESCRIPTION>J2B3 - CPU FAN</DESCRIPTION>
+      <NAME>J2B3 - CPU FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6C2 - EXT HDMI</CAPTION>
+      <DESCRIPTION>J6C2 - EXT HDMI</DESCRIPTION>
+      <NAME>J6C2 - EXT HDMI</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J3C1 - GMCH FAN</CAPTION>
+      <DESCRIPTION>J3C1 - GMCH FAN</DESCRIPTION>
+      <NAME>J3C1 - GMCH FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1D1 - ITP</CAPTION>
+      <DESCRIPTION>J1D1 - ITP</DESCRIPTION>
+      <NAME>J1D1 - ITP</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E2 - MDC INTPSR</CAPTION>
+      <DESCRIPTION>J9E2 - MDC INTPSR</DESCRIPTION>
+      <NAME>J9E2 - MDC INTPSR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E4 - MDC INTPSR</CAPTION>
+      <DESCRIPTION>J9E4 - MDC INTPSR</DESCRIPTION>
+      <NAME>J9E4 - MDC INTPSR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E3 - LPC HOT DOCKING</CAPTION>
+      <DESCRIPTION>J9E3 - LPC HOT DOCKING</DESCRIPTION>
+      <NAME>J9E3 - LPC HOT DOCKING</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9E1 - SCAN MATRIX</CAPTION>
+      <DESCRIPTION>J9E1 - SCAN MATRIX</DESCRIPTION>
+      <NAME>J9E1 - SCAN MATRIX</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J9G1 - LPC SIDE BAND</CAPTION>
+      <DESCRIPTION>J9G1 - LPC SIDE BAND</DESCRIPTION>
+      <NAME>J9G1 - LPC SIDE BAND</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J8F1 - UNIFIED</CAPTION>
+      <DESCRIPTION>J8F1 - UNIFIED</DESCRIPTION>
+      <NAME>J8F1 - UNIFIED</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J6F1 - LVDS</CAPTION>
+      <DESCRIPTION>J6F1 - LVDS</DESCRIPTION>
+      <NAME>J6F1 - LVDS</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2F1 - LAI FAN</CAPTION>
+      <DESCRIPTION>J2F1 - LAI FAN</DESCRIPTION>
+      <NAME>J2F1 - LAI FAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J2G1 - GFX VID</CAPTION>
+      <DESCRIPTION>J2G1 - GFX VID</DESCRIPTION>
+      <NAME>J2G1 - GFX VID</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>J1G6 - AC JACK</CAPTION>
+      <DESCRIPTION>J1G6 - AC JACK</DESCRIPTION>
+      <NAME>J1G6 - AC JACK</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Snagit 11 Printer</DRIVER>
+      <NAME>Snagit 11</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>C:\ProgramData\TechSmith\Snagit 11\PrinterPortFile</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft XPS Document Writer v4</DRIVER>
+      <NAME>Microsoft XPS Document Writer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Print To PDF</DRIVER>
+      <NAME>Microsoft Print to PDF</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Foxit Reader PDF Printer Driver</DRIVER>
+      <NAME>Foxit Reader PDF Printer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>FOXIT_Reader:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>300x300</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Shared Fax Driver</DRIVER>
+      <NAME>Fax</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>SHRFAX:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Send to Microsoft OneNote 15 Driver</DRIVER>
+      <NAME>Envoyer à OneNote 2013</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>nul:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>doPDF 7 Printer Driver</DRIVER>
+      <NAME>doPDF v7</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>DOP7:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>300x300</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Adobe PDF Converter</DRIVER>
+      <NAME>Adobe PDF</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>Documents\*.pdf</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>1200x1200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express x16</DESCRIPTION>
+      <DESIGNATION>0</DESIGNATION>
+      <NAME>J6B2</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express x1</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>J6B1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>J6D1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>32-bit PCI</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>J7B1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J6B2</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J6B1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J6D1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>J7B1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>doPDF 7 printer_is1</GUID>
+      <HELPLINK>http://www.dopdf.com</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>doPDF 7.3 printer</NAME>
+      <PUBLISHER>Softland</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Softland\doPDF 7\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.dopdf.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>http://forge.fusioninventory.org/projects/fusioninventory-agent</HELPLINK>
+      <NAME>FusionInventory Agent 2.3.17 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.17</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <NAME>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Common Files\Microsoft Shared\VSTO\10.0\Microsoft Visual Studio 2010 Tools for Office Runtime (x64)\install.exe</UNINSTALL_STRING>
+      <VERSION>10.0.50903</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - FRA</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <NAME>Module linguistique Microsoft Visual Studio 2010 Tools pour Office Runtime (x64) - FRA</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Common Files\Microsoft Shared\VSTO\10.0\Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - FRA\install.exe</UNINSTALL_STRING>
+      <VERSION>10.0.50903</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Firefox 77.0.1 (x64 fr)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Mozilla Firefox 77.0.1 (x64 fr)</GUID>
+      <HELPLINK>https://support.mozilla.org</HELPLINK>
+      <NAME>Mozilla Firefox 77.0.1 (x64 fr)</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Mozilla Firefox\uninstall\helper.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.mozilla.org</URL_INFO_ABOUT>
+      <VERSION>77.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Maintenance Service</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>MozillaMaintenanceService</GUID>
+      <NAME>Mozilla Maintenance Service</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Mozilla Maintenance Service\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>55.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>VLC media player</GUID>
+      <NAME>VLC media player 2.1.2</NAME>
+      <PUBLISHER>VideoLAN</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\VideoLAN\VLC\uninstall.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.videolan.org/</URL_INFO_ABOUT>
+      <VERSION>2.1.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0470BDAF-12EA-42C3-9464-74D5B8856418}</GUID>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Intel(R) Management Engine Components</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{0470BDAF-12EA-42C3-9464-74D5B8856418}</UNINSTALL_STRING>
+      <VERSION>11.0.0.1168</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=146008</HELPLINK>
+      <INSTALLDATE>18/10/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1E9FC118-651D-4934-97BE-E53CAE5C7D45}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC80_MFCLOC_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{1E9FC118-651D-4934-97BE-E53CAE5C7D45}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>80.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{26A24AE4-039D-4CA4-87B4-2F64180101F0}</GUID>
+      <HELPLINK>http://java.com/help</HELPLINK>
+      <INSTALLDATE>08/11/2017</INSTALLDATE>
+      <NAME>Java 8 Update 101 (64-bit)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F64180101F0}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://java.com</URL_INFO_ABOUT>
+      <VERSION>8.0.1010.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2FC06E3D-79B9-4078-91F0-436A3389A2E1}_is1</GUID>
+      <HELPLINK>https://www.solarwindsmsp.com</HELPLINK>
+      <INSTALLDATE>08/05/2020</INSTALLDATE>
+      <NAME>Advanced Monitoring Agent Web Protection</NAME>
+      <PUBLISHER>SolarWinds MSP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Advanced Monitoring Agent Web Protection\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.solarwindsmsp.com</URL_INFO_ABOUT>
+      <VERSION>5.24.0.172</VERSION>
+      <VERSION_MAJOR>5</VERSION_MAJOR>
+      <VERSION_MINOR>24</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{32DC821E-4A7D-4878-BEE8-337FA153D7F2}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/4023057</HELPLINK>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Update for Windows 10 for x64-based Systems (KB4023057)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{32DC821E-4A7D-4878-BEE8-337FA153D7F2}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/4023057</URL_INFO_ABOUT>
+      <VERSION>2.63.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{409CB30E-E457-4008-9B1A-ED1B9EA21140}</GUID>
+      <NAME>Intel(R) Rapid Storage Technology</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Intel\Package Cache\{409CB30E-E457-4008-9B1A-ED1B9EA21140}\Setup.exe" -uninstall</UNINSTALL_STRING>
+      <VERSION>14.6.0.1029</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{4441EC17-3E4A-4FA0-8818-83537B549A54}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(w)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{4441EC17-3E4A-4FA0-8818-83537B549A54}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4569AD91-47F4-4D9E-8FC9-717EC32D7AE1}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC80_CRT_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{4569AD91-47F4-4D9E-8FC9-717EC32D7AE1}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{55398EAC-F58E-4F19-B553-BDF8B9EFD839}</GUID>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Intel(R) Chipset Device Software</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{55398EAC-F58E-4F19-B553-BDF8B9EFD839}</UNINSTALL_STRING>
+      <VERSION>10.1.1.9</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{70A78B94-1B16-46A1-8C7A-A59F7B28B425}</GUID>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Intel(R) Serial IO</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{70A78B94-1B16-46A1-8C7A-A59F7B28B425}</UNINSTALL_STRING>
+      <VERSION>30.63.1519.07</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7556DD32-A917-4FA4-8267-16FFB08631F1}</GUID>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Intel(R) ME UninstallLegacy</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{7556DD32-A917-4FA4-8267-16FFB08631F1}</UNINSTALL_STRING>
+      <VERSION>1.0.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{757AB286-E401-475F-B9F6-3FF1138DC472}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>psqlODBC_x64</NAME>
+      <PUBLISHER>PostgreSQL Global Development Group</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{757AB286-E401-475F-B9F6-3FF1138DC472}</UNINSTALL_STRING>
+      <VERSION>09.06.0410</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7D84E343-A23D-451C-B123-0195B2D903A6}</GUID>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Intel® Trusted Connect Service Client</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{7D84E343-A23D-451C-B123-0195B2D903A6}</UNINSTALL_STRING>
+      <VERSION>1.42.17.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8557397C-A42D-486F-97B3-A2CBC2372593}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC90_ATL_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{8557397C-A42D-486F-97B3-A2CBC2372593}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{87932B02-EB2F-4250-AB18-291EFA1D0C8A}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>ESET NOD32 Antivirus</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>ESET, spol s r. o.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{87932B02-EB2F-4250-AB18-291EFA1D0C8A}</UNINSTALL_STRING>
+      <VERSION>6.0.314.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkID=91955</HELPLINK>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Microsoft Silverlight</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</UNINSTALL_STRING>
+      <VERSION>5.1.50918.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8D0A0EC6-9A3C-354F-9BFC-A61E96BE1846}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>18/10/2017</INSTALLDATE>
+      <NAME>Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - FRA</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>10.0.50903</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>14/08/2020</INSTALLDATE>
+      <NAME>Microsoft Office 64-bit Components 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-002A-0000-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-040C-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Microsoft Office Shared 64-bit MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-002A-040C-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90BF0360-A1DB-4599-A643-95AB90A52C1E}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC90_MFCLOC_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{90BF0360-A1DB-4599-A643-95AB90A52C1E}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{925D058B-564A-443A-B4B2-7E90C6432E55}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC80_ATL_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{925D058B-564A-443A-B4B2-7E90C6432E55}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{92A3CA0D-55CD-4C5D-BA95-5C2600C20F26}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC90_CRT_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{92A3CA0D-55CD-4C5D-BA95-5C2600C20F26}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9495AEB4-AB97-39DE-8C42-806EEF75ECA7}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>18/10/2017</INSTALLDATE>
+      <NAME>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{9495AEB4-AB97-39DE-8C42-806EEF75ECA7}</UNINSTALL_STRING>
+      <VERSION>10.0.50908</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{97238E8A-4919-4A1E-965A-C6C36938F4CE}</GUID>
+      <INSTALLDATE>19/10/2020</INSTALLDATE>
+      <NAME>Microsoft Update Health Tools</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{97238E8A-4919-4A1E-965A-C6C36938F4CE}</UNINSTALL_STRING>
+      <VERSION>2.68.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9FD91C5C-44AE-4D9D-85BE-AE52816B0294}</GUID>
+      <NAME>Intel(R) Serial IO</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Intel\Package Cache\{9FD91C5C-44AE-4D9D-85BE-AE52816B0294}\Setup.exe" -uninstall</UNINSTALL_STRING>
+      <VERSION>30.63.1519.7</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A2CB1ACB-94A2-32BA-A15E-7D80319F7589}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>04/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{A2CB1ACB-94A2-32BA-A15E-7D80319F7589}</UNINSTALL_STRING>
+      <VERSION>11.0.50727</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A472B9E4-0AFF-4F7B-B25D-F64F8E928AAB}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC90_MFC_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{A472B9E4-0AFF-4F7B-B25D-F64F8E928AAB}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC53FC8B-EE18-3F9C-9B59-60937D0B182C}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>04/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{AC53FC8B-EE18-3F9C-9B59-60937D0B182C}</UNINSTALL_STRING>
+      <VERSION>11.0.50727</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{ADC609D4-EC41-4E9D-851E-91EC132BCFAD}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>08/11/2017</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(a)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{ADC609D4-EC41-4E9D-851E-91EC132BCFAD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.ControlPanel</GUID>
+      <INSTALLDATE>08/06/2020</INSTALLDATE>
+      <NAME>Panneau de configuration NVIDIA 388.13</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <VERSION>388.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_installer</GUID>
+      <INSTALLDATE>08/06/2020</INSTALLDATE>
+      <NAME>NVIDIA Install Application</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <VERSION>2.1002.259.2253</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainer</GUID>
+      <INSTALLDATE>08/06/2020</INSTALLDATE>
+      <NAME>NVIDIA Display Container</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <VERSION>1.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainerLS</GUID>
+      <INSTALLDATE>08/06/2020</INSTALLDATE>
+      <NAME>NVIDIA Display Container LS</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <VERSION>1.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayPluginWatchdog</GUID>
+      <INSTALLDATE>08/06/2020</INSTALLDATE>
+      <NAME>NVIDIA Display Watchdog Plugin</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <VERSION>1.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplaySessionContainer</GUID>
+      <INSTALLDATE>08/06/2020</INSTALLDATE>
+      <NAME>NVIDIA Display Session Container</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>NVIDIA Corporation</PUBLISHER>
+      <VERSION>1.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{C8C1BAD5-54E6-4146-AD07-3A8AD36569C3}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC80_MFC_x86_x64</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{C8C1BAD5-54E6-4146-AD07-3A8AD36569C3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F88FE7C0-2B64-405B-9197-25F8BE135460}_is1</GUID>
+      <HELPLINK>http://www.solarwinds.com/</HELPLINK>
+      <INSTALLDATE>26/10/2020</INSTALLDATE>
+      <NAME>Advanced Monitoring Agent Network Management</NAME>
+      <PUBLISHER>Solarwinds Worldwide LLC</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files\Advanced Monitoring Agent Network Management\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.solarwinds.com/</URL_INFO_ABOUT>
+      <VERSION>41.7.0.27</VERSION>
+      <VERSION_MAJOR>41</VERSION_MAJOR>
+      <VERSION_MINOR>7</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F92D1FE8-D22C-4DFC-9B26-4EE0BDA72FD7}</GUID>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Intel(R) Management Engine Components</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{F92D1FE8-D22C-4DFC-9B26-4EE0BDA72FD7}</UNINSTALL_STRING>
+      <VERSION>1.0.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Installs Paint.NET</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{FF09A6A1-4DE5-467D-AA26-EF18C0EA4DAC}</GUID>
+      <HELPLINK>http://www.getpaint.net</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Paint.NET v3.30</NAME>
+      <PUBLISHER>dotPDN LLC</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{FF09A6A1-4DE5-467D-AA26-EF18C0EA4DAC}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.dotPDN.com</URL_INFO_ABOUT>
+      <VERSION>3.30.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.1198.18362.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe AIR</GUID>
+      <NAME>Adobe AIR</NAME>
+      <PUBLISHER>Adobe Systems Inc.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\Common Files\Adobe AIR\Versions\1.0\Resources\Adobe AIR Updater.exe -arp:uninstall</UNINSTALL_STRING>
+      <VERSION>2.5.1.17730</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Flash Player NPAPI</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <NAME>Adobe Flash Player 32 NPAPI</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>C:\WINDOWS\SysWOW64\Macromed\Flash\FlashUtil32_32_0_0_465_Plugin.exe -maintain plugin</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>32.0.0.465</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Adobe Shockwave Player</GUID>
+      <HELPLINK>http://www.adobe.com/support/shockwave</HELPLINK>
+      <NAME>Adobe Shockwave Player 12.2</NAME>
+      <PUBLISHER>Adobe Systems, Inc.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Windows\SysWOW64\Adobe\Shockwave 12\uninstaller.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.2.0.162</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Advanced Monitoring Agent_is1</GUID>
+      <INSTALLDATE>30/03/2020</INSTALLDATE>
+      <NAME>Advanced Monitoring Agent</NAME>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Advanced Monitoring Agent\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>chc.4875E02D9FB21EE389F73B8D1702B320485DF8CE.1</GUID>
+      <NAME>Adobe Community Help</NAME>
+      <PUBLISHER>Adobe Systems Incorporated.</PUBLISHER>
+      <UNINSTALL_STRING>msiexec /qb /x {3521BDBD-D453-5D9F-AA55-44B75D214629}</UNINSTALL_STRING>
+      <VERSION>3.4.980</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Simplified BSD License</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>CrystalDiskInfo_is1</GUID>
+      <HELPLINK>http://crystalmark.info/</HELPLINK>
+      <INSTALLDATE>16/03/2018</INSTALLDATE>
+      <NAME>CrystalDiskInfo 6.1.14</NAME>
+      <PUBLISHER>Crystal Dew World</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\CrystalDiskInfo\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://crystalmark.info/</URL_INFO_ABOUT>
+      <VERSION>6.1.14</VERSION>
+      <VERSION_MAJOR>6</VERSION_MAJOR>
+      <VERSION_MINOR>1</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FastStone Capture</GUID>
+      <NAME>FastStone Capture 7.6</NAME>
+      <PUBLISHER>FastStone Soft</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\FastStone Capture\uninst.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.faststone.org</URL_INFO_ABOUT>
+      <VERSION>7.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Foxit Reader_is1</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Foxit Reader</NAME>
+      <PUBLISHER>Foxit Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Foxit Software\Foxit Reader\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.foxitsoftware.com/?Language=en</URL_INFO_ABOUT>
+      <VERSION>6.0.5.618</VERSION>
+      <VERSION_MAJOR>6</VERSION_MAJOR>
+      <VERSION_MINOR>0</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Google Chrome</GUID>
+      <INSTALLDATE>08/12/2020</INSTALLDATE>
+      <NAME>Google Chrome</NAME>
+      <PUBLISHER>Google LLC</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.88\Installer\setup.exe" --uninstall --system-level --verbose-logging</UNINSTALL_STRING>
+      <VERSION>87.0.4280.88</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Notepad++</GUID>
+      <NAME>Notepad++</NAME>
+      <PUBLISHER>Notepad++ Team</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\Notepad++\uninstall.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://notepad-plus-plus.org/</URL_INFO_ABOUT>
+      <VERSION>6.4.3</VERSION>
+      <VERSION_MAJOR>6</VERSION_MAJOR>
+      <VERSION_MINOR>43</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Office15.PROPLUSR</GUID>
+      <NAME>Microsoft Office Professionnel Plus 2013</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Office Setup Controller\setup.exe" /uninstall PROPLUSR /dll OSETUP.DLL</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Opera 42.0.2393.137</GUID>
+      <HELPLINK>http://help.opera.com/?p=</HELPLINK>
+      <NAME>Opera Stable 42.0.2393.137</NAME>
+      <PUBLISHER>Opera Software</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Opera\Launcher.exe" /uninstall</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.opera.com/</URL_INFO_ABOUT>
+      <VERSION>42.0.2393.137</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Skype_is1</GUID>
+      <HELPLINK>https://support.skype.com/</HELPLINK>
+      <INSTALLDATE>12/11/2020</INSTALLDATE>
+      <NAME>Skype version 8.66</NAME>
+      <PUBLISHER>Skype Technologies S.A.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Microsoft\Skype for Desktop\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.skype.com/</URL_INFO_ABOUT>
+      <VERSION>8.66</VERSION>
+      <VERSION_MAJOR>8</VERSION_MAJOR>
+      <VERSION_MINOR>66</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Take Control Viewer_is1</GUID>
+      <INSTALLDATE>29/03/2020</INSTALLDATE>
+      <NAME>Take Control Viewer 13.0</NAME>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Take Control Viewer\unins000.exe"</UNINSTALL_STRING>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>TeamViewer</GUID>
+      <HELPLINK>http://www.teamviewer.com</HELPLINK>
+      <NAME>TeamViewer 13</NAME>
+      <PUBLISHER>TeamViewer</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Take Control Viewer\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>13.0.6447</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Ultravnc2_is1</GUID>
+      <HELPLINK>http://forum.ultravnc.info</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>UltraVnc</NAME>
+      <PUBLISHER>uvnc bvba</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\uvnc bvba\UltraVNC\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.uvnc.com</URL_INFO_ABOUT>
+      <VERSION>1.1.9.0</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>1</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>WinRAR archiver</GUID>
+      <NAME>WinRAR 5.30 (32-bit)</NAME>
+      <PUBLISHER>win.rar GmbH</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\WinRAR\uninstall.exe</UNINSTALL_STRING>
+      <VERSION>5.30.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>XnView_is1</GUID>
+      <INSTALLDATE>20/10/2017</INSTALLDATE>
+      <NAME>XnView 2.13</NAME>
+      <PUBLISHER>Gougelet Pierre-e</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\XnView\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.xnview.com</URL_INFO_ABOUT>
+      <VERSION>2.13</VERSION>
+      <VERSION_MAJOR>2</VERSION_MAJOR>
+      <VERSION_MINOR>13</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{033E378E-6AD3-4AD5-BDEB-CBD69B31046C}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC90_ATL_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{033E378E-6AD3-4AD5-BDEB-CBD69B31046C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{08D2E121-7F6A-43EB-97FD-629B44903403}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC90_CRT_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{08D2E121-7F6A-43EB-97FD-629B44903403}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{09AAAB09-6DBA-4DD9-9865-54597D3FBCA8}</GUID>
+      <INSTALLDATE>20/10/2017</INSTALLDATE>
+      <NAME>Antidote 8</NAME>
+      <PUBLISHER>Druide informatique inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{09AAAB09-6DBA-4DD9-9865-54597D3FBCA8}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://druide.com/</URL_INFO_ABOUT>
+      <VERSION>8.02.67</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{0F3647F8-E51D-4FCC-8862-9A8D0C5ACF25}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC80_ATL_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{0F3647F8-E51D-4FCC-8862-9A8D0C5ACF25}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{15134cb0-b767-4960-a911-f2d16ae54797}</GUID>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{15134cb0-b767-4960-a911-f2d16ae54797}\vcredist_x64.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.50727.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{1AAD0C51-CE9E-4ECD-BB2D-6981472569B1}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>MySQL Connector Net 6.6.5</NAME>
+      <PUBLISHER>Oracle</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{1AAD0C51-CE9E-4ECD-BB2D-6981472569B1}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.mysql.com</URL_INFO_ABOUT>
+      <VERSION>6.6.5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{22154f09-719a-4619-bb71-5b3356999fbf}</GUID>
+      <NAME>Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{22154f09-719a-4619-bb71-5b3356999fbf}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>11.0.50727.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2F73A7B2-E50E-39A6-9ABC-EF89E4C62E36}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>04/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{2F73A7B2-E50E-39A6-9ABC-EF89E4C62E36}</UNINSTALL_STRING>
+      <VERSION>11.0.50727</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{2FBD4A57-0F6B-4D4B-8B68-08E9EDE51F22}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>08/11/2017</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(a)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{2FBD4A57-0F6B-4D4B-8B68-08E9EDE51F22}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{35b83883-40fa-423c-ae73-2aff7e1ea820}</GUID>
+      <NAME>Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40649</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{35b83883-40fa-423c-ae73-2aff7e1ea820}\vcredist_x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>12.0.40649.5</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{39C534C5-A745-45C6-8277-CF3CBAAFE609}</GUID>
+      <INSTALLDATE>30/03/2020</INSTALLDATE>
+      <NAME>ScriptRunner.Installer 2.15.1.1</NAME>
+      <PUBLISHER>SolarWinds</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{39C534C5-A745-45C6-8277-CF3CBAAFE609}</UNINSTALL_STRING>
+      <VERSION>2.15.1.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4A03706F-666A-4037-7777-5F2748764D10}</GUID>
+      <INSTALLDATE>08/11/2017</INSTALLDATE>
+      <NAME>Java Auto Updater</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <VERSION>2.8.101.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{4B230374-6475-4A73-BA6E-41015E9C5013}</GUID>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Intel® Security Assist</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{4B230374-6475-4A73-BA6E-41015E9C5013}</UNINSTALL_STRING>
+      <VERSION>1.0.0.532</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>MySQL Connector/ODBC 5.2 is a MySQL database connector for ODBC.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{4ED756D2-7B91-41AC-9137-AFB9167DBB66}</GUID>
+      <HELPLINK>http://forums.mysql.com/list.php?37</HELPLINK>
+      <INSTALLDATE>08/11/2017</INSTALLDATE>
+      <NAME>MySQL Connector/ODBC 5.2(w)</NAME>
+      <PUBLISHER>Oracle Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{4ED756D2-7B91-41AC-9137-AFB9167DBB66}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://dev.mysql.com/downloads/connector/odbc/</URL_INFO_ABOUT>
+      <VERSION>5.2.4</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{52287860-5a62-405f-9c11-744235a4d1b5}</GUID>
+      <NAME>ScriptRunner Bootstrap Installer</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>SolarWinds</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{52287860-5a62-405f-9c11-744235a4d1b5}\ScriptRunner.Installer.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>2.15.1.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</GUID>
+      <INSTALLDATE>04/12/2020</INSTALLDATE>
+      <NAME>Google Update Helper</NAME>
+      <PUBLISHER>Google LLC</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}</UNINSTALL_STRING>
+      <VERSION>1.3.36.51</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Adobe Shockwave Player Merge Module</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{612C34C7-5E90-47D8-9B5C-0F717DD82726}</GUID>
+      <HELPLINK>http://www.adobe.com/support</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>swMSM</NAME>
+      <PUBLISHER>Adobe Systems, Inc</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{612C34C7-5E90-47D8-9B5C-0F717DD82726}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>12.0.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{635FED5B-2C6D-49BE-87E6-7A6FCD22BC5A}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC90_MFC_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{635FED5B-2C6D-49BE-87E6-7A6FCD22BC5A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{68723B04-57EC-11E1-A6A8-9E2D4824019B}</GUID>
+      <HELPLINK>http://support.techsmith.com</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Snagit 11</NAME>
+      <PUBLISHER>TechSmith Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{68723B04-57EC-11E1-A6A8-9E2D4824019B}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.techsmith.com</URL_INFO_ABOUT>
+      <VERSION>11.1.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{69BCE4AC-9572-3271-A2FB-9423BDA36A43}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>18/05/2018</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{69BCE4AC-9572-3271-A2FB-9423BDA36A43}</UNINSTALL_STRING>
+      <VERSION>14.0.24215</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Apple Software Update</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr</URL_INFO_ABOUT>
+      <VERSION>2.1.3.127</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{8833FFB6-5B0C-4764-81AA-06DFEED9A476}</GUID>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Realtek Ethernet Controller Driver</NAME>
+      <PUBLISHER>Realtek</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\InstallShield Installation Information\{8833FFB6-5B0C-4764-81AA-06DFEED9A476}\setup.exe -runfromtemp -removeonly</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.realtek.com</URL_INFO_ABOUT>
+      <VERSION>10.3.723.2015</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0015-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>11/09/2020</INSTALLDATE>
+      <NAME>Microsoft Access MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-0015-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0015-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{05EEB900-97DD-4974-86FB-46B56E5B122B}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2850036</HELPLINK>
+      <NAME>Service Pack 1 for Microsoft Office 2013 (KB2850036) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0015-040C-0000-0000000FF1CE}" "{05EEB900-97DD-4974-86FB-46B56E5B122B}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2850036</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0015-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{16F64A9D-6561-4378-98F2-BD2095B78511}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3039720</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3039720) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0015-040C-0000-0000000FF1CE}" "{16F64A9D-6561-4378-98F2-BD2095B78511}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3039720</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0015-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{40AD5320-0F0A-4E1E-9D6B-40D584603252}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4484366</HELPLINK>
+      <NAME>Security Update for Microsoft Access 2013 (KB4484366) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0015-040C-0000-0000000FF1CE}" "{40AD5320-0F0A-4E1E-9D6B-40D584603252}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4484366</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0016-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>Microsoft Excel MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-0016-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0016-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{68AD8B09-DD14-4875-A4DB-E04F6FF7ECCB}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3191872</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3191872) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0016-040C-0000-0000000FF1CE}" "{68AD8B09-DD14-4875-A4DB-E04F6FF7ECCB}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3191872</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0016-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{6D790E6B-F90C-4E4E-A041-AFAE31E94375}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4486734</HELPLINK>
+      <NAME>Security Update for Microsoft Excel 2013 (KB4486734) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0016-040C-0000-0000000FF1CE}" "{6D790E6B-F90C-4E4E-A041-AFAE31E94375}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4486734</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0016-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{B42BFC34-EAA9-482C-B4D5-A8EEC0AF0C0C}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3162051</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB3162051) 32-Bit Edition</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0016-040C-0000-0000000FF1CE}" "{B42BFC34-EAA9-482C-B4D5-A8EEC0AF0C0C}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3162051</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0016-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{C289B757-6E96-4525-8390-77CFDCF803F8}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3054819</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3054819) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0016-040C-0000-0000000FF1CE}" "{C289B757-6E96-4525-8390-77CFDCF803F8}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3054819</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0018-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>Microsoft PowerPoint MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-0018-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0018-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{5C33F53E-7600-4F39-A351-BE796EF2E6BA}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4484349</HELPLINK>
+      <NAME>Update for Microsoft PowerPoint 2013 (KB4484349) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0018-040C-0000-0000000FF1CE}" "{5C33F53E-7600-4F39-A351-BE796EF2E6BA}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4484349</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0019-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Microsoft Publisher MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-0019-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0019-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{C9C3712D-C393-4389-9A75-C4DBF8075DB5}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3162033</HELPLINK>
+      <NAME>Security Update for Microsoft Publisher 2013 (KB3162033) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-0019-040C-0000-0000000FF1CE}" "{C9C3712D-C393-4389-9A75-C4DBF8075DB5}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3162033</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001A-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>Microsoft Outlook MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-001A-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001A-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{3A2EB2A7-9F2D-4FA0-AE80-AD1A5A02A7AA}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3054854</HELPLINK>
+      <NAME>Update for Microsoft Outlook Social Connector 2013 (KB3054854) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-001A-040C-0000-0000000FF1CE}" "{3A2EB2A7-9F2D-4FA0-AE80-AD1A5A02A7AA}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3054854</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001A-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{83B9C3DD-DFC1-497E-94BE-1F30E69A1147}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4486730</HELPLINK>
+      <NAME>Security Update for Microsoft Word 2013 (KB4486730) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-001A-040C-0000-0000000FF1CE}" "{83B9C3DD-DFC1-497E-94BE-1F30E69A1147}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4486730</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001A-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{FCA10D79-932E-4335-96DD-A23843E95AAA}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4484524</HELPLINK>
+      <NAME>Security Update for Microsoft Outlook 2013 (KB4484524) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-001A-040C-0000-0000000FF1CE}" "{FCA10D79-932E-4335-96DD-A23843E95AAA}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4484524</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001B-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>Microsoft Word MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-001B-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001F-0401-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Microsoft Office Proofing Tools 2013 - ????? ???????</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-001F-0401-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001F-0401-0000-0000000FF1CE}_Office15.PROPLUSR_{19141D5E-18DA-4811-A5F0-5D0820BB2170}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011677</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB4011677) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-001F-0401-0000-0000000FF1CE}" "{19141D5E-18DA-4811-A5F0-5D0820BB2170}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011677</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001F-0407-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Microsoft Office Korrekturhilfen 2013 - Deutsch</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-001F-0407-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001F-0409-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Microsoft Office Proofing Tools 2013 - English</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-001F-0409-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001F-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Outils de vérification linguistique 2013 de Microsoft Office - Français</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-001F-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001F-0413-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Microsoft Office Proofing Tools 2013 - Nederlands</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-001F-0413-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-001F-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Microsoft Office Proofing Tools 2013 - Español</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-001F-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{0359ABD1-5FD5-489D-851D-303BF7C5BBBE}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3178640</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3178640) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{0359ABD1-5FD5-489D-851D-303BF7C5BBBE}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3178640</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{0D50B52F-AB5A-44B7-A67C-2DE4F61443D0}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3172545</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3172545) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{0D50B52F-AB5A-44B7-A67C-2DE4F61443D0}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3172545</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{2113B49B-7A19-4592-863E-CD4124792AAE}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3039798</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB3039798) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{2113B49B-7A19-4592-863E-CD4124792AAE}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3039798</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{6120444C-EB75-452F-A0EA-1ADADC4B4B3F}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3114946</HELPLINK>
+      <NAME>Update for Microsoft InfoPath 2013 (KB3114946) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{6120444C-EB75-452F-A0EA-1ADADC4B4B3F}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3114946</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{74D83E37-8337-4F2A-BEE5-C5FF0828EA18}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4484450</HELPLINK>
+      <NAME>Security Update for Microsoft Project 2013 (KB4484450) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{74D83E37-8337-4F2A-BEE5-C5FF0828EA18}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4484450</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{AF09D88A-0206-40F1-B7A0-AE15CCFAC61A}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011281</HELPLINK>
+      <NAME>Update for Microsoft OneNote 2013 (KB4011281) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{AF09D88A-0206-40F1-B7A0-AE15CCFAC61A}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011281</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{BF493817-CADD-4F13-BB51-598FBABB521A}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3039756</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3039756) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{BF493817-CADD-4F13-BB51-598FBABB521A}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3039756</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{C220C72E-39CD-4DC0-A3C1-6C11E988C322}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3172522</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB3172522) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{C220C72E-39CD-4DC0-A3C1-6C11E988C322}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3172522</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{F97B139A-D8BF-46FF-A6F6-50710FED8644}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4484289</HELPLINK>
+      <NAME>Update for Skype for Business 2015 (KB4484289) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{F97B139A-D8BF-46FF-A6F6-50710FED8644}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4484289</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002A-0000-1000-0000000FF1CE}_Office15.PROPLUSR_{FB83D80E-C78E-41B0-8D08-4FAD6889E867}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4022226</HELPLINK>
+      <NAME>Update for Microsoft OneDrive for Business (KB4022226) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-002A-0000-1000-0000000FF1CE}" "{FB83D80E-C78E-41B0-8D08-4FAD6889E867}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4022226</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-002C-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>19/10/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proofing (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-002C-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0044-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>08/11/2017</INSTALLDATE>
+      <NAME>Microsoft InfoPath MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-0044-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-006E-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>Microsoft Office Shared MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-006E-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-006E-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{18D2E3B4-34A4-49A7-9E08-6A35049A7F89}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4022188</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB4022188) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-040C-0000-0000000FF1CE}" "{18D2E3B4-34A4-49A7-9E08-6A35049A7F89}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4022188</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-006E-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{25C61889-2E44-4BE1-9E96-9364BFDCF501}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2817301</HELPLINK>
+      <NAME>Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-040C-0000-0000000FF1CE}" "{25C61889-2E44-4BE1-9E96-9364BFDCF501}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2817301</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-006E-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{66B828E2-7C7D-46AF-93AB-5C2DAA285260}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3213564</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB3213564) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-040C-0000-0000000FF1CE}" "{66B828E2-7C7D-46AF-93AB-5C2DAA285260}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3213564</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-006E-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{8F06E003-670A-4439-A5FC-D8E60319C163}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4484520</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB4484520) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-040C-0000-0000000FF1CE}" "{8F06E003-670A-4439-A5FC-D8E60319C163}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4484520</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-006E-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{A307C185-0F73-4954-9977-3558DFD4097B}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4484469</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB4484469) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-040C-0000-0000000FF1CE}" "{A307C185-0F73-4954-9977-3558DFD4097B}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4484469</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-006E-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{C9FA9F17-F614-4338-A4CB-40B1E7D57157}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4475562</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB4475562) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-040C-0000-0000000FF1CE}" "{C9FA9F17-F614-4338-A4CB-40B1E7D57157}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4475562</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-006E-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{EBB64A55-FA3E-42EE-A4C3-1E427F867C55}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011580</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB4011580) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-040C-0000-0000000FF1CE}" "{EBB64A55-FA3E-42EE-A4C3-1E427F867C55}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011580</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-006E-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{FC017EDD-645B-44D8-9D84-623DE069F1B9}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3023052</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3023052) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-006E-040C-0000-0000000FF1CE}" "{FC017EDD-645B-44D8-9D84-623DE069F1B9}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3023052</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-0090-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>08/11/2017</INSTALLDATE>
+      <NAME>Microsoft DCF MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-0090-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-00A1-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>16/05/2018</INSTALLDATE>
+      <NAME>Microsoft OneNote MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-00A1-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-00BA-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>22/05/2020</INSTALLDATE>
+      <NAME>Microsoft Groove MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-00BA-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-00E1-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>19/10/2017</INSTALLDATE>
+      <NAME>Microsoft Office OSM MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-00E1-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-00E2-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>19/10/2017</INSTALLDATE>
+      <NAME>Microsoft Office OSM UX MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-00E2-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-012B-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>Microsoft Lync MUI (French) 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{90150000-012B-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90150000-012B-040C-0000-0000000FF1CE}_Office15.PROPLUSR_{51ACADB4-830D-41A6-82C5-C7AE9437E349}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3191937</HELPLINK>
+      <NAME>Security Update for Skype for Business 2015 (KB3191937) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{90150000-012B-040C-0000-0000000FF1CE}" "{51ACADB4-830D-41A6-82C5-C7AE9437E349}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3191937</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>11/12/2020</INSTALLDATE>
+      <NAME>Microsoft Office Professional Plus 2013</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{91150000-0011-0000-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>15.0.4569.1506</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{07BE4996-5557-4A17-9B98-AD57883607EA}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3101503</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3101503) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{07BE4996-5557-4A17-9B98-AD57883607EA}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3101503</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{19001452-D3D5-43C6-A605-2E14D508031E}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4022181</HELPLINK>
+      <NAME>Update for Microsoft InfoPath 2013 (KB4022181) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{19001452-D3D5-43C6-A605-2E14D508031E}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4022181</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{1CFB07F8-17F2-4C42-8D83-4E65947141F0}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4022189</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB4022189) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{1CFB07F8-17F2-4C42-8D83-4E65947141F0}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4022189</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{1DAE7910-8713-4647-AB09-CD27DA5BA1B7}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4462200</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB4462200) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{1DAE7910-8713-4647-AB09-CD27DA5BA1B7}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4462200</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{2FDF7953-75A9-4341-A769-EC0CAA09FFF3}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4018378</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB4018378) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{2FDF7953-75A9-4341-A769-EC0CAA09FFF3}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4018378</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{36AF42FA-AF90-4A4F-BC2D-2D4863818E65}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3039795</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3039795) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{36AF42FA-AF90-4A4F-BC2D-2D4863818E65}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3039795</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{3E85EA04-CC23-4345-BF2E-4615CD1BDEF9}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4486725</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB4486725) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{3E85EA04-CC23-4345-BF2E-4615CD1BDEF9}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4486725</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{42064CFD-BA0C-4FA7-BC6B-1192C2F6DDFD}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3162081</HELPLINK>
+      <NAME>Update for Microsoft Word 2013 (KB3162081) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{42064CFD-BA0C-4FA7-BC6B-1192C2F6DDFD}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3162081</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{4B7382DD-C92C-4942-BFE6-9B892B915E5C}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3039766</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3039766) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{4B7382DD-C92C-4942-BFE6-9B892B915E5C}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3039766</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{52064DE8-AF91-4EAC-8B57-CECA10E8C1C0}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2889863</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB2889863) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{52064DE8-AF91-4EAC-8B57-CECA10E8C1C0}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2889863</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{5C568FE6-A269-4A88-8256-DC1A8B89E622}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3114488</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3114488) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{5C568FE6-A269-4A88-8256-DC1A8B89E622}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3114488</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{5C7851D1-B548-4BFE-A4FC-DF1967857A47}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3039794</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB3039794) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{5C7851D1-B548-4BFE-A4FC-DF1967857A47}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3039794</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{75E6FEE4-6D68-4530-83CE-0EBA30169E3D}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3172473</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3172473) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{75E6FEE4-6D68-4530-83CE-0EBA30169E3D}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3172473</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{7A9AB1AE-98B5-4B45-86B8-33A7B946D7CA}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2883095</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB2883095) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{7A9AB1AE-98B5-4B45-86B8-33A7B946D7CA}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2883095</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{83DE9B8F-E294-411F-977F-4707E6424BBB}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3039701</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3039701) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{83DE9B8F-E294-411F-977F-4707E6424BBB}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3039701</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{85ABCD64-B0FF-4A00-BFF7-090CDFA96C1C}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3213536</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3213536) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{85ABCD64-B0FF-4A00-BFF7-090CDFA96C1C}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3213536</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{87F6726E-6F99-42F0-8E11-55D798E57DD5}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2899522</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB2899522) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{87F6726E-6F99-42F0-8E11-55D798E57DD5}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2899522</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{8D1685F4-1C36-4AB5-ACC0-486A6BE71435}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3039778</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3039778) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{8D1685F4-1C36-4AB5-ACC0-486A6BE71435}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3039778</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{8EA03F4D-754D-42D0-980B-5D803363EC99}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3172533</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3172533) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{8EA03F4D-754D-42D0-980B-5D803363EC99}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3172533</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{96903939-431D-4BD1-ADCD-B578900397D7}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3115404</HELPLINK>
+      <NAME>Definition Update for Microsoft Office 2013 (KB3115404) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{96903939-431D-4BD1-ADCD-B578900397D7}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3115404</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{A7610F07-E844-4444-8E1D-D5BC8AD0B4C5}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2760344</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB2760344) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{A7610F07-E844-4444-8E1D-D5BC8AD0B4C5}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2760344</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{A7A41ACD-C1EA-4628-BCD2-8CA7AA8DDB29}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011155</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB4011155) 32-Bit Edition</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{A7A41ACD-C1EA-4628-BCD2-8CA7AA8DDB29}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011155</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{AA8C16EA-D595-47E0-9F49-101C11B860E8}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3085587</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3085587) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{AA8C16EA-D595-47E0-9F49-101C11B860E8}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3085587</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{B2B5F640-E7C8-4DAC-AF41-35FAE36FE2F6}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3085565</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3085565) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{B2B5F640-E7C8-4DAC-AF41-35FAE36FE2F6}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3085565</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{B61C3564-4E7B-49FE-9220-9836DBC49BB7}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3172471</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3172471) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{B61C3564-4E7B-49FE-9220-9836DBC49BB7}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3172471</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{BB92A877-3443-4FAF-B4BB-470B9792AFBE}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3114499</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3114499) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{BB92A877-3443-4FAF-B4BB-470B9792AFBE}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3114499</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{C90D79C2-2B75-493B-9850-E8677FD7B1E1}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3127916</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3127916) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{C90D79C2-2B75-493B-9850-E8677FD7B1E1}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3127916</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{E120DA1F-58C9-4120-8238-C47604EE8535}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4484435</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB4484435) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{E120DA1F-58C9-4120-8238-C47604EE8535}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4484435</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{E1D33B9C-5084-455B-B7DC-32420084D759}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4092455</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB4092455) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{E1D33B9C-5084-455B-B7DC-32420084D759}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4092455</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{E4B6204A-AC54-477D-9AEF-3D420EF162A2}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3023049</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3023049) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{E4B6204A-AC54-477D-9AEF-3D420EF162A2}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3023049</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{FB111BDB-315E-4D9B-A337-AAA7E4B20571}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3039746</HELPLINK>
+      <NAME>Security Update for Microsoft Office 2013 (KB3039746) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{FB111BDB-315E-4D9B-A337-AAA7E4B20571}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3039746</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{FC519FD8-5B83-4761-B02C-13DF5B2D9598}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4022212</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB4022212) 32-Bit Edition</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{FC519FD8-5B83-4761-B02C-13DF5B2D9598}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4022212</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{FDF6648B-BF62-4CC7-94D3-0944ACD4A07D}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3172523</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3172523) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{FDF6648B-BF62-4CC7-94D3-0944ACD4A07D}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3172523</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{FF0A4C57-A2D2-4ACA-9DF5-23DB94A718A1}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3054856</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB3054856) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{FF0A4C57-A2D2-4ACA-9DF5-23DB94A718A1}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3054856</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{91150000-0011-0000-0000-0000000FF1CE}_Office15.PROPLUSR_{FFF87DE6-6602-4F65-BD75-D481E0539DCD}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2760371</HELPLINK>
+      <NAME>Update for Microsoft Office 2013 (KB2760371) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftP</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE15\Oarpmany.exe" /removereleaseinpatch "{91150000-0011-0000-0000-0000000FF1CE}" "{FFF87DE6-6602-4F65-BD75-D481E0539DCD}" "1036" "0"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2760371</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9158FF30-78D7-40EF-B83E-451AC5334640}</GUID>
+      <NAME>Adobe Photoshop CS5.1</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core\PDApp.exe --appletID="DWA_UI" --appletVersion="1.0" --mode="Uninstall" --mediaSignature="{9158FF30-78D7-40EF-B83E-451AC5334640}"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com/go/ps_support</URL_INFO_ABOUT>
+      <VERSION>12.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{92154A3C-9BB7-49D7-A571-4EB6373FA5AD}</GUID>
+      <INSTALLDATE>20/10/2017</INSTALLDATE>
+      <NAME>Assistant de téléchargement</NAME>
+      <PUBLISHER>Druide informatique inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{92154A3C-9BB7-49D7-A571-4EB6373FA5AD}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.druide.com</URL_INFO_ABOUT>
+      <VERSION>6.65.13</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{92D58719-BBC1-4CC3-A08B-56C9E884CC2C}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC80_CRT_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{92D58719-BBC1-4CC3-A08B-56C9E884CC2C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9C5118F7-E26D-4fc0-B7F4-4A067A0808FA}_is1</GUID>
+      <HELPLINK>http://www.iopus.com</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>iMacros Version 9.0.0.2379</NAME>
+      <PUBLISHER>iOpus</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\iOpus\iMacros\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.iopus.com</URL_INFO_ABOUT>
+      <VERSION>9.0.0.2379</VERSION>
+      <VERSION_MAJOR>9</VERSION_MAJOR>
+      <VERSION_MINOR>0</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A3755312-4264-41d0-91CF-C0633F7ADF3B}_is1</GUID>
+      <HELPLINK>http://www.gilisoft.com/support.php</HELPLINK>
+      <INSTALLDATE>19/10/2017</INSTALLDATE>
+      <NAME>GiliSoft USB Lock 3.1</NAME>
+      <PUBLISHER>Gilisoft International LLC.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\GiliSoft\USB Lock\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.gilisoft.com/</URL_INFO_ABOUT>
+      <VERSION>3.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>LibreOffice 4.4 (multilanguage)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A651A592-2F6C-4D66-AEA8-9BFE4B61BCB3}</GUID>
+      <HELPLINK>http://www.libreoffice.org/get-help</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>LibreOffice 4.4.3.2</NAME>
+      <PUBLISHER>The Document Foundation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{A651A592-2F6C-4D66-AEA8-9BFE4B61BCB3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.documentfoundation.org</URL_INFO_ABOUT>
+      <VERSION>4.4.3.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A78FE97A-C0C8-49CE-89D0-EDD524A17392}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>PDF Settings CS5</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{A78FE97A-C0C8-49CE-89D0-EDD524A17392}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>10.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{A8589745-51BC-3963-B4E9-201CF8693538}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>29/03/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40649</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{A8589745-51BC-3963-B4E9-201CF8693538}</UNINSTALL_STRING>
+      <VERSION>12.0.40649</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{A92DAB39-4E2C-4304-9AB6-BC44E68B55E2}</GUID>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Google Update Helper</NAME>
+      <PUBLISHER>Google Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{A92DAB39-4E2C-4304-9AB6-BC44E68B55E2}</UNINSTALL_STRING>
+      <VERSION>1.3.21.115</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-0804-1033-1959-001824237067}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>16/10/2017</INSTALLDATE>
+      <NAME>Adobe Refresh Manager</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-0804-1033-1959-001824237067}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.8.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>  </COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-1033-FFFF-7760-000000000006}</GUID>
+      <HELPLINK>http://www.adobe.fr/support/main.html</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Adobe Acrobat XI Pro</NAME>
+      <PUBLISHER>Adobe Systems</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-1033-FFFF-7760-000000000006}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>11.0.06</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AF0CE7C0-A3E4-4D73-988B-B29187EC6E9A}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>QuickTime</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{AF0CE7C0-A3E4-4D73-988B-B29187EC6E9A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr/</URL_INFO_ABOUT>
+      <VERSION>7.73.80.64</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B6D38690-755E-4F40-A35A-23F8BC2B86AC}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC90_MFCLOC_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{B6D38690-755E-4F40-A35A-23F8BC2B86AC}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.00.0000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B7AFAF92-D1C8-49A0-B34A-B5DAF9C9D5C6}</GUID>
+      <INSTALLDATE>04/12/2017</INSTALLDATE>
+      <NAME>UpdateAssistant</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{B7AFAF92-D1C8-49A0-B34A-B5DAF9C9D5C6}</UNINSTALL_STRING>
+      <VERSION>1.9.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{BBF2AC74-720C-3CB3-8291-5E34039232FA}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>18/05/2018</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{BBF2AC74-720C-3CB3-8291-5E34039232FA}</UNINSTALL_STRING>
+      <VERSION>14.0.24215</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{BD868C41-BB9B-4AA7-A3F1-DB1FA1A02610}</GUID>
+      <HELPLINK>http://odbc.postgresql.org/</HELPLINK>
+      <INSTALLDATE>08/11/2017</INSTALLDATE>
+      <NAME>psqlODBC</NAME>
+      <PUBLISHER>PostgreSQL Global Development Team</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{BD868C41-BB9B-4AA7-A3F1-DB1FA1A02610}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://odbc.postgresql.org/</URL_INFO_ABOUT>
+      <VERSION>07.02.0005</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{c7f54569-0018-439c-809a-48046a4d4ebc}</GUID>
+      <NAME>Logiciel pour périphérique à chipset Intel®</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Intel(R) Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{c7f54569-0018-439c-809a-48046a4d4ebc}\SetupChipset.exe"  /uninstall</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.intel.com</URL_INFO_ABOUT>
+      <VERSION>10.1.1.9</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D1A19B02-817E-4296-A45B-07853FD74D57}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC80_MFC_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D1A19B02-817E-4296-A45B-07853FD74D57}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D7D20EB4-BD89-05C0-05C6-33E5B762989E}</GUID>
+      <HELPLINK>http://support.amd.com</HELPLINK>
+      <INSTALLDATE>04/12/2017</INSTALLDATE>
+      <NAME>Catalyst Control Center InstallProxy</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>Advanced Micro Devices, Inc.</PUBLISHER>
+      <URL_INFO_ABOUT>http://www.amd.com</URL_INFO_ABOUT>
+      <VERSION>2015.1104.1643.30033</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{D92BBB52-82FF-42ED-8A3C-4E062F944AB7}</GUID>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Microsoft_VC80_MFCLOC_x86</NAME>
+      <PUBLISHER>Adobe</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{D92BBB52-82FF-42ED-8A3C-4E062F944AB7}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.Adobe.com</URL_INFO_ABOUT>
+      <VERSION>8.0.50727.4053</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{DEA7F8E3-B7B9-3C3C-945B-7F8CE9041748}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>29/03/2020</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40649</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{DEA7F8E3-B7B9-3C3C-945B-7F8CE9041748}</UNINSTALL_STRING>
+      <VERSION>12.0.40649</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{e2803110-78b3-4664-a479-3611a381656a}</GUID>
+      <NAME>Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\ProgramData\Package Cache\{e2803110-78b3-4664-a479-3611a381656a}\VC_redist.x86.exe"  /uninstall</UNINSTALL_STRING>
+      <VERSION>14.0.24215.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EE04522C-0814-4B63-AE57-0B63E5A355BB}_is1</GUID>
+      <HELPLINK>http://www.palit.biz/</HELPLINK>
+      <INSTALLDATE>05/10/2017</INSTALLDATE>
+      <NAME>Thunder Master v2.24</NAME>
+      <PUBLISHER>Palit Microsystems Ltd.</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Thunder Master\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.palit.biz/</URL_INFO_ABOUT>
+      <VERSION>2.24.0.4</VERSION>
+      <VERSION_MAJOR>2</VERSION_MAJOR>
+      <VERSION_MINOR>24</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=146008</HELPLINK>
+      <INSTALLDATE>18/10/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</UNINSTALL_STRING>
+      <VERSION>10.0.40219</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F0E3AD40-2BBD-4360-9C76-B9AC9A5886EA}</GUID>
+      <NAME>Intel(R) Processor Graphics</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\Uninstall\setup.exe" -uninstall</UNINSTALL_STRING>
+      <VERSION>20.19.15.4483</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F12000CE-0001-0000-0000-074957833700}</GUID>
+      <HELPLINK>http://go.abbyy.com/?Product=FR&amp;ParentProduct=Finereader&amp;MajorVersion=12&amp;Target=OnlineHelp&amp;Source=Install&amp;Language=1036&amp;Version=12.1.439&amp;Edition=Corporate</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>ABBYY FineReader 12 Corporate</NAME>
+      <PUBLISHER>ABBYY Production LLC</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{F12000CE-0001-0000-0000-074957833700}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://go.abbyy.com/?Product=FR&amp;ParentProduct=Finereader&amp;MajorVersion=12&amp;Target=Support&amp;Source=Install&amp;Language=1036&amp;Version=12.1.439&amp;Edition=Corporate</URL_INFO_ABOUT>
+      <VERSION>12.1.439</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}</GUID>
+      <NAME>Realtek High Definition Audio Driver</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <UNINSTALL_STRING>C:\Program Files\Realtek\Audio\HDA\RtlUpd64.exe -r -m -nrg2709</UNINSTALL_STRING>
+      <VERSION>6.0.1.7899</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F5266D28-E0B2-4130-BFC5-EE155AD514DC}</GUID>
+      <HELPLINK>http://www.apple.com/fr/support/</HELPLINK>
+      <INSTALLDATE>17/10/2017</INSTALLDATE>
+      <NAME>Apple Application Support</NAME>
+      <PUBLISHER>Apple Inc.</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /I{F5266D28-E0B2-4130-BFC5-EE155AD514DC}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.apple.com/fr</URL_INFO_ABOUT>
+      <VERSION>2.3</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>{FDB30193-FDA0-3DAA-ACCA-A75EEFE53607}</GUID>
+      <HELPLINK>http://go.microsoft.com/fwlink/?LinkId=133405</HELPLINK>
+      <INSTALLDATE>04/12/2017</INSTALLDATE>
+      <NAME>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <UNINSTALL_STRING>MsiExec.exe /X{FDB30193-FDA0-3DAA-ACCA-A75EEFE53607}</UNINSTALL_STRING>
+      <VERSION>11.0.50727</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.1198.18362.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4578974</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4517245</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4537759</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4552152</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4560959</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4561600</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4565554</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4569073</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4576751</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4580325</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4586863</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <NAME>KB4586786</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>NVIDIA High Definition Audio</CAPTION>
+      <DESCRIPTION>NVIDIA High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>NVIDIA</MANUFACTURER>
+      <NAME>NVIDIA High Definition Audio</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>Realtek High Definition Audio</CAPTION>
+      <DESCRIPTION>Realtek High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Realtek</MANUFACTURER>
+      <NAME>Realtek High Definition Audio</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <DISKSIZE>1000204</DISKSIZE>
+      <FIRMWARE>01.01A01</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>WDC WD10EZEX-60WN4A0</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>3</SCSI_UNID>
+      <SERIAL>WD-WCC6Y7DC2KZZ</SERIAL>
+      <SERIALNUMBER>WD-WCC6Y7DC2KZZ</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>Optical Mouse</CAPTION>
+      <MANUFACTURER>Pixart Imaging, Inc.</MANUFACTURER>
+      <NAME>Optical Mouse</NAME>
+      <PRODUCTID>2510</PRODUCTID>
+      <VENDORID>093A</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>USB Composite Device</CAPTION>
+      <MANUFACTURER>China Resource Semico Co., Ltd</MANUFACTURER>
+      <NAME>USB Composite Device</NAME>
+      <PRODUCTID>2124</PRODUCTID>
+      <VENDORID>1A2C</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>PC-ING-324C</DOMAIN>
+      <LOGIN>user</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.17</VERSIONCLIENT>
+    <VIDEOS>
+      <CHIPSET>GeForce GT 610</CHIPSET>
+      <NAME>NVIDIA GeForce GT 610</NAME>
+      <RESOLUTION>1920x1080</RESOLUTION>
+    </VIDEOS>
+  </CONTENT>
+  <DEVICEID>PC-ING-324C-2020-10-27-17-47-31</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>
